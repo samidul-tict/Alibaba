@@ -3,10 +3,10 @@ const mysql = require('mysql');
 //* Database connection *//
 
 const connection = mysql.createPool({
-    host : "alibabasql.ciss3afmkxid.ap-south-1.rds.amazonaws.com",
-    user : "aliadmin",
-    password : "vHH8oQMrUuwHmjJN", //Orginal Password jdhhfi@Hyug%^456					
-    database : "alibaba",
+    host : "abc.com",
+    user : "abc",
+    password : "xyz",				
+    database : "test",
     port : "3306",
     multipleStatements: true,
     dateStrings: true,
