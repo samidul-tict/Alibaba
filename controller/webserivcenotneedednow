@@ -1,0 +1,84 @@
+ userPost : (req,res)=>{
+        jwt.verify(req.token,'secretkey',(err)=>{
+            if(err) throw err; 
+            // FullName =  req.body.fullname;
+            UserName =  req.body.username;
+            // EmailId =  req.body.email;
+            // Phone =  req.body.phone;
+            UserPassword =  req.body.password;
+            // console.log(FullName,UserName,EmailId,Phone,UserPassword);   alibaba_db.    (`IN_Username`,`IN_Password`) VALUES
+        
+            // let sql ="INSERT INTO `usermaster` (`FullName`,`UserName`,`EmailId`,`Phone`,`UserPassword`) VALUES('"+FullName+"','"+UserName+"','"+EmailId+"','"+Phone+"','"+UserPassword+"')";
+            // let sql ="call admin_user_login ('admin3','sanjib@123')";
+            let sql ="call admin_user_login  ('"+UserName+"','"+UserPassword+"') ";
+            connection.query(sql,(err,result)=>{
+            if (err) throw err;
+            res.json(result);
+            });
+        });
+    },
+
+
+
+
+  // console.log(productid);
+                // connection.query('SELECT * FROM productmaster WHERE ProductId =? OR Name = ?',[productid,name],(err,docs)=>{
+
+                //     if(docs.length>0){ 
+                //         res.setHeader('Access-Control-Allow-Origin', '*');
+                //         res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE'); 
+                //         res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type'); // If needed
+                //         res.setHeader('Access-Control-Allow-Credentials', true);                     
+                //         res.json({'status':'401',message:"Items Already Registered"})
+                //         res.end();
+                    // }else{
+
+(`CategoryId`,`Name`,`Pcs`,`StandardPrice`,`CreatedBy`) VALUES
+
+
+
+     // let sql ="INSERT INTO `webservicetoken` (`token`) VALUES ('"+token+"')";
+                                // connection.query(sql,(err,result)=>{
+                                //     if (err) throw err; console.log("Token Inserted");
+                                //          });                      
+                                // });
+                                // }  
+                                // else{
+                                //     console.log("error");
+                                //     }    
+
+
+FileUpload :  (req,res)=>{
+        let file = req.files.uploadfile;
+        let filename = file.name;
+        fs.rename(filename,'data.xlsx',(err)=>{
+            file.mv('./public/uploads/'+'data.xlsx',(err)=>{
+                if(err) throw err;                
+                var workbook = XLSX.readFile('./public/uploads/data.xlsx');
+                var sheet_name_list = workbook.SheetNames;
+                var xlData = XLSX.utils.sheet_to_json(workbook.Sheets[sheet_name_list[0]]);
+                xlData.find((data)=>{                                   
+                var IN_Category =  data.Category;
+                var IN_Name =  data.ProductName;
+                var IN_Pcs =  data.Pcs;
+                var IN_StandardPrice =  data.Price;
+                var IN_CreatedBy = data.CreatedBy;     
+                connection.query('SELECT * FROM productmaster WHERE Name = ?',[IN_Name],(err,docs)=>{
+                // if(err) throw err;
+                if (docs.length>0){
+                        return new Promise((data)=>{
+                            res.json({'status':401,message:"sucessfully uploaded"})})                            
+                }else{
+                let productfile = "CALL insert_productmaster_exceldata ('"+IN_Category+"','"+IN_Name+"','"+IN_Pcs+"','"+IN_StandardPrice+"','"+IN_CreatedBy+"') ";
+                    connection.query(productfile,(err,results)=>{
+                        // if(err) throw err;
+                        return new Promise((docs)=>{                            
+                            res.send({"status":"200","data":"Product Registration sucessfully done"});
+                            })                    
+                        }); 
+                    }
+                 })              
+             })
+         })        
+    })
+}                       

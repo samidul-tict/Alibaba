@@ -1,0 +1,5448 @@
+# Webalizer V2.23-08 Incremental Data - 09/19/2020 18:19:31
+2020 9 19 18 19 31
+61283 28302 222 2205 65 43 990320542 48892 731 0
+14 19 3512 1 19
+13371 5463 175959838 21 10504 147
+7370 3009 98406137 16 5778 105
+3766 1801 82772911 10 2809 32
+1871 987 52606037 7 1482 12
+1991 974 49406536 11 1478 25
+1945 924 24365783 13 1638 32
+1671 917 42375414 10 1268 35
+3621 1669 70514184 27 2688 58
+16016 7738 166724288 19 14312 117
+4014 1685 62315788 17 2647 41
+1426 749 34570561 20 1055 27
+96 66 7533161 8 55 8
+31 26 3836438 1 11 1
+201 103 6975454 7 136 9
+220 114 4603096 7 168 8
+252 187 17164059 8 128 10
+1790 922 11257949 26 1727 31
+691 397 24338694 12 505 16
+940 571 54594214 14 503 17
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+115 71 4676704 83
+3063 1557 91634245 2175
+5575 2556 100198111 4327
+7574 3413 105747440 6144
+7440 3263 95420063 6117
+5591 2454 59301760 4425
+5743 2502 64670164 4470
+5148 2342 94904675 3943
+4022 1878 62495123 3291
+6501 3115 103253395 5648
+3729 1696 54072897 2926
+665 290 13882768 411
+611 323 21453625 455
+1149 523 30981704 807
+463 206 7050315 338
+290 118 175492 268
+873 479 15729583 724
+802 388 1662208 780
+880 441 2003716 869
+177 88 77034 177
+0 0 0 0
+0 0 0 0
+709 483 48411204 413
+163 116 12518316 101
+0
+0
+0
+28302
+0
+0
+0
+21925
+0
+24
+0
+2
+0
+0
+8927
+0
+0
+16
+0
+0
+0
+1969
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+115
+0
+0
+# -urls- 
+/webservice/products/42687
+0 1 8029355185648173056 943 0 0
+/webservice/category/240
+0 1 88163451590489390 468 0 0
+/webservice/products/42326
+0 1 31077895680388712 970 0 0
+/webservice/products/42757
+0 1 0 881 0 0
+/appservice/mischarges
+0 55 3328495691196543533 18810 1 0
+/product/img/khejur aam satto chutney 38.jpg
+1 28 26643312 2761458 0 0
+/webservice/category/291
+0 1 0 474 0 0
+/webservice/category/314
+0 1 0 486 0 0
+/webservice/products/42716
+0 2 0 2035 0 0
+/product/img/TANDOORI CHICKEN BUTTER MASALA - 2PCS.JPG
+1 9 0 337784 0 0
+/webservice/products/42585
+0 2 0 1910 0 0
+/webservice/products/42802
+0 2 0 1867 0 0
+/category/img/dry market b.png
+1 269 0 17991990 0 0
+/webservice/products/42467
+0 2 0 1886 0 0
+/webservice/category/333
+0 1 0 472 0 0
+/webservice/products/42029
+0 1 0 956 0 0
+/webservice/products/42111
+0 3 0 2912 0 0
+/product/img/ITC ORANGE OOMPH.jpg
+1 4 0 395683 0 0
+/webservice/products/42371
+0 1 0 962 0 0
+/webservice/category/302
+0 1 0 476 0 0
+/webservice/products/42256
+0 1 0 940 0 0
+/webservice/products/42911
+0 1 0 1030 0 0
+/product/img/EVEREST - RAJMA MASALA.jpg
+1 2 0 242212 0 0
+/product/img/DEL MONTE - MAYO SANDWICH SPREAD.jpg
+1 3 0 535140 0 0
+/webservice/products/42955
+0 1 0 951 0 0
+/webservice/category/224
+0 1 0 468 0 0
+/webservice/products/42328
+0 1 0 973 0 0
+/product/img/rohu fish.jpg
+1 17 0 1772474 0 0
+/product/img/FIRNI.JPG
+1 5 0 546264 0 0
+/product/img/MAXO - MOSQUITO REPELLENT.jpg
+1 2 0 260756 0 0
+/product/img/SPECIAL CHICKEN BIRYANI.JPG
+1 38 0 3777037 0 0
+/webservice/products/42119
+0 3 26853378743153713 2937 0 0
+/webservice/category/239
+0 1 3689066024646213632 498 0 0
+/product/img/aloomethi.jpg
+1 8 3546357306175729207 783830 0 0
+/product/img/UJALA SUPREME.jpg
+1 5 8029355185648173056 204656 0 0
+/product/img/2 IN 1 PLASTIC SOAP CASE.jpg
+1 3 3328496773612253441 186456 0 0
+/customer/img/1597315587813.png
+1 7 3530822107858468864 330780 0 0
+/product/img/NEEM ACTIVE.jpg
+1 1 7017281539041026661 61106 0 0
+/product/img/W1.jpg
+1 2 87028755590624558 146766 0 0
+/appservice/productdetailsbyid
+0 42 0 44862 1 0
+/webservice/products/41996
+0 2 0 1890 0 0
+/product/img/VEGETABLE BIRYANI.jpg
+1 40 0 5231208 0 0
+/webservice/products/42044
+0 2 0 1964 0 0
+/webservice/products/42791
+0 1 0 960 0 0
+/webservice/products/42520
+0 1 0 906 0 0
+/webservice/products/42498
+0 2 0 1983 0 0
+/webservice/products/42278
+0 2 0 1851 0 0
+/category/img/SOYA CHUNK.jpg
+1 18 0 1471896 0 0
+/product/img/Mahi_sarso Tikka 4 PCS.jpg
+1 3 0 246208 0 0
+/webservice/products/42818
+0 1 0 955 0 0
+/webservice/products/42121
+0 2 0 1880 0 0
+/webservice/products/42635
+0 1 0 915 0 0
+/product/img/DEL MONTE TOMATO KETCHUP.jpg
+1 5 0 348976 0 0
+/webservice/products/42258
+0 1 0 1009 0 0
+/product/img/paneer-tikka-kabab 4 PCS .jpg
+1 1 0 83339 0 0
+/product/img/morola.jpg
+1 11 0 699352 0 0
+/product/img/TROPICANA - MIXED FRUIT.jpg
+1 11 0 967580 0 0
+/product/img/PROTINEX - NUTRITIONAL SUPPLEMENT - HIGH PROTEIN , ORIGINAL.jpg
+1 4 0 803340 0 0
+/webservice/products/42285
+0 1 0 979 0 0
+/product/img/MAGGI - PAZZTA - CHEESE MACARONI , INSTANT PASTA.jpg
+1 2 0 750158 0 0
+/webservice/products/42988
+0 1 0 937 0 0
+/product/img/fried chicken 2PCS.jpg
+1 7 0 580936 0 0
+/product/img/NESCAFE - SUNRISE INSTANT COFFEE - CHICORY MIXTURE.jpg
+1 4 0 1204844 0 0
+/webservice/category/197
+0 1 0 510 0 0
+/webservice/products/42339
+0 1 0 966 0 0
+/webservice/products/42767
+0 2 0 1790 0 0
+/webservice/products/42432
+0 1 0 989 0 0
+/product/img/MINUTE MAID - ORANGE.jpg
+1 17 0 743610 0 0
+/product/img/LUX-SAFFRON GLOW SOAP BAR.jpg
+1 2 0 191664 0 0
+/webservice/products/42415
+0 1 0 983 0 0
+/product/img/DURACELL - ULTRA ALKALINE BATTERY AA.jpg
+1 5 0 802905 0 0
+/driverservice/completedorderlist
+0 12 0 628 0 0
+/webservice/products/42060
+0 2 0 1831 0 0
+/appservice/orderdetailsbyid
+0 2 0 1028 0 0
+/product/img/CHICKEN RESHMI MASALA 6PCS.JPG
+1 4 0 284558 0 0
+/product/img/katla.jpg
+1 12 0 711464 0 0
+/product/img/TROPICANA - ORANGE.jpg
+1 11 0 897620 0 0
+/webservice/products/42503
+0 1 0 1033 0 0
+/webservice/products/42020
+0 1 0 944 0 0
+/product/img/REAL ACTIV - COCONUT WATER - WITHOUT SUGAR.jpg
+1 12 0 705840 0 0
+/webservice/products/42766
+0 1 0 893 0 0
+/product/img/chicken burger.jpg
+1 7 0 195034 0 0
+/product/img/NESCAFE - CLASSIC COFFEE POWDER.jpg
+1 3 0 655671 0 0
+/webservice/products/42233
+0 3 0 3086 0 0
+/category/img/CUP NOODLES.jpg
+1 10 0 1116315 0 0
+/product/img/beetroot.jpg
+1 5 0 889025 0 0
+/product/img/PREMIUM SOFT GRASS BROOM - PHOOL JHARU.jpg
+1 4 0 237440 0 0
+/webservice/products/42164
+0 2 0 1848 0 0
+/webservice/products/42786
+0 1 0 953 0 0
+/product/img/11.CHICKEN HARIYALI KEBAB ONLY ALIBABA.jpg
+1 10 0 754700 0 0
+/webservice/products/42416
+0 1 0 917 0 0
+/product/img/EVEREADY-CARBON ZINC BATTERY RED HD AAA 1012.jpg
+1 1 0 100490 0 0
+/webservice/products/43008
+0 1 0 978 0 0
+/driver/img/Chrysanthemum.jpg
+1 48 0 5276364 0 0
+/webservice/products/42396
+0 1 0 920 0 0
+/webservice/products/42129
+0 1 4049067250809908528 1000 0 0
+/product/img/KRACK JACK.jpg
+1 7 3472887977778162992 1231000 0 0
+/product/img/BOOST - NUTRITION DRINK.jpg
+1 2 3543550278624948273 86194 0 0
+/banner/img/disbg2.jpg
+1 16 24413 221100 0 0
+/webservice/category/285
+0 1 0 502 0 0
+/webservice/products/42948
+0 1 3256722655146934272 1000 0 0
+/category/img/MOF 
+0 13 8317585561799884800 734760 0 0
+/webservice/products/42096
+0 3 26569168 2940 0 0
+/webservice/products/42631
+0 1 0 915 0 0
+/webservice/products/42011
+0 1 0 907 0 0
+/product/img/MAGGI - CUPPA MASALA NOODLES.jpg
+1 4 0 1283220 0 0
+/webservice/products/42390
+0 1 0 967 0 0
+/webservice/driver
+0 156 0 543870 4 5
+/webservice/products/42694
+0 1 0 997 0 0
+/product/img/MCCAIN - CRAZY FRIES.jpg
+1 18 0 910031 0 0
+/webservice/category/219
+0 2 0 961 0 0
+/product/img/TRUST SUGAR.jpg
+1 1 0 111629 0 0
+/category/img/DESERT MIX PACK.jpg
+1 11 0 1339392 0 0
+/webservice/products/42106
+0 2 0 2004 0 0
+/product/img/PEARS-SOFT 
+0 2 0 184474 0 0
+/webservice/products/42824
+0 1 0 998 0 0
+/webservice/products/42445
+0 1 0 917 0 0
+/product/img/drumstick.jpg
+1 6 0 486980 0 0
+/webservice/products/42088
+0 1 0 958 0 0
+/webservice/products/42376
+0 2 0 1818 0 0
+/product/img/DOVE-DEEPLY NOURISHING BODY WASH.jpg
+1 1 0 49727 0 0
+/product/img/NIMYLE PYNE.jpg
+1 2 0 197666 0 0
+/webservice/products/42142
+0 1 0 964 0 0
+/webservice/products/42765
+0 2 0 1899 0 0
+/webservice/category/265
+0 1 0 472 0 0
+/product/img/MCCAIN - ALOO TIKKI.jpg
+1 6 0 678695 0 0
+/webservice/products/42435
+0 1 0 951 0 0
+/category/img/BESAN.jpg
+1 19 0 950430 0 0
+/webservice/products/42703
+0 1 0 958 0 0
+/webservice/products/43001
+0 2 0 2358 0 0
+/webservice/products/42372
+0 1 0 925 0 1
+/product/img/LUX-BODY WASH - VELVET TOUCH.jpg
+1 1 0 62172 0 0
+/product/img/MOTHER S RECIPE - PICKLE PUNJABI.jpg
+1 4 0 109744 0 0
+/webservice/products/42487
+0 1 0 973 0 0
+/webservice/products/42094
+0 2 0 2039 0 0
+/webservice/products/42292
+0 1 0 975 0 0
+/webservice/products/42112
+0 2 0 1879 0 0
+/product/img/EXO DISH WASH BAR ROUND.jpg
+1 4 0 541016 0 0
+/webservice/category/260
+0 2 0 1008 0 0
+/product/img/01 party biryani .jpg
+1 45 0 3481434 0 0
+/category/img/FIRNI.JPG
+1 48 0 3004452 0 0
+/webservice/uploadretailer
+0 2 0 84 0 0
+/product/img/WAGH BAKRI - SPICED TEA.jpg
+1 3 0 853986 0 0
+/product/img/AMUL - KOOL MILK SHAKE - BADAM.jpg
+1 19 0 592710 0 0
+/webservice/products/42148
+0 2 0 1863 0 0
+/webservice/products/42870
+0 1 0 901 0 0
+/product/img/murgir-jhol .jpg
+1 14 0 1104696 0 0
+/webservice/products/42502
+0 1 0 993 0 0
+/product/img/RED LABEL - TEA - NATURAL CARE.jpg
+1 3 0 610971 0 0
+/webservice/products/42101
+0 2 0 1993 0 0
+/product/img/LIZOL - FLOOR CLEANER 2x975 ml.jpg
+1 3 0 330642 0 0
+/webservice/products/42505
+0 2 0 1828 0 1
+/webservice/products/42639
+0 2 0 2020 0 0
+/product/img/REAL - CRANBERRY.jpg
+1 12 0 807620 0 0
+/category/img/MUTTON ROGAN JOSH 4PCS.JPG
+1 63 0 4849038 0 0
+/webservice/products/42974
+0 1 0 1014 0 0
+/webservice/products/42591
+0 1 0 903 0 0
+/webservice/products/43026
+0 1 0 1171 0 0
+/webservice/products/42407
+0 1 0 1009 0 0
+/webservice/products/42632
+0 1 0 923 0 0
+/webservice/products/42081
+0 2 0 1878 0 0
+/webservice/ordermasterdrivervehiclebulkmapping
+0 10 0 1711 3 0
+/webservice/products/42499
+0 1 0 1006 0 0
+/webservice/products/42128
+0 1 0 1009 0 0
+/category/img/MUSTARD OIL.jpg
+1 17 0 659840 0 0
+/webservice/products/41997
+0 1 0 923 0 0
+/category/img/GREEN SALAD.jpg
+1 47 0 2944599 0 0
+/webservice/products/42225
+0 1 0 956 0 0
+/webservice/category/317
+0 1 0 502 0 0
+/webservice/products/42942
+0 1 0 1018 0 0
+/webservice/products/41989
+0 2 0 1867 0 0
+/product/img/MAPRO - DESSERT TOPPING - CHOCOLATE SYRUP.jpg
+1 1 0 77746 0 0
+/product/img/mosambi.jpg
+1 227 0 1080099 0 0
+/product/img/MINUTE MAID - LITCHI.jpg
+1 20 0 575470 0 0
+/webservice/products/42671
+0 2 0 1882 0 0
+/product/img/mutton boneless.jpg
+1 5 0 641760 0 0
+/product/img/AUTVADIC - PAPER CUPS - 250 ML.jpg
+1 1 0 121307 0 0
+/webservice/category/231
+0 1 0 486 0 0
+/product/img/GANESH MAIDA.jpg
+1 12 0 1378630 0 0
+/product/img/CHICKEN REZALA.JPG
+1 3 0 328358 0 0
+/webservice/products/42374
+0 1 0 944 0 0
+/webservice/products/42383
+0 2 0 1818 0 0
+/product/img/EVEREST KITCHEN KING MASALA.jpg
+1 2 0 283942 0 0
+/webservice/products/42153
+0 1 0 937 0 0
+/webservice/products/42337
+0 3 0 2903 0 0
+/webservice/products/42752
+0 2 0 1915 0 0
+/webservice/products/42213
+0 1 0 969 0 0
+/webservice/products/42523
+0 1 0 991 0 1
+/webservice/category/225
+0 1 0 470 0 0
+/product/img/FIAMA - SHOWER GEL - BLACKCURRANT 
+0 429 0 276048 0 3
+/webservice/driverselectrow/14
+0 18 0 9960 2 0
+/webservice/products/42821
+0 1 0 982 0 0
+/webservice/orderlist
+0 269 0 1531389 18 2
+/webservice/products/42573
+0 2 0 1944 0 0
+/webservice/products/42592
+0 1 0 905 0 0
+/webservice/products/42403
+0 1 0 967 0 0
+/product/img/STAINLESS STEEL PEDAL  DUSTBIN  GARBAGE BIN.jpg
+1 2 0 227864 0 0
+/webservice/vechiclestatusupdate
+0 15 0 570 1 0
+/product/img/LIZOL - FLOOR CLEANER - NEEM.jpg
+1 5 0 208660 0 0
+/webservice/products/42276
+0 1 0 986 0 0
+/product/img/GILLETTE MACH 3 SENSITIVE GEL.jpg
+1 1 0 106581 0 0
+/webservice/products/42189
+0 2 0 1839 0 0
+/product/img/TATA SAMPARN - GARAM MASALA.jpg
+1 6 0 313020 0 0
+/webservice/products/42086
+0 4 0 2909 0 0
+/webservice/products/42263
+0 1 0 992 0 0
+/product/img/BINGO - MAD ANGLES.jpg
+1 12 0 3010001 0 0
+/webservice/products/42720
+0 1 0 907 0 0
+/webservice/products/42833
+0 1 0 961 0 0
+/webservice/products/42230
+0 1 0 1039 0 0
+/product/img/NIMBU PANI23.jpg
+1 6 0 164602 0 0
+/appservice/productmasterfeautredlist
+0 368 0 992756 1 1
+/category/img/SOFT 
+0 17 0 1002924 0 0
+/webservice/products/42747
+0 3 0 2950 0 0
+/webservice/category/264
+0 2 0 990 0 0
+/webservice/products/42902
+0 1 0 919 0 0
+/webservice/products/42172
+0 2 0 1859 0 0
+/driver/img/logged-user.png
+1 2 0 15328 0 0
+/product/img/TREAT - ORANGE CREAM BISCUIT.jpg
+1 13 0 2844550 0 0
+/product/img/NYCIL- PRICKLY HEAT POWDER -COOL HERBAL.jpg
+1 1 0 92427 0 0
+/webservice/products/42983
+0 1 0 954 0 0
+/category/img/pickles.jpg
+1 19 0 1673316 0 0
+/webservice/products/42512
+0 2 0 2053 0 0
+/webservice/products/42139
+0 1 0 954 0 0
+/webservice/products/42557
+0 2 0 1926 0 0
+/product/img/TATA TEA - KANAN DEVAN DUET.jpg
+1 3 0 657600 0 0
+/webservice/customeraddedit
+0 1 0 46 0 0
+/product/img/SPECIAL MUTTON BIRYANI.JPG
+1 39 0 4682478 0 0
+/product/img/ANIK GHEE.jpg
+1 3 0 432951 0 0
+/webservice/products/42704
+0 1 0 903 0 0
+/product/img/COCO COLA - ZERO COKE  - TIN.jpg
+1 4 0 602096 0 0
+/product/img/AMUL - LASSI.jpg
+1 20 0 613260 0 0
+/webservice/products/42027
+0 1 0 932 0 0
+/webservice/products/42494
+0 1 0 969 0 0
+/product/img/THUMS UP - CAN.jpg
+1 4 0 216324 0 0
+/webservice/category/273
+0 1 0 486 0 0
+/vehicle/img/bajaj-pulsar-150-2019-twin-disc-abs-black-red-164378995-sdv68.jpg
+1 1 0 45080 0 0
+/webservice/products/42808
+0 1 0 971 0 0
+/driver/img/473029.png
+1 48 0 394056 0 0
+/product/img/SENSODYNE  WHITENING.jpg
+1 1 0 42011 0 0
+/driverservice/drivervalidate
+0 4 0 1264 0 0
+/category/img/fish tikka  2 PCS.JPG
+1 6 0 308406 0 0
+/webservice/products/42546
+0 2 0 1930 0 0
+/webservice/products/42046
+0 2 0 1945 0 0
+/webservice/products/42589
+0 2 0 1913 0 0
+/webservice/products/42162
+0 2 0 1948 0 0
+/webservice/products/42619
+0 2 0 1871 0 0
+/webservice/products/42785
+0 1 18446744073709551615 950 0 0
+/webservice/products/42436
+0 1 0 971 0 0
+/webservice/products/42192
+0 3 0 2769 0 0
+/webservice/category/280
+0 1 0 488 0 0
+/product/img/PREMIER  SOAP  CASE.jpg
+1 3 0 370926 0 0
+/product/img/TATA SAMPANN CHANA FINE BESAN.jpg
+1 14 0 716149 0 0
+/product/img/ALL OUT - ULTRA POWER.jpg
+1 3 0 131457 0 0
+/appservice/orderinsertbeforepayment
+0 29 0 6080 2 4
+/webservice/products/42404
+0 2 26569304 1874 0 0
+/webservice/category/334
+0 1 0 506 0 0
+/product/img/NIMYLE  HERBAL.jpg
+1 2 0 87991 0 0
+/product/img/HALDIRAM - GULAB JAMUN.jpg
+1 4 0 1714320 0 0
+/webservice/taxall
+0 114 0 217736 2 4
+/product/img/COCO COLA - TIN 300 ML.jpg
+1 4 0 295816 0 0
+/webservice/products/42555
+0 2 0 1972 0 0
+/webservice/products/42286
+0 3 130545 2805 0 0
+/product/img/garlic.jpg
+1 6 0 365765 0 0
+/category/img/SALT.jpg
+1 17 0 1205848 0 0
+/webservice/products/42001
+0 2 0 1793 0 0
+/webservice/products/43019
+0 1 722838834265983574 1114 0 0
+/product/img/LISTERINE COOL MINT.jpg
+1 3 0 203073 0 0
+/webservice/products/42336
+0 2 0 1986 0 0
+/webservice/products/42214
+0 1 0 1062 0 0
+/webservice/products/42186
+0 2 0 1851 0 0
+/category/img/paneer-tikka-kabab 4 PCS .jpg
+1 3 0 250017 0 0
+/product/img/NIPPO - RECHARGEABLE MINI MOSQUITO-BAT-LITHIUM ION.jpg
+1 4 0 627664 0 0
+/product/img/ORAL B PRO HEALTH GUM CARE.jpg
+1 1 0 441545 0 0
+/webservice/products/42008
+0 1 3761118349668219256 956 0 0
+/product/img/SAFFOLA - MASALA OATS.jpg
+1 2 3689623938470182912 266114 0 0
+/product/img/TETLY - GREEN TEA - GINGER MINT - LEMON.jpg
+1 4 7237133067850508652 1098352 0 0
+/webservice/products/42731
+0 2 8027210469829127781 1935 0 0
+/webservice/products/42300
+0 2 7377288094496482678 1819 0 0
+/webservice/category/217
+0 1 8027210469829127781 470 0 0
+/webservice/products/42477
+0 2 7957691635069842990 1923 0 0
+/webservice/category/254
+0 1 7308901730780213110 486 0 0
+/product/img/MURG TIKKA MAKHANI 3PCS .JPG
+1 3 3543822944623800884 406404 0 0
+/product/img/LITTLE HEARTS.jpg
+1 15 3343199723130545263 5927120 0 0
+/product/img/singapuri kela.jpg
+1 7 3543822944623800884 364590 0 0
+/webservice/products/42114
+0 2 3760837948349689394 1889 0 0
+/product/img/TATA SAMPARN - LANKA.jpg
+1 5 3543822944623800884 272952 0 0
+/category/img/Mayonnaise.jpg
+1 11 3761404188231282990 575743 0 0
+/webservice/products
+0 3773 3832895555289361971 24380478 131 71
+/product/img/ANTI BITE PET MUZZLE MASK.jpg
+1 3 3342918187957379439 541848 0 0
+/webservice/products/42558
+0 2 7579123201903981417 1954 0 0
+/product/img/MARGO-BATHING SOAP - ORIGINAL NEEM.jpg
+1 2 121398030001518 251128 0 0
+/product/img/REAL - PINEAPPLE  180 ML.jpg
+1 12 4049071614497009966 411136 0 0
+/product/img/TATA SAMPARN RAJMA 1 kg.jpg
+1 3 7306087013738872832 360075 0 0
+/product/img/ALO POSTO .jpg
+1 6 0 609708 0 0
+/webservice/products/42456
+0 2 0 2070 0 0
+/webservice/products/42611
+0 1 0 905 0 0
+/product/img/BISK FARM - TOP GOLD.jpg
+1 13 0 372213 0 0
+/product/img/MILANO CENTRE FILLED DARK COOKIES- CHOCO DELIGHT.jpg
+1 13 0 1738120 0 0
+/product/img/HAIR 
+0 1 0 77818 0 0
+/webservice/products/42028
+0 1 0 952 0 0
+/product/img/REVIVE LIQUID.jpg
+1 2 0 108990 0 0
+/webservice/category/246
+0 1 0 478 0 0
+/product/img/EXO DISH TOUCH AND SHINE BAR.jpg
+1 2 0 243246 0 0
+/webservice/products/42203
+0 1 0 1040 0 0
+/category/img/khejur aam satto chutney 38.jpg
+1 60 0 5325669 0 0
+/webservice/products/42676
+0 2 0 1851 0 0
+/category/img/INSTANT COFFIEE.jpg
+1 13 0 1263645 0 0
+/webservice/products/42844
+0 2 0 1868 0 0
+/webservice/products/42852
+0 3 0 2821 0 0
+/product/img/PEDIGREE - WET DOG FOOD - CHICKEN IN GRAVY - FOR ADULT DOG.jpg
+1 4 0 1062840 0 0
+/webservice/products/42538
+0 2 0 1854 0 0
+/webservice/products/42846
+0 2 0 1874 0 0
+/product/img/RAGI BITES - CHOCO VANILA FILLS.jpg
+1 1 0 107666 0 0
+/webservice/products/42651
+0 1 0 1028 0 0
+/retailerservice/ordersupplybyretailer
+0 19 0 1894 2 2
+/webservice/products/42735
+0 2 0 1978 0 0
+/category/img/frozen food nonveg.jpg
+1 27 0 2434470 0 0
+/webservice/products/42910
+0 1 0 936 0 0
+/webservice/products/42667
+0 2 0 1863 0 0
+/product/img/PARK AVENUE GROOMING GIFT COLLECTION.jpg
+1 1 0 170841 0 0
+/webservice/products/42322
+0 3 0 2840 0 0
+/product/img/MORTEIN - RAT KILL CAKE.jpg
+1 3 0 343856 0 0
+/product/img/WAI WAI NOODLES - CHINEESE HAKKA VEG.jpg
+1 3 0 915615 0 0
+/webservice/products/42656
+0 1 0 986 0 0
+/product/img/INDICA EASY NATURAL BLACK COLOUR SHAMPOO.jpg
+1 1 0 121514 0 0
+/product/img/cucumber.jpg
+1 6 0 324310 0 0
+/webservice/products/42327
+0 1 0 954 0 0
+/webservice/products/42091
+0 1 0 956 0 0
+/webservice/products/42917
+0 1 0 957 0 0
+/vehicle/img/Hero-Jet-Gold-WO-CycleGreen1.jpg
+1 1 0 89367 0 0
+/product/img/PEARS - OIL CLEANER AND GLOW.jpg
+1 386 0 498195 0 0
+/webservice/products/42953
+0 1 0 943 0 0
+/webservice/products/42193
+0 2 0 1841 0 0
+/webservice/products/42453
+0 1 0 961 0 0
+/webservice/banner/2
+0 37 0 2636 1 1
+/webservice/uploadcustomer
+0 1 0 42 0 0
+/product/img/PRIYA RED CHILLI WITH OUT GARLIC.jpg
+1 7 0 219878 0 0
+/product/img/EVEREST - EGG CURRY MASALA.jpg
+1 2 0 198844 0 0
+/webservice/products/42916
+0 3 0 2961 0 0
+/webservice/products/42417
+0 1 0 917 0 0
+/webservice/products/42779
+0 3 0 2787 0 0
+/webservice/products/42863
+0 2 0 1843 0 0
+/appservice/customeraddresslist
+0 55 0 33122 0 0
+/product/img/PILLSBURY - POWDER CUSTARD.jpg
+1 1 0 191023 0 0
+/product/img/SUNFEAST - YIPPEE PASTA TREAT TOMATO CHEESE.jpg
+1 2 0 334356 0 0
+/product/img/FUNFOOD SOYA SAUCE.jpg
+1 4 0 174834 0 0
+/category/img/HONEY.jpg
+1 17 0 1086462 0 0
+/category/img/BREAKFAST 
+0 114 0 4733700 0 2
+/webservice/products/42909
+0 1 0 916 0 0
+/category/img/BEVERAGES.jpg
+1 67 0 3341493 0 0
+/webservice/products/42677
+0 2 0 1877 0 0
+/product/img/MCCAIN - SUPER WEDGES.jpg
+1 7 0 759764 0 0
+/product/img/M3.jpg
+1 2 0 181512 0 0
+/webservice/products/42474
+0 1 0 909 0 0
+/webservice/products/42293
+0 1 0 1013 0 0
+/webservice/products/42226
+0 1 0 1011 0 0
+/webservice/products/42387
+0 1 0 941 0 0
+/webservice/products/42307
+0 1 0 933 0 0
+/webservice/products/42125
+0 1 0 908 0 0
+/product/img/MONACO.jpg
+1 14 0 3552930 0 0
+/product/img/basanti-pulao .jpg
+1 8 0 1381415 0 0
+/webservice/products/42905
+0 1 0 921 0 0
+/webservice/products/42254
+0 1 0 1004 0 0
+/category/img/READY MASALA.jpg
+1 17 0 1415259 0 0
+/webservice/products/42251
+0 1 0 943 0 0
+/webservice/products/42552
+0 2 0 1953 0 0
+/webservice/taxaddedit
+0 10 0 834 0 0
+/webservice/products/42652
+0 1 0 913 0 0
+/webservice/products/42604
+0 1 0 905 0 0
+/webservice/products/42864
+0 4 0 3745 0 0
+/webservice/products/42838
+0 2 0 1865 0 0
+/product/img/tandori roti .jpg
+1 3 0 219866 0 0
+/product/img/DETTOL- HANDWASH LIQUID REFILL -ORIGINAL.jpg
+1 2 0 94474 0 0
+/webservice/products/42544
+0 1 0 903 0 0
+/webservice/products/42476
+0 1 0 959 0 0
+/product/img/TREAT BRUST CHOCO FILLS COOKIES.jpg
+1 16 0 2012710 0 0
+/webservice/products/42655
+0 1 0 1004 0 0
+/webservice/products/42543
+0 1 0 911 0 0
+/webservice/products/42508
+0 2 0 1949 0 0
+/webservice/products/42344
+0 2 0 1919 0 0
+/product/img/LIRIL-COOLING MINT SOAP.jpg
+1 3 0 30705 0 0
+/category/img/PULAO .jpg
+1 61 0 5178992 0 0
+/webservice/products/43013
+0 5 0 2379 3 1
+/webservice/products/42428
+0 1 0 1051 0 0
+/webservice/products/42547
+0 2 0 1942 0 0
+/webservice/products/42210
+0 1 0 1027 0 0
+/product/img/PARACHUTE ALOEVERA ENRICHED COCONUT HAIR OIL.jpg
+1 1 0 73659 0 0
+/webservice/products/42084
+0 2 0 1853 0 0
+/webservice/products/42483
+0 1 0 1003 0 0
+/product/img/HORLICKS PROTEIN + - VANILA - WITHOUT SUGAR.jpg
+1 4 0 835389 0 0
+/webservice/products/42009
+0 1 0 954 0 0
+/product/img/BLUE BIRD - DRY EAST.jpg
+1 1 0 74939 0 0
+/webservice/products/42986
+0 1 0 979 0 0
+/webservice/products/42644
+0 2 0 1886 0 0
+/product/img/SUNFEAST - YIPPEE MAGIC MASALA NOODLES.jpg
+1 2 0 733330 0 0
+/product/img/10.VEGETABLE PATTY ONLY ALIBABA.jpg
+1 210 0 1373713 0 0
+/webservice/products/42014
+0 1 0 915 0 0
+/product/img/DABUR AMLA HAIR OIL.jpg
+1 2 0 155644 0 0
+/webservice/products/42621
+0 1 0 934 0 0
+/webservice/products/42363
+0 1 0 929 0 0
+/webservice/category/331
+0 1 0 468 0 0
+/product/img/DAAWAT - BASMATI - ROZANA GOLD.jpg
+1 1 0 97274 0 0
+/product/img/MUTTON BHUNA GOSTH - 2PCS.JPG
+1 9 0 379006 0 0
+/webservice/products/42599
+0 1 0 899 0 0
+/driver/img/no.jpg
+1 52 0 151840 0 0
+/webservice/products/42200
+0 1 0 1010 0 0
+/product/img/LIZOL - KITCHEN CLEANER- POWER TRIGGER.jpg
+1 4 0 369136 0 0
+/webservice/products/42664
+0 2 0 1966 0 0
+/product/img/COLGATE SWARNA VEDSHAKTI.jpg
+1 1 0 69814 0 0
+/appservice/orderlist
+0 31 0 12187 0 0
+/webservice/products/42174
+0 2 0 1852 0 0
+/webservice/products/42845
+0 2 0 1880 0 0
+/product/img/KASSA MANGSHO .jpg
+1 14 0 1452144 0 0
+/product/img/parwal.jpg
+1 5 0 598910 0 0
+/webservice/products/42317
+0 2 0 1931 0 1
+/webservice/taxstatusupdate
+0 19 0 1156 0 0
+/product/img/CLOSE UP EVERFRESH RED GEL.jpg
+1 1 0 135398 0 0
+/product/img/13.CHICKEN STRIPS ONLY ALIBABA.jpg
+1 11 0 1033011 0 0
+/category/img/TALCUM POWDER.jpg
+1 8 0 467404 0 0
+/webservice/products/42962
+0 1 0 1007 0 0
+/webservice/products/42975
+0 1 0 972 0 0
+/product/img/GARNIER FRUCTIS TRIPLE NUTRATION.jpg
+1 1 0 64126 0 0
+/webservice/products/42211
+0 1 0 1026 0 0
+/webservice/products/42788
+0 2 0 1938 0 0
+/webservice/products/42402
+0 1 0 931 0 0
+/product/img/PRIYA - RED CHILLI  ( WITHOUT GARLIC ).jpg
+1 438 0 1170156 0 0
+/product/img/DETTOL - HANDWASH.jpg
+1 2 0 121138 0 0
+/webservice/products/42722
+0 1 0 963 0 1
+/product/img/MUTTON BOTI  4 pcs.jpg
+1 1 0 141600 0 0
+/webservice/products/42695
+0 1 0 893 0 0
+/webservice/products/42053
+0 1 0 943 0 0
+/webservice/category
+0 480 0 933501 4 21
+/product/img/SUNFEAST - YIPPEE TRICOLOR PASTA - CREAMY CORN.jpg
+1 1 0 168098 0 0
+/product/img/SCOTCH BRITE - JET SCRUBBER BRUSH.jpg
+1 1 0 192208 0 0
+/product/img/SURF EASY WASH DETERGENT LIQUID.jpg
+1 5 0 517065 0 0
+/category/img/frozen-good-vegetables.jpg
+1 28 0 2395744 0 0
+/webservice/category/272
+0 1 0 486 0 0
+/product/img/sweetcorn.jpg
+1 5 0 680180 0 0
+/webservice/products/42628
+0 1 0 1015 0 0
+/webservice/products/42601
+0 1 0 907 0 0
+/appservice/ccavResponseHandler
+0 9 0 2112 0 0
+/webservice/products/42831
+0 2 0 1779 0 0
+/webservice/products/42217
+0 1 0 972 0 0
+/webservice/bannerlist
+0 18 0 39716 0 0
+/product/img/FLOOR T MOP.jpg
+1 1 0 93125 0 0
+/webservice/products/42971
+0 1 0 1028 0 0
+/webservice/products/42515
+0 1 0 997 0 0
+/webservice/products/42343
+0 1 0 942 0 0
+/webservice/products/42921
+0 1 0 945 0 0
+/product/img/DETTOL-INTENSE COOL GERM.jpg
+1 2 0 174042 0 0
+/webservice/products/42042
+0 2 0 1972 0 0
+/product/img/ganesh-sattu 500 GMS.jpg
+1 3 0 345099 0 0
+/webservice/products/42542
+0 1 0 923 0 0
+/webservice/products/42798
+0 1 0 1006 0 0
+/product/img/potato.jpg
+1 6 0 411115 0 0
+/webservice/products/42783
+0 3 0 2750 0 0
+/product/img/kochu.jpg
+1 5 0 763180 0 0
+/webservice/products/42074
+0 2 0 1957 0 0
+/product/img/LIRIL-SOAP BAR -COCONUT MINT SOAP.jpg
+1 2 0 169100 0 0
+/webservice/category/316
+0 1 0 510 0 0
+/webservice/products/42571
+0 2 0 1850 0 0
+/product/img/DUSTPAN.jpg
+1 4 0 209192 0 0
+/product/img/NIPPO - BATTERY -AA,3 UT , HI-TOP.jpg
+1 4 0 582024 0 0
+/product/img/ASHIRWAD ATTA 1 KG -10 KG.jpg
+1 14 0 891576 0 0
+/appservice/ccavRequestHandler
+0 10 0 8780 0 0
+/product/img/VIM DISHWASH GEL LEMON.jpg
+1 10 0 338496 0 0
+/vehicle/img/no.jpg
+1 103 0 75920 0 0
+/webservice/products/42045
+0 2 0 1904 0 0
+/webservice/products/42751
+0 2 0 1924 0 0
+/product/img/DETTOL DISHWASH GEL LIQUID.jpg
+1 4 0 250396 0 0
+/webservice/products/42770
+0 4 0 893 0 0
+/product/img/payesh.jpg
+1 5 0 327172 0 0
+/product/img/HALDIRAM - MOONG DAL.jpg
+1 3 0 1466199 0 0
+/product/img/PLASTIC HANGER  CLOTH HANGER.jpg
+1 3 0 412128 0 0
+/product/img/washington apple.jpg
+1 10 0 223760 0 0
+/webservice/products/42063
+0 2 0 1861 0 0
+/product/img/SHYAM AGRO.jpg
+1 7 0 340644 0 0
+/webservice/products/42584
+0 1 0 905 0 0
+/webservice/products/42430
+0 1 0 1036 0 0
+/webservice/products/42165
+0 2 0 1856 0 0
+/product/img/DOVE PLASTIC SOAP CASE.jpg
+1 3 0 641283 0 0
+/product/img/HIMALAYA ACTIVE FRESH TOOTHPASTE.jpg
+1 1 0 202629 0 0
+/product/img/HORLICKS - HEALTH 
+0 4 0 767378 0 0
+/product/img/DAAWAT - BASMATI - SUPER.jpg
+1 1 0 134323 0 0
+/webservice/products/42952
+0 1 0 950 0 0
+/webservice/products/42620
+0 1 0 967 0 0
+/appservice/customervalidate
+0 42 0 61733 3 0
+/appservice/parentcategory
+0 576 0 5067681 10 1
+/webservice/products/42898
+0 2 0 1831 0 0
+/webservice/products/42459
+0 1 0 909 0 0
+/webservice/products/42702
+0 2 0 2020 0 0
+/appservice/customercartlist
+0 81 0 120536 0 1
+/product/img/GILLETTE CONDITONING SHAVING FOAM.jpg
+1 1 0 21468 0 0
+/product/img/PEDIASURE - NUTRATIONAL POWDER - PREMIUM CHOCHOLATE.jpg
+1 3 0 749334 0 0
+/webservice/products/42964
+0 1 0 971 0 0
+/webservice/category/320
+0 1 0 486 0 0
+/category/img/appliance 
+0 15 0 478376 0 0
+/driverservice/orderdetailbyid
+0 2 0 746 0 0
+/webservice/products/42131
+0 1 0 994 0 0
+/webservice/cmsupdate
+0 4 0 184 0 0
+/webservice/products/42603
+0 2 0 1904 0 0
+/webservice/products/42509
+0 2 0 2047 0 0
+/webservice/products/42284
+0 2 0 2000 0 0
+/webservice/products/42318
+0 2 0 1903 0 0
+/category/img/canned food.jpg
+1 73 0 6838048 0 0
+/webservice/products/42356
+0 1 0 940 0 0
+/webservice/products/42338
+0 1 0 978 0 0
+/webservice/products/42080
+0 2 0 1869 0 0
+/webservice/products/42003
+0 2 0 1838 0 0
+/product/img/ENERZAL - ENERGY DRINK POWDER - LIME.jpg
+1 3 0 846801 0 0
+/product/img/PAPER BOAT - APPLE.jpg
+1 19 0 435750 0 0
+/webservice/products/42333
+0 1 0 965 0 0
+/webservice/products/42978
+0 1 0 1084 0 0
+/product/img/FIAMA-SCENTS UNIPER 
+0 1 0 69572 0 0
+/webservice/products/42196
+0 2 0 1871 0 0
+/webservice/products/42666
+0 3 0 2847 0 0
+/webservice/products/42055
+0 2 0 1866 0 0
+/webservice/products/42514
+0 2 0 1973 0 0
+/webservice/products/42899
+0 1 0 912 0 0
+/product/img/EVEREST - HALDI.jpg
+1 1 0 177528 0 0
+/product/img/SOULFULL - RAGI BITES CHOCO FILLS -.jpg
+1 2 0 170708 0 0
+/category/img/POOJA NEEDS.jpg
+1 12 0 710815 0 0
+/product/img/COLGATE SENSITIVE.jpg
+1 1 0 70014 0 0
+/webservice/category/223
+0 1 0 468 0 0
+/product/img/MYSORE SANDAL - BATHING SOAP - CENTENNIAL.jpg
+1 2 0 15722 0 0
+/webservice/products/42442
+0 2 0 2026 0 0
+/product/img/SENSODYNE FRESH GEL.jpg
+1 1 0 119518 0 0
+/product/img/PAPER BOAT - COCONUT WATER.jpg
+1 20 0 614270 0 0
+/product/img/mutton currycut.jpg
+1 5 0 670010 0 0
+/product/img/DOVE- GO FRESH MOISTURE BATHING BAR SOAP.jpg
+1 2 0 92012 0 0
+/webservice/products/42135
+0 1 0 974 0 0
+/webservice/products/42859
+0 2 0 1877 0 0
+/product/img/DETOL - DISINFECTANT CLEANER.jpg
+1 2 0 159936 0 0
+/product/img/MANGALDEEP - AGARBATTI STICK.jpg
+1 2 0 615236 0 0
+/webservice/category/227
+0 1 0 474 0 0
+/webservice/products/42202
+0 1 0 1064 0 0
+/product/img/MCCAIN - VEGGIE BURGER PATTY.jpg
+1 7 0 823061 0 0
+/product/img/TAJ MAHAL - TEA.jpg
+1 3 0 634830 0 0
+/webservice/products/42198
+0 1 0 1046 0 0
+/product/img/PREMIUM PLASTIC BUCKET.jpg
+1 2 0 351880 0 0
+/product/img/MUTTON HARA BHARA  4 pcs .jpg
+1 1 0 135871 0 0
+/webservice/products/42155
+0 1 0 966 0 0
+/webservice/products/42408
+0 1 0 974 0 1
+/webservice/products/42054
+0 2 0 1825 0 0
+/webservice/products/42201
+0 1 0 1072 0 0
+/webservice/products/42890
+0 1 0 945 0 0
+/product/img/LOREAL PARIS TOTAL REPAIR 5 SHAMPOO.jpg
+1 1 0 61770 0 0
+/webservice/products/42349
+0 1 0 987 0 0
+/product/img/fried chicken 4 PCS .jpg
+1 8 0 871404 0 0
+/product/img/SILICON MUZZLE FOR DOGS.jpg
+1 3 0 341998 0 0
+/webservice/products/42725
+0 3 0 2973 0 0
+/product/img/PAPER BOAT - JAMUN.jpg
+1 19 0 510050 0 0
+/appservice/medicineproductserachList
+0 3 0 19441 0 1
+/appservice/customercartproductquantityupdate
+0 19 0 1045 0 0
+/webservice/products/42397
+0 1 0 920 0 0
+/webservice/products/42127
+0 2 0 1958 0 0
+/product/img/TATA SAMPANN UNPOLISHED  MOONG DAL.jpg
+1 3 0 334770 0 0
+/product/img/AER POCKET BATHROOM AIR FRAGANANCE.jpg
+1 2 0 184388 0 0
+/retailerservice/pendingorderlistbyretailer
+0 280 0 56560 3 4
+/webservice/products/42294
+0 1 0 991 0 0
+/webservice/products/42000
+0 2 0 1857 0 0
+/webservice/products/42969
+0 1 0 958 0 0
+/product/img/RADHANI SATTU 500 GMS.jpg
+1 2 0 242518 0 0
+/webservice/products/42855
+0 2 0 1874 0 0
+/webservice/products/42889
+0 2 0 1933 0 0
+/webservice/products/42351
+0 1 0 977 0 0
+/category/img/SHAMPOOS.jpg
+1 8 0 492376 0 0
+/webservice/products/42425
+0 1 0 973 0 0
+/product/img/MCCAIN - FRENCH FRIES.jpg
+1 12 0 871456 0 0
+/webservice/category/276
+0 1 0 494 0 0
+/customer/img/1597679878080.png
+1 2 0 17368 0 0
+/webservice/category/252
+0 1 0 518 0 0
+/product/img/MUTTON ROGAN JOSH 4PCS.JPG
+1 10 0 359188 0 0
+/product/img/fish malai kebab 2 PCS.jpg
+1 3 0 247042 0 0
+/product/img/NESTLE - NANGROW NUTRITIOUS MILK.jpg
+1 3 0 790161 0 0
+/webservice/products/42239
+0 1 0 1029 0 0
+/webservice/products/42576
+0 2 0 1899 0 0
+/webservice/products/42561
+0 2 0 1954 0 0
+/product/img/ACT II - INSTANT POPCORN.jpg
+1 9 0 2684214 0 0
+/webservice/products/42004
+0 2 0 1847 0 0
+/webservice/products/42820
+0 2 0 1800 0 0
+/product/img/HALDIRAM - MIXTURE.jpg
+1 2 0 1058606 0 0
+/webservice/products/42829
+0 2 0 1824 0 0
+/webservice/products/42018
+0 1 0 917 0 0
+/product/img/TATA SAMPANN CHICKEN MASALA.jpg
+1 6 0 582207 0 0
+/webservice/products/42463
+0 1 0 909 0 0
+/category/img/WHOLE SPICES.jpg
+1 17 0 2200554 0 0
+/product/img/REAL - APPLE.jpg
+1 12 0 1020430 0 0
+/webservice/products/42227
+0 1 0 1024 0 0
+/driverservice/profileupdate
+0 1 0 48 0 0
+/webservice/products/42841
+0 2 0 1878 0 0
+/product/img/MUTTON ROGAN JOSH 2PCS.JPG
+1 10 0 359188 0 0
+/product/img/paneer-tikka-kabab  2PCS.jpg
+1 1 0 83339 0 0
+/product/img/METAL WIRE ROPE-WITH HOOK.jpg
+1 3 0 434223 0 0
+/webservice/category/335
+0 1 0 510 0 0
+/webservice/category/289
+0 1 0 504 0 0
+/webservice/products/42504
+0 1 0 969 0 0
+/product/img/BINGO - POTATO CHIPS - CHILLI SPRINKLED.jpg
+1 11 0 2456564 0 0
+/webservice/products/42679
+0 1 0 917 0 0
+/banner/img/restaurant b.png
+1 16 0 2037265 0 0
+/webservice/products/42997
+0 2 0 2331 0 0
+/product/img/ITC LITCHI.jpg
+1 4 0 1595331 0 0
+/webservice/products/42810
+0 2 0 1918 0 0
+/webservice/products/42507
+0 2 0 2063 0 0
+/webservice/products/42446
+0 1 0 944 0 0
+/product/img/KHICHDI.jpg
+1 8 0 954926 0 0
+/product/img/PEARS - NATURALE DETOXIFYING ALOEVERA BODYWASH.jpg
+1 3 0 193848 0 0
+/webservice/products/42168
+0 2 0 1832 0 0
+/product/img/20-20 NICE BISCUITS.jpg
+1 13 0 1252810 0 0
+/webservice/products/42115
+0 3 0 2794 0 1
+/product/img/PARK AVENUE RE-GEN NOURISHING SHAVING FOAM.jpg
+1 1 0 50135 0 0
+/webservice/products/42990
+0 1 0 979 0 0
+/webservice/category/296
+0 1 0 488 0 0
+/webservice/products/42522
+0 2 0 1831 0 0
+/webservice/products/42481
+0 1 0 1018 0 0
+/product/img/MINUTE MAID GUAVA 1 LTR.jpg
+1 20 0 760969 0 0
+/webservice/products/42654
+0 1 0 1004 0 0
+/webservice/products/42732
+0 2 0 1967 0 0
+/product/img/AMUL - KOOL CAFÉ.jpg
+1 19 0 719580 0 0
+/webservice/products/42386
+0 2 0 1818 0 0
+/webservice/products/41998
+0 2 0 1878 0 0
+/appservice/favoriteproductlisting
+0 10 0 54198 1 0
+/category/img/vegetables.jpg
+1 27 0 3565620 0 0
+/product/img/MULTI BROOM- WITH HANDLE.jpg
+1 3 0 222957 0 0
+/webservice/products/42329
+0 1 0 941 0 0
+/product/img/dhara mustard oil 1 LTR.jpg
+1 2 0 185002 0 0
+/webservice/products/42856
+0 3 0 2806 0 0
+/product/img/MCCAIN - VEGGIE FINGER.jpg
+1 14 0 787835 0 0
+/webservice/products/42452
+0 1 0 961 0 0
+/webservice/products/42533
+0 2 0 1908 0 0
+/product/img/PEARS-NATURALE POMEGRANATE BRIGHTENING SOAP.jpg
+1 3 0 330861 0 0
+/webservice/products/42024
+0 1 0 941 0 0
+/appservice/login
+0 80 0 5829 27 0
+/webservice/products/42708
+0 1 0 954 0 0
+/webservice/category/199
+0 7 0 1984 0 0
+/appservice/customercartdelete
+0 4 0 192 0 0
+/category/img/RAJMA.jpg
+1 19 0 1141270 0 0
+/product/img/COMPLAN - NUTRIGRO GROWTH DRINK FOR TODDLERS.jpg
+1 3 0 865116 0 0
+/webservice/products/42401
+0 1 0 958 0 0
+/product/img/DEL MONTE - MAYO SANDWICH - EAGLESS.jpg
+1 4 0 925756 0 0
+/product/img/PAPER BOAT - AAMRAS.jpg
+1 20 0 535030 0 0
+/webservice/products/41977
+0 1 0 949 0 0
+/product/img/Gajar-ka-halwa .jpg
+1 4 0 636004 0 0
+/category/img/INSTANT NOODLES.jpg
+1 10 0 712593 0 0
+/product/img/EVEREST CORIANDER.jpg
+1 1 0 74079 0 0
+/product/img/MONACO - CHEESLING.jpg
+1 14 0 2036997 0 0
+/appservice/activepincode
+0 16 0 343867 0 0
+/product/img/PONDS - DREAM FLOWER.jpg
+1 1 0 43537 0 0
+/product/img/EVEREST CUMIN.jpg
+1 1 0 161079 0 0
+/product/img/pepe.jpg
+1 5 0 424805 0 0
+/product/img/LIPTON - DARJEELING TEA.jpg
+1 3 0 1039560 0 0
+/product/img/ORAL B CAVITY DEFENCE BLACK SOFT.jpg
+1 1 0 118427 0 0
+/webservice/products/42524
+0 2 0 1814 0 0
+/webservice/products/42760
+0 3 0 2887 0 0
+/webservice/category/250
+0 1 0 548 0 0
+/product/img/KELLOGGS - MILLET MUESLI.jpg
+1 1 0 93263 0 0
+/product/img/DOMEX - FLOOR CLEANER.jpg
+1 2 0 92270 0 0
+/product/img/FRIEDchicken boneless strips 6PCS .jpg
+1 7 0 90408 0 0
+/webservice/products/42900
+0 1 0 921 0 0
+/product/img/BHETKI PATURI .jpg
+1 15 0 1614444 0 0
+/product/img/BEANS - BORBOTI.jpg
+1 6 0 611780 0 0
+/product/img/FISH FRY.jpg
+1 3 0 286818 0 0
+/webservice/products/42118
+0 1 0 912 0 0
+/webservice/products/42093
+0 2 0 1909 0 0
+/webservice/products/42673
+0 1 0 911 0 0
+/product/img/MARIE BISCUITS.jpg
+1 15 0 1334790 0 0
+/webservice/products/42367
+0 1 0 933 0 0
+/webservice/cmsbyid
+0 26 0 21193 0 0
+/product/img/SOAP DISPENSER WITH STAINLESS STEEL PUMP.jpg
+1 3 0 264492 0 0
+/webservice/products/42804
+0 1 0 997 0 0
+/category/img/SUNFLOWER OIL.jpg
+1 17 0 573584 0 0
+/product/img/DUST FREE BROOM.jpg
+1 2 0 154288 0 0
+/webservice/products/42427
+0 1 0 988 0 0
+/webservice/category/312
+0 1 0 500 0 0
+/product/img/MORTON  GHEE.jpg
+1 3 0 391410 0 0
+/webservice/products/42017
+0 1 0 901 0 0
+/product/img/BROOM - PLASTIC BROOM.jpg
+1 3 0 476319 0 0
+/product/img/LUX-JASMINE BLOOM SOAP BAR.jpg
+1 2 0 167018 0 0
+/product/img/SCOTCH BRITE - STEEL SCRUBBER COMBO.jpg
+1 1 0 209072 0 0
+/product/img/capsicum.jpg
+1 6 0 714045 0 0
+/webservice/products/42219
+0 2 0 1958 0 0
+/webservice/products/42288
+0 2 0 1924 0 0
+/product/img/EXO - SAFAL STEEL SCRUBBER.jpg
+1 1 0 463612 0 0
+/webservice/products/42968
+0 1 0 965 0 0
+/webservice/products/42149
+0 2 0 1861 0 0
+/product/img/DEL MONTE SWEET 
+0 204 0 564972 1 1
+/webservice/products/42830
+0 1 0 898 0 0
+/webservice/products/42362
+0 1 0 965 0 1
+/product/img/no.jpg
+1 90 0 455520 0 0
+/webservice/vehicleselectbyrow
+0 102 0 34325 3 3
+/product/img/MINUTE MAID - APPLE.jpg
+1 19 0 804900 0 0
+/product/img/mutton-seekh-kabab  3 pcs .jpg
+1 2 0 150559 0 0
+/product/img/VITA MARIE GOLD.jpg
+1 16 0 2385196 0 0
+/webservice/products/42275
+0 1 0 990 0 0
+/webservice/products/42444
+0 1 0 948 0 0
+/webservice/uploadcategory
+0 125 0 5250 19 0
+/webservice/category/278
+0 1 0 492 0 0
+/product/img/TETLY - GREEN TEA - LONG LEAF.jpg
+1 3 0 367365 0 0
+/product/img/ACT II - MICROWAVE POPCORN.jpg
+1 11 0 3686519 0 0
+/webservice/products/42302
+0 1 0 998 0 0
+/product/img/ENSURE - NUTRITIONAL POWDER - VANILLA FLAVOUR.jpg
+1 4 0 784968 0 0
+/webservice/category/262
+0 1 0 496 0 0
+/webservice/products/41986
+0 2 0 1895 0 0
+/category/img/SOAP CASE.jpg
+1 3 0 244974 0 0
+/product/img/REAL - GUAVA.jpg
+1 13 0 1077571 0 0
+/product/img/PLAIN RICE .jpg
+1 8 0 483798 0 0
+/product/img/PEDIGREE - DRY DOG FOOD - MEAT  
+0 3 0 622964 0 0
+/webservice/products/42597
+0 2 0 1930 0 0
+/webservice/products/42583
+0 2 0 1903 0 0
+/webservice/products/42903
+0 1 0 926 0 0
+/webservice/products/41979
+0 1 0 940 0 0
+/webservice/products/42140
+0 1 0 969 0 0
+/webservice/products/42039
+0 3 0 2985 0 0
+/webservice/products/42593
+0 1 0 915 0 0
+/webservice/products/42540
+0 2 0 1880 0 0
+/webservice/products/42897
+0 2 0 1827 0 0
+/webservice/products/42712
+0 2 0 1933 0 0
+/webservice/category/281
+0 1 0 508 0 0
+/webservice/products/42272
+0 1 0 952 0 0
+/webservice/products/42023
+0 1 0 926 0 0
+/webservice/products/42713
+0 1 0 903 0 0
+/category/img/POWDER SPICES.jpg
+1 18 0 1080790 0 0
+/product/img/COLGATE ZIGZAG BLACK.jpg
+1 1 0 175798 0 0
+/product/img/NIMYLE  CITRO.jpg
+1 2 0 511543 0 0
+/webservice/products/42813
+0 1 0 988 0 0
+/category/img/disposable cups 
+0 13 0 804168 0 0
+/product/img/MUTTON BHUNA GOSTH 4PCS .JPG
+1 9 0 379006 0 0
+/product/img/PEDIGREE - WET DOG FOOD - CHICKEN 
+0 3 0 700118 0 0
+/webservice/products/42434
+0 2 0 1891 0 0
+/webservice/products/42796
+0 1 0 957 0 0
+/webservice/category/237
+0 1 0 470 0 0
+/product/img/JK - KALA JEERA WHOLE.jpg
+1 2 0 0 0 0
+/product/img/MURG LABABDAR 4PCS .JPG
+1 5 0 273256 0 0
+/category/img/INSTANT PASTA.jpg
+1 10 0 750231 0 0
+/product/img/STREAX NATURAL BLACK COLOUR CRÈME.jpg
+1 1 0 118746 0 0
+/product/img/JK - METHI whole.jpg
+1 2 0 0 0 0
+/appservice/productlistbycategory
+0 389 0 4410255 3 2
+/webservice/products/42743
+0 1 0 905 0 0
+/webservice/products/41999
+0 3 0 1872 0 0
+/product/img/BOURBON CREAM  biscuit.jpg
+1 4 0 392316 0 0
+/webservice/products/42122
+0 3 0 2770 0 0
+/product/img/FUNFOOD GREEN CHILLI SAUCE.jpg
+1 4 0 167334 0 0
+/webservice/products/42232
+0 2 0 2050 0 0
+/product/img/GAIA STEVIA SUGAR FREE 175 GMS.jpg
+1 2 0 171870 0 0
+/webservice/products/42412
+0 1 0 973 0 0
+/product/img/JK - HALDI  POWDER.jpg
+1 1 0 98336 0 0
+/product/img/TATA SALT LITE.jpg
+1 7 0 198304 0 0
+/product/img/14.FISH FINGER ONLY ALIBABA.jpg
+1 9 0 867325 0 0
+/webservice
+0 1 0 25 0 0
+/driverservice/pendingorderlist
+0 42 0 4947 1 2
+/product/img/HALDIRAM - KHATTA MEETHA.jpg
+1 2 0 477952 0 0
+/webservice/products/42209
+0 1 0 1002 0 0
+/vehicle/img/mahindra-maxximo.jpg
+1 1 0 54204 0 0
+/product/img/PONDS - MAGIC FRESHNESS.jpg
+1 1 0 52287 0 0
+/category/img/HOUSEHOLD NEEDS.jpg
+1 110 0 3807033 0 0
+/appservice/profileupdate
+0 11 0 528 0 0
+/webservice/products/42530
+0 2 0 1856 0 0
+/product/img/TRESEMME HAIRFALL DEFENCE SHAMPOO.jpg
+1 1 0 52607 0 0
+/product/img/MARVEL PLASTIC CLIP  CLOTH CLIP.jpg
+1 4 0 470022 0 0
+/webservice/category/222
+0 1 0 470 0 0
+/product/img/KNORR - INSTANT  SWEET CORN CUP.jpg
+1 2 0 548112 0 0
+/webservice/products/42234
+0 4 0 4136 0 0
+/webservice/category/326
+0 1 0 484 0 0
+/product/img/WEIKFIELD - ICING SUGAR.jpg
+1 1 0 402977 0 0
+/webservice/category/249
+0 1 0 522 0 0
+/webservice/products/42776
+0 1 0 925 0 0
+/webservice/products/42022
+0 2 0 1898 0 0
+/webservice/category/241
+0 1 0 562 0 0
+/product/img/kundri.jpg
+1 5 0 577530 0 0
+/webservice/products/42222
+0 1 0 997 0 0
+/webservice/products/42423
+0 1 0 989 0 0
+/webservice/category/290
+0 1 0 486 0 0
+/product/img/50-50 TIMEPASS SALTED BISCUITS.jpg
+1 13 0 934010 0 0
+/webservice/products/42956
+0 1 0 1119 0 0
+/product/img/OM BHAKTI - PANCHA DEEPA OIL.jpg
+1 2 0 315640 0 0
+/product/img/12.CHICKEN MOMO ONLY ALIBABA.jpg
+1 11 0 645130 0 0
+/webservice/products/42755
+0 1 0 889 0 0
+/product/img/PARLE - G.jpg
+1 14 0 1984104 0 0
+/webservice/products/42274
+0 1 0 988 0 0
+/webservice/category/327
+0 1 0 468 0 0
+/product/img/kathi roll.jpg
+1 2 0 280150 0 0
+/webservice/products/42113
+0 2 0 1899 0 0
+/product/img/JK- SOUNF MOTI.jpg
+1 2 0 0 0 0
+/webservice/products/42092
+0 2 0 1920 0 0
+/webservice/products/42133
+0 1 0 967 0 0
+/product/img/MORTEIN - 2 IN 1 ALL INSECT KILLER SPRAY.jpg
+1 3 0 107671 0 0
+/webservice/category/330
+0 1 0 472 0 0
+/webservice/products/42049
+0 2 0 1941 0 0
+/webservice/products/42665
+0 2 0 1980 0 0
+/webservice/customeradersslist
+0 1 0 504 0 0
+/product/img/DABUR MESWAK ..jpg
+1 2 0 749772 0 0
+/category/img/ADULT DIAPERS.jpg
+1 9 0 375376 0 0
+/webservice/products/42501
+0 1 0 907 0 0
+/webservice/products/42370
+0 1 0 968 0 0
+/product/img/RED LABEL - TEA.jpg
+1 3 0 525429 0 0
+/product/img/HALDIRAM - ALOO BHUJIA.jpg
+1 2 0 707418 0 0
+/product/img/MCCAIN - VEGGIE NUGGETS.jpg
+1 7 0 1141854 0 0
+/product/img/LOTUS SOYA SMOOTH CONDITIONER.jpg
+1 2 0 161702 0 0
+/webservice/products/42800
+0 1 0 979 0 0
+/webservice/products/42304
+0 1 0 935 0 0
+/product/img/kashmiri alo dam .jpg
+1 7 0 517684 0 0
+/product/img/DOVE-BODYWASH-DEEPLY NOURISHING.jpg
+1 1 0 34577 0 0
+/webservice/products/42070
+0 2 0 1880 0 0
+/category/img/GROCERIES 
+0 111 0 4729320 1 0
+/webservice/products/42245
+0 1 0 1019 0 0
+/product/img/REAL - TOMATO.jpg
+1 16 0 1275142 0 0
+/webservice/products/42970
+0 1 0 951 0 0
+/product/img/BISK FARM - JUST GINGER.jpg
+1 14 0 1194270 0 0
+/webservice/products/42087
+0 2 0 1952 0 0
+/product/img/SUNRISE - JIRA POWDER.jpg
+1 1 0 104275 0 0
+/product/img/coconut.jpg
+1 10 0 464454 0 0
+/webservice/products/41994
+0 1 0 936 0 0
+/category/img/DETERGENT 
+0 17 0 755768 1 0
+/product/img/MYSORE SANDAL - BATHING SOAP.jpg
+1 2 0 316694 0 0
+/webservice/products/42556
+0 2 0 1935 0 0
+/webservice/products/42488
+0 1 0 987 0 0
+/webservice/products/42866
+0 2 0 1858 0 0
+/webservice/products/42883
+0 1 0 890 0 0
+/webservice/category/304
+0 1 0 484 0 0
+/webservice/products/42178
+0 2 0 1836 0 0
+/category/img/HOME BAKING.jpg
+1 11 0 828646 0 0
+/category/img/KITCHEN GLASS AND DRAIN CLEANER.jpg
+1 17 0 1526798 0 0
+/webservice/products/42678
+0 1 0 904 0 0
+/product/img/DETTOL-BATHING BAR SOAP.jpg
+1 2 0 217126 0 0
+/webservice/products/42031
+0 2 0 1964 0 0
+/banner/img/top-banner5.jpg
+1 206 0 2836997 0 0
+/product/img/table egg 6.jpg
+1 11 0 410520 0 0
+/product/img/STREAX TIC NATURAL BLACK COLOUR CRÈME.jpg
+1 1 0 122650 0 0
+/webservice/products/42513
+0 1 0 995 0 0
+/product/img/TATA TEA AGNI - DUST TEA.jpg
+1 3 0 709887 0 0
+/webservice/products/42517
+0 1 0 1003 0 0
+/product/img/HORLICKS - JUNIOR HEALTH 
+0 3 0 986466 1 0
+/webservice/products/42574
+0 2 0 1914 0 0
+/webservice/products/42923
+0 1 0 1028 0 0
+/webservice/category/292
+0 1 0 484 0 1
+/product/img/MUTTON REZALA .JPG
+1 10 0 329894 0 0
+/webservice/uploadvehicleimage
+0 10 0 420 1 0
+/webservice/products/42473
+0 1 0 955 0 0
+/webservice/products/42832
+0 1 0 961 0 0
+/product/img/REAL - MOSAMBI 1 LTR.jpg
+1 16 0 1227633 0 0
+/product/img/EVEREST TIKKHALAL.jpg
+1 1 0 121561 0 0
+/webservice/products/42398
+0 1 0 922 0 0
+/webservice/products/42187
+0 3 0 2817 0 0
+/product/img/BOON MUG - PRINTED.jpg
+1 2 0 48924 0 0
+/webservice/products/42627
+0 2 0 1947 0 0
+/product/img/PONDS - SANDAL RADIANCE.jpg
+1 1 0 64010 0 0
+/webservice/products/42545
+0 2 0 1886 0 0
+/webservice/products/42330
+0 1 0 1009 0 0
+/webservice/products/42355
+0 1 0 967 0 0
+/appservice/addfavoritebycustomer
+0 15 0 2569 0 0
+/webservice/products/42587
+0 3 0 2918 0 0
+/webservice/products/42686
+0 2 0 1925 0 0
+/webservice/products/42692
+0 1 0 893 0 0
+/webservice/category/270
+0 1 0 498 0 0
+/category/img/BISCUITS 
+0 11 0 1686610 0 0
+/product/img/QUAKER - OATS.jpg
+1 2 0 249902 0 0
+/product/img/fish malai kebab 4 PCS .jpg
+1 3 0 247042 0 0
+/product/img/AASHIRVAAD - INSTANT MIX - GULAB JAMUN.jpg
+1 4 0 705932 0 0
+/webservice/products/42068
+0 2 0 1922 0 0
+/product/img/REAL ACTIVE ORANGE WITHOUT SUGAR.jpg
+1 12 0 1213160 0 0
+/product/img/BISK FARM - BISCOTTI - BUTTER.jpg
+1 17 0 1872730 0 0
+/webservice/products/42981
+0 1 0 966 0 0
+/webservice/products/42630
+0 2 0 1936 0 0
+/product/img/KISSAN TOMATO PUREE.jpg
+1 5 0 658370 0 0
+/product/img/Prawn Malai kari .jpg
+1 14 0 2119248 0 0
+/product/img/PLASTIC  CLOTH DRYING HANGER - SET OF 16.jpg
+1 3 0 690711 0 0
+/webservice/products/42904
+0 1 0 933 0 0
+/webservice/products/42885
+0 2 0 1870 0 0
+/webservice/products/42159
+0 2 0 1957 0 0
+/webservice/products/42882
+0 2 0 1875 0 0
+/product/img/LUX-BODY WASH -SCARLET BLOSSOM.jpg
+1 1 0 65978 0 0
+/webservice/products/42480
+0 1 0 965 0 0
+/product/img/FLOOR WIPER WITH PLASTIC HANDLE.jpg
+1 1 0 83299 0 0
+/webservice/products/42324
+0 1 0 979 0 0
+/product/img/MIRINDA - ORANGE - CAN 250 ML.jpg
+1 3 0 259554 0 0
+/webservice/category/125
+0 21 0 4290 0 0
+/webservice/products/42682
+0 2 0 1898 0 0
+/webservice/products/41978
+0 1 0 993 0 0
+/webservice/products/42736
+0 2 0 1957 0 0
+/webservice/products/42847
+0 2 0 1846 0 0
+/webservice/products/42389
+0 1 0 943 0 1
+/webservice/products/42431
+0 2 0 1891 0 0
+/webservice/products/42737
+0 2 0 1885 0 0
+/webservice/products/42277
+0 3 0 2809 0 0
+/product/img/GITS - MIX -JILEBI.jpg
+1 5 0 3367930 0 0
+/webservice/products/42455
+0 1 0 968 0 0
+/webservice/products/42067
+0 2 0 1901 0 0
+/product/img/HIMALAYA  SPARKLING  WHITE.jpg
+1 1 0 192305 0 0
+/webservice/products/42641
+0 1 0 997 0 0
+/product/img/STREAX  TIC DARK BROWN COLOUR CRÈME.jpg
+1 1 0 130067 0 0
+/webservice/products/42247
+0 1 0 1065 0 0
+/product/img/FORTUNE KACHI GHANI MUSTARD OIL.jpg
+1 2 0 263460 0 0
+/webservice/products/42089
+0 1 0 895 0 0
+/webservice/products/42871
+0 2 0 1901 0 0
+/webservice/products/42647
+0 2 0 1916 0 0
+/appservice/addtocart
+0 60 0 4592 0 0
+/product/img/TATA SAMPARN - DHANIA.jpg
+1 5 0 192254 0 0
+/webservice/products/42688
+0 1 0 925 0 0
+/webservice/products/42506
+0 1 0 907 0 0
+/webservice/products/42790
+0 1 0 966 0 0
+/webservice/categorystatus
+0 14 0 560 0 0
+/product/img/GOWARDHAN GHEE.jpg
+1 3 0 342033 0 0
+/product/img/REAL - MOSAMBI.jpg
+1 12 0 748044 0 0
+/product/img/BISK FARM - MAST JEERA - THE SPICY JEERA BISCUITS.jpg
+1 13 0 507411 0 0
+/product/img/KELLOGGS - CHOCOS FILLS.jpg
+1 1 0 124539 0 0
+/webservice/products/42700
+0 1 0 897 0 0
+/category/img/KASSA MANGSHO .jpg
+1 64 0 3388336 0 0
+/product/img/REAL - PINEAPPLE.jpg
+1 16 0 871134 0 0
+/webservice/products/42670
+0 2 0 1933 0 0
+/product/img/GOOD DAY CASHEW NUTS.jpg
+1 15 0 2452540 0 0
+/webservice/products/42366
+0 2 0 1910 0 0
+/product/img/KITCHEN CLOTH  40 X 40 CM.jpg
+1 3 0 970428 0 0
+/product/img/MCCAIN - SMILES PUDINA CHATKA.jpg
+1 17 0 643989 0 0
+/product/img/AMERICAN GARDENS - BAKED BEANS.jpg
+1 1 0 394384 0 0
+/webservice/products/42878
+0 2 0 1985 0 0
+/webservice/products/42780
+0 2 0 1849 0 0
+/product/img/BOURNVITA - HEALTH DRINK.jpg
+1 2 0 68400 0 0
+/webservice/products/42475
+0 2 0 1925 0 0
+/category/img/GLUCOSE POWDER AND TABLET.jpg
+1 15 0 1160300 0 0
+/webservice/products/42260
+0 1 0 992 0 0
+/product/img/LIPTON - GREEN TEA - TULSI NATURA.jpg
+1 3 0 185451 0 0
+/product/img/HALDIRAM - SALTED PEANUTS.jpg
+1 2 0 451132 0 0
+/webservice/products/42806
+0 2 0 1904 0 0
+/webservice/category/253
+0 1 0 494 0 0
+/product/img/EXO - ANTI BACTIRIAL.jpg
+1 4 0 146128 0 0
+/category/img/RICE.jpg
+1 17 0 944460 0 0
+/webservice/products/42535
+0 3 0 2850 0 0
+/webservice/products/42319
+0 2 0 1932 0 0
+/product/img/SPRITE - BOTTLE 750 ML.jpg
+1 4 0 320240 0 0
+/webservice/vehiclelistall
+0 151 0 228550 4 2
+/product/img/ENGINE MUSTARD OIL.jpg
+1 2 0 0 0 0
+/webservice/products/42718
+0 1 0 1019 0 0
+/webservice/products/42036
+0 2 0 1903 0 0
+/product/img/PULAO .jpg
+1 10 0 1664676 0 0
+/webservice/category/247
+0 1 0 500 0 0
+/product/img/FRIENDS DIAPER PANTS M-L.jpg
+1 3 0 223834 0 0
+/webservice/products/42199
+0 1 0 1043 0 1
+/product/img/BISK FARM - RUSKIT -MILK RUSK.jpg
+1 17 0 441972 0 0
+/product/img/TULSHI ORGANIC TEA - CLASSIC.jpg
+1 3 0 516276 0 0
+/webservice/products/42305
+0 1 0 953 0 0
+/webservice/products/42359
+0 1 0 966 0 0
+/product/img/WAI WAI - 1-2-3 NOODLES - VEG FLAVOUR.jpg
+1 2 0 640780 0 0
+/product/img/SURF EXCEL EASY WASH DETERGENT POWDER.jpg
+1 5 0 533290 0 0
+/driver/img/146008-OTYC5V-561.jpg
+1 48 0 3672486 0 0
+/product/img/PAPER BOAT - ANAR-POMGRANATE.jpg
+1 20 0 644450 0 0
+/product/img/MAGGI RICH TOMATO KETCHUP.jpg
+1 7 0 243140 0 0
+/webservice/products/42468
+0 1 0 947 0 0
+/webservice/category/300
+0 1 0 476 0 0
+/webservice/products/42191
+0 2 0 1844 0 0
+/product/img/REAL - GRAPE.jpg
+1 16 0 1013903 0 0
+/product/img/PAPER BOAT - AAM PANNA.jpg
+1 19 0 435380 0 0
+/product/img/DUM KA MURG 3PCS .JPG
+1 5 0 366356 0 0
+/product/img/NESCAFE - SUNRISE COFFEE - EXTRA.jpg
+1 3 0 556320 0 0
+/product/img/TATA SAMPANN KITCHEN KING MASALA.jpg
+1 6 0 304131 0 0
+/category/img/eggs.jpg
+1 27 0 1800330 0 0
+/product/img/GILLETTE SHAVING FOAM.jpg
+1 2 0 61675 0 0
+/product/img/JK- AJWAN.jpg
+1 2 0 0 0 0
+/webservice/products/42310
+0 1 0 950 0 0
+/webservice/products/42347
+0 1 0 948 0 1
+/category/img/BINS BATHROOM WIRE HANGER CLIP ROPE.jpg
+1 3 0 307998 0 0
+/category/img/UTENSIL SCRUB PAD 
+0 16 0 950292 0 0
+/product/img/MOTHER S RECIPE - RED STUFFED CHILLI PICKLES.jpg
+1 5 0 75399 0 0
+/webservice/products/42519
+0 1 0 986 0 0
+/product/img/CHICKEN CHAP.JPG
+1 2 0 304224 0 0
+/webservice/products/42130
+0 1 0 963 0 0
+/product/img/AYURVADIC - PARTY WOODEN KNIFE - 6.4 INCH.jpg
+1 3 0 294453 0 0
+/product/img/W4.jpg
+1 2 0 108586 0 0
+/product/img/NESCAFE - INSTANT COFFEE - LATTE PREMIX.jpg
+1 3 0 622962 0 0
+/webservice/category/216
+0 1 0 468 0 0
+/product/img/PEDIASURE - COMPLETE 
+0 5 0 1389208 1 0
+/webservice/products/42015
+0 1 0 905 0 0
+/webservice/category/221
+0 1 0 470 0 0
+/webservice/products/42261
+0 1 0 996 0 0
+/product/img/M1.jpg
+1 2 0 196752 0 0
+/webservice/products/42306
+0 1 0 930 0 0
+/webservice/products/42071
+0 2 0 1872 0 0
+/product/img/AMUL - LASSI - ROSE.jpg
+1 20 0 726600 0 0
+/product/img/COCO COLA - BOTTLE 750 ML.jpg
+1 4 0 202908 0 0
+/webservice/products/42881
+0 2 0 1990 0 0
+/webservice/products/42440
+0 1 0 917 0 0
+/webservice/products/42959
+0 2 0 2000 0 0
+/product/img/SAVLON BODY WASH.jpg
+1 1 0 65848 0 0
+/category/img/PERSONAL CARE 
+0 66 0 3383718 0 0
+/webservice/products/42884
+0 2 0 1872 0 0
+/webservice/products/42636
+0 1 0 922 0 0
+/product/img/KESH KING SCALP 
+0 1 0 131000 0 0
+/webservice/products/42617
+0 2 0 1967 0 0
+/webservice/products/42470
+0 1 0 909 0 0
+/product/img/BISK FARM - CHEESE CREAM.jpg
+1 13 0 1462990 0 0
+/product/img/moong dal .jpeg
+0 7 0 484284 0 0
+/webservice/category/267
+0 1 0 482 0 0
+/product/img/PAPER BOAT - CHILLY GUAVA.jpg
+1 21 0 721622 0 0
+/webservice/products/42320
+0 2 0 1932 0 0
+/product/img/HARPIC - TOILET CLEANER.jpg
+1 3 0 205941 0 0
+/product/img/FUNFOOD RED CHILLI SAUCE.jpg
+1 4 0 155445 0 0
+/webservice/products/42146
+0 1 0 959 0 0
+/product/img/duck egg 6.jpg
+1 10 0 445984 0 0
+/category/img/RUMALI  ROTI KEBAB ROLL.jpg
+1 62 0 4200504 0 0
+/vehicle/img/20200117100850000000-2791333124070006273.webp
+0 1 0 17620 0 0
+/product/img/JK - JEERA WHOLE.jpg
+1 2 0 0 0 0
+/product/img/QUAKER - KESHARI KISHMISH OATS.jpg
+1 2 0 211692 0 0
+/webservice/products/42886
+0 2 0 1828 0 0
+/product/img/PEARS - SHOWER - SOFT 
+0 1 0 56356 0 0
+/webservice/products/42034
+0 2 0 1924 0 0
+/webservice/products/42492
+0 1 0 996 0 0
+/product/img/BISK FARM - JUNGLE BITES.jpg
+1 13 0 3188510 0 0
+/webservice/category/321
+0 1 0 474 0 0
+/webservice/products/42668
+0 3 0 2958 0 0
+/webservice/category/204
+0 2 0 982 0 0
+/webservice/products/42413
+0 1 0 979 0 0
+/product/img/CADBURY - OREO - CRÈME BISCUIT - CHOCOLATE.jpg
+1 13 0 2238390 0 0
+/product/img/REAL ACTIV - APPLE WITHOUT SUGAR.jpg
+1 12 0 926350 0 0
+/webservice/products/42057
+0 1 0 980 0 0
+/category/img/SUGAR.jpg
+1 17 0 677144 0 0
+/driverservice/login
+0 6 0 4812 5 0
+/product/img/DHARA REFINED OIL RICE BRAN.jpg
+1 2 0 223918 0 0
+/webservice/pincodesearchlist
+0 20 0 45144 1 0
+/product/img/MINUTE MAID - PULPY ORANGE.jpg
+1 19 0 865620 0 0
+/product/img/brown egg 6.jpg
+1 10 0 422448 0 0
+/webservice/products/42814
+0 1 0 964 0 0
+/product/img/REAL - POMEGRANATE 180 ML.jpg
+1 11 0 401533 0 0
+/product/img/fried-chicken 4PCS wings .jpg
+1 7 0 143736 0 0
+/product/img/PEPSI - BOTTLE 2.5 LTR.jpg
+1 4 0 153180 0 0
+/webservice/category/283
+0 1 0 518 0 0
+/product/img/SUNRISE - HALDI.jpg
+1 1 0 96667 0 0
+/webservice/products/42976
+0 2 0 1014 0 0
+/webservice/products/42817
+0 1 0 1013 0 0
+/webservice/products/42117
+0 2 0 1930 0 0
+/product/img/JHARNA GHEE.jpg
+1 3 0 262326 0 0
+/webservice/products/42748
+0 1 0 881 0 0
+/category/img/SATTU.jpg
+1 19 0 1270570 0 0
+/webservice/products/42559
+0 2 0 1878 0 0
+/product/img/NESCAFE GOLD POWDER - RICH 
+0 3 0 625719 0 0
+/webservice/category/106
+0 2 0 500 0 0
+/webservice/products/42569
+0 1 0 965 0 0
+/webservice/products/42993
+0 2 0 2191 0 0
+/product/img/HARPIC - BATHROOM CLEANER.jpg
+1 3 0 185499 0 0
+/webservice/products/42175
+0 2 0 1846 0 0
+/webservice/products/42888
+0 2 0 1841 0 1
+/product/img/TRESEMME SPA REJUVINATION SHAMPOO.jpg
+1 1 0 53367 0 0
+/webservice/products/42922
+0 1 0 947 0 0
+/webservice/products/42778
+0 2 0 1868 0 0
+/webservice/products/42957
+0 2 0 2201 0 0
+/banner/img/top-banner4.jpg
+1 16 0 313100 0 0
+/product/img/TATA TEA - CHAKRA GOLD ACTIV+ TEA.jpg
+1 3 0 959832 0 0
+/webservice/dashboardcount
+0 97 0 10659 1 0
+/webservice/mischargelisting
+0 171 0 58482 7 1
+/product/img/NIMYLE POPULAR 5 LTR.jpg
+1 1 0 90582 0 0
+/product/img/NIVEA FOR MEN SHAVING FOAM.jpg
+1 1 0 35294 0 0
+/webservice/products/42454
+0 1 0 909 0 0
+/product/img/SUNFEAST - YIPPEE PASTA TREAT SOUR CREAM ONION.jpg
+1 3 0 925662 0 0
+/webservice/products/42607
+0 1 0 905 0 0
+/webservice/products/42828
+0 1 0 974 0 0
+/product/img/disbg2.jpg
+1 3 0 44220 0 0
+/webservice/products/42908
+0 2 0 1884 0 0
+/webservice/retaileraddedit
+0 7 0 2384 2 2
+/webservice/products/42006
+0 2 0 1859 0 0
+/product/img/MUTTON BOTI  2 pcs .jpg
+1 1 0 141600 0 0
+/webservice/products/42880
+0 2 0 1886 0 0
+/product/img/MUTTON NAWABI BIRYANI.JPG
+1 36 0 3760178 0 0
+/webservice/category/248
+0 1 0 504 0 0
+/product/img/mutton-seekh-kabab 6 pcs .jpg
+1 3 0 150559 0 0
+/webservice/products/42836
+0 2 0 1909 0 0
+/product/img/GREEN SALAD.jpg
+1 3 0 420657 0 0
+/webservice/products/42466
+0 1 0 909 0 0
+/product/img/PRIYA - CHUTNEY - SWEET MANGO SLICED.jpg
+1 1 0 113901 0 0
+/product/img/TATA TEA - COFFEE - GRAND.jpg
+1 3 0 647133 0 0
+/product/img/onion.jpg
+1 6 0 721070 0 0
+/product/img/POPULAR PLASTIC STRIP BUCKET.jpg
+1 2 0 322696 0 0
+/webservice/products/42291
+0 1 0 910 0 0
+/retailer/img/Joggers.jpg
+1 6 0 90958 0 0
+/webservice/products/42633
+0 2 0 1927 0 0
+/webservice/category/196
+0 2 0 1045 0 0
+/webservice/products/42095
+0 3 0 2946 0 0
+/product/img/EVERST   - JAL JIRA.jpg
+1 2 0 228236 0 0
+/product/img/RETRACTABLE DOG LEASH.jpg
+1 3 0 218104 0 0
+/webservice/products/42169
+0 2 0 1832 0 0
+/webservice/category/203
+0 2 0 478 0 0
+/webservice/products/42675
+0 2 0 1957 0 0
+/webservice/products/42185
+0 2 0 1914 0 0
+/product/img/tangra.jpg
+1 11 0 2011248 0 0
+/retailerservice/retailer
+0 189 0 58392 10 5
+/webservice/products/42207
+0 1 0 984 0 0
+/product/img/ASHIRVAD - LANKA.jpg
+1 1 0 109849 0 0
+/product/img/KELLOGGS - CHOCOS - VARIETY PACK.jpg
+1 1 0 160335 0 0
+/category/img/fruits.jpg
+1 27 0 2123940 0 0
+/product/img/PRIYA - PICKLE - MANGO GINGER ( WITHOUT GARLIC ).jpg
+1 2 0 231826 0 0
+/product/img/BETTY CROCKER - MIX - PANCAKE.jpg
+1 1 0 263210 0 0
+/product/img/MCCAIN - VARIETY PACK.jpg
+1 6 0 726950 0 0
+/webservice/products/42837
+0 2 0 1938 0 0
+/webservice/category/229
+0 2 0 1040 0 0
+/webservice/products/42719
+0 1 0 1026 0 0
+/product/img/kathali kaka.jpg
+1 228 0 745490 0 0
+/webservice/products/42867
+0 2 0 1848 0 0
+/product/img/jhinga.jpg
+1 5 0 463325 0 0
+/retailerservice/orderselectbyretailer
+0 47 0 10243 0 4
+/webservice/products/42346
+0 2 0 933 0 0
+/product/img/JK - JIRA.jpg
+1 1 0 160885 0 0
+/product/img/BHETKI.jpg
+1 11 0 350272 0 0
+/webservice/products/42352
+0 2 0 1913 0 0
+/webservice/products/42421
+0 1 0 994 0 0
+/webservice/products/42400
+0 1 0 908 0 0
+/product/img/KELLOGS - FLAKES - CHOCOS CRUNCHY BITES.jpg
+1 1 0 123712 0 0
+/product/img/ladies finger.jpg
+1 6 0 436510 0 0
+/product/img/mushrooms.jpg
+1 5 0 688355 0 0
+/category/img/BUCKET AND MUG.jpg
+1 3 0 263979 0 0
+/webservice/products/42850
+0 2 0 1910 0 0
+/webservice/products/42410
+0 2 0 1998 0 0
+/product/img/bottle gourd ( lau ).jpg
+1 5 0 555660 0 0
+/webservice/products/42960
+0 1 0 1049 0 0
+/webservice/products/42858
+0 2 0 1877 0 0
+/webservice/products/42069
+0 2 0 1972 0 0
+/webservice/products/42638
+0 1 0 922 0 0
+/product/img/KNORR - CUP A SOUP - HOT 
+0 2 0 584014 0 0
+/webservice/category/226
+0 1 0 480 0 0
+/product/img/MTR - READY MIX - GULAB JAMUN.jpg
+1 4 0 784544 0 0
+/product/img/AXE-SIGNATURE PULSE COLONGE TALC.jpg
+1 1 0 49810 0 0
+/webservice/products/42634
+0 1 0 926 0 0
+/webservice/products/42795
+0 2 0 1908 0 0
+/webservice/products/42792
+0 1 0 953 0 0
+/webservice/products/42399
+0 2 0 1878 0 0
+/webservice/products/42038
+0 2 0 1998 0 0
+/product/img/PREMIUM PLASTIC BATHING MUG.jpg
+1 2 0 310676 0 0
+/webservice/products/42375
+0 1 0 925 0 0
+/webservice/products/42805
+0 1 0 999 0 0
+/webservice/products/42429
+0 1 0 992 0 0
+/category/img/MUESLI.jpg
+1 10 0 2040453 0 0
+/product/img/VIM DISH WASH GEL.jpg
+1 10 0 581196 0 0
+/webservice/products/42650
+0 1 0 1001 0 0
+/webservice/products/42457
+0 1 0 937 0 0
+/product/img/LIPTON - HONEY LEMON GREEN TEA - BAGS.jpg
+1 3 0 720507 0 0
+/webservice/category/235
+0 1 0 488 0 0
+/webservice/products/42002
+0 2 0 1839 0 0
+/product/img/RIN DETERGENT POWDER.jpg
+1 5 0 642325 0 0
+/webservice/products/42995
+0 4 0 4561 0 0
+/product/img/CHICKEN AND EGG SANDWICH .jpg
+1 7 0 324546 0 0
+/product/img/COLGATE TOTAL CHARCOAL DEEP CLEAN ANTICAVITY.jpg
+1 1 0 257532 0 0
+/webservice/category/233
+0 1 0 482 0 0
+/webservice/products/42116
+0 2 0 1937 0 0
+/webservice/products/42693
+0 1 0 891 0 0
+/webservice/products/42314
+0 2 0 1928 0 0
+/appservice/customeraccount
+0 2 0 1154 0 0
+/webservice/products/42894
+0 4 0 954 0 0
+/category/img/DRY FRUITS.jpg
+1 29 0 2487352 0 0
+/product/img/DOVE OXYGEN MOISTURE.jpg
+1 1 0 52566 0 0
+/product/img/COLOUR METAL DUSTBIN.jpg
+1 2 0 261858 0 0
+/webservice/products/42181
+0 3 0 2839 0 0
+/product/img/ZANDU.jpg
+1 1 0 255343 0 0
+/webservice/products/42946
+0 1 0 992 0 0
+/webservice/products/42826
+0 1 0 974 0 0
+/webservice/products/42248
+0 1 0 1042 0 0
+/webservice/products/42414
+0 1 0 970 0 0
+/webservice/products/42727
+0 2 0 1903 0 0
+/webservice/category/277
+0 1 0 496 0 0
+/webservice/products/42479
+0 1 0 909 0 0
+/product/img/MOTHER S RECIPE - MIXED PICKLES.jpg
+1 3 0 70405 0 0
+/webservice/products/42406
+0 1 0 970 0 0
+/product/img/RUMALI  ROTI KEBAB ROLL.jpg
+1 1 0 150018 0 0
+/webservice/products/42660
+0 2 0 1933 0 0
+/product/img/SPRITE - CAN 300 ML.jpg
+1 4 0 285184 0 0
+/webservice/products/42265
+0 1 0 987 0 0
+/webservice/products/42197
+0 1 0 1012 0 0
+/category/img/LIME 
+0 17 0 1289592 0 0
+/product/img/SUNRISE - LANKA POWDER.jpg
+1 1 0 111060 0 0
+/webservice/products/42315
+0 2 0 1928 0 0
+/product/img/PLASTIC SOAP DISH.jpg
+1 3 0 293172 0 0
+/product/img/white prawn.jpg
+1 11 0 428912 0 0
+/product/img/pineapple.jpg
+1 9 0 674980 0 0
+/webservice/retailer
+0 70 0 51949 2 3
+/product/img/EVEREST SABJI MASALA.jpg
+1 2 0 245866 0 0
+/webservice/category/263
+0 1 0 492 0 0
+/product/img/ACTIVE WHEEL.jpg
+1 10 0 752958 0 0
+/product/img/TRESEMME SMOOTH 
+0 1 0 53907 0 0
+/webservice/products/42625
+0 1 0 937 0 0
+/webservice/products/42048
+0 3 0 2890 0 0
+/webservice/products/42879
+0 2 0 1918 0 0
+/category/img/SOOJI.jpg
+1 17 0 304656 0 0
+/webservice/products/42801
+0 1 0 957 0 0
+/webservice/products/43004
+0 1 0 1113 0 0
+/product/img/BISK FARM - NICE COCONUT BISCUITS.jpg
+1 14 0 422540 0 0
+/webservice/products/42781
+0 2 0 1887 0 0
+/product/img/COLGATE MAXFRESH  RED GEL.jpg
+1 1 0 102217 0 0
+/product/img/SUPER DUSTPAN.jpg
+1 4 0 392416 0 0
+/product/img/Joggers.jpg
+1 419 0 136437 0 0
+/webservice/products/42516
+0 1 0 928 0 0
+/product/img/BRU - INSTANT COFFEE.jpg
+1 3 0 651843 0 0
+/category/img/PERFUME  DEO.jpg
+1 8 0 489152 0 0
+/product/img/cholarDAL.jpg
+1 7 0 721820 0 0
+/webservice/products/41992
+0 2 0 1875 0 0
+/product/img/PATI SAPTA.jpg
+1 5 0 435552 0 0
+/product/img/ITC MANGO MAGIC.jpg
+1 4 0 431419 0 0
+/product/img/TATA SAMPANN UNPOLISHED MASOOR DAL.jpg
+1 3 0 321873 0 0
+/product/img/POPULAR PLASTIC  BATHING MUG.jpg
+1 2 0 152998 0 0
+/product/img/EGG DEVIL.jpg
+1 3 0 402309 0 0
+/product/img/DUSTER.jpg
+1 3 0 823353 0 0
+/webservice/products/42264
+0 1 0 991 0 0
+/webservice/products/42906
+0 1 0 918 0 0
+/category/img/MOUTH WASH.jpg
+1 8 0 590376 0 0
+/webservice/category/303
+0 1 0 484 0 0
+/webservice/products/42877
+0 2 0 1910 0 0
+/webservice/products/42590
+0 2 0 1894 0 0
+/webservice/products/42605
+0 2 0 1894 0 0
+/product/img/REAL - POMEGRANATE.jpg
+1 13 0 1519485 0 0
+/webservice/category/201
+0 1 0 498 0 0
+/webservice/products/41982
+0 1 0 978 0 0
+/webservice/products/42876
+0 2 0 1915 0 0
+/product/img/MAGGI HOT 
+0 8 0 268292 1 0
+/webservice/products/42303
+0 1 0 982 0 1
+/product/img/COTTON HANDLE MOP.jpg
+1 1 0 37923 0 0
+/webservice/products/42156
+0 2 0 1976 0 0
+/product/img/NESTLE - KOKO KRUNCH - CHOCOLATE.jpg
+1 1 0 138162 0 0
+/webservice/products/42433
+0 1 0 969 0 0
+/webservice/products/42005
+0 2 0 1843 0 1
+/webservice/products/42967
+0 2 0 2042 0 0
+/webservice/products/43033
+0 2 0 1107 0 0
+/webservice/products/42109
+0 3 0 3144 0 0
+/product/img/KIWI - DRANEX DRAIN CLEANER.jpg
+1 2 0 119950 0 0
+/webservice/products/42706
+0 1 0 901 0 0
+/product/img/VANISH.jpg
+1 6 0 318500 0 0
+/webservice/category/218
+0 1 0 466 0 0
+/webservice/products/42985
+0 1 0 1021 0 0
+/webservice/products/42079
+0 2 0 1892 0 0
+/webservice/products/42143
+0 1 0 959 0 0
+/webservice/products/42073
+0 2 0 1930 0 0
+/webservice/products/42623
+0 1 0 989 0 0
+/webservice/products/42606
+0 2 0 1885 0 0
+/product/img/LUX-BATHING SOAP - SANDAL CREAM.jpg
+1 2 0 187238 0 0
+/product/img/PET FOOD FEEDING BOWL - PLASTIC.jpg
+1 4 0 246123 0 0
+/product/img/PREMIUM HIGH QUALITY DUSTBIN.jpg
+1 2 0 250946 0 0
+/webservice/products/42298
+0 2 0 1948 0 0
+/product/img/table egg 30.jpg
+1 11 0 466512 0 0
+/product/img/DOVE-CREAM BEAUTY BATHING BAR.jpg
+1 1 0 50775 0 0
+/webservice/products/42577
+0 1 0 935 0 0
+/product/img/LAYS - POTATO CHIPS - CALM CREAM 
+0 10 0 2692830 0 0
+/webservice/products/42124
+0 3 0 2800 0 0
+/category/img/NAMKIN AND SNACKS.jpg
+1 10 0 1087875 0 0
+/webservice/category/255
+0 1 0 546 0 0
+/webservice/products/42382
+0 1 0 931 0 0
+/product/img/PEARS-NATURALE COCONUT NOURISHING SOAP BAR.jpg
+1 3 0 384738 0 0
+/webservice/products/42100
+0 3 0 2984 0 0
+/webservice/vechicleinsertupdate
+0 31 0 1949 0 1
+/webservice/products/42381
+0 2 0 1818 0 0
+/product/img/DABUR honey.jpg
+1 1 0 105450 0 0
+/webservice/products/42321
+0 2 0 1854 0 0
+/webservice/products/43002
+0 1 0 1129 0 0
+/webservice/category/244
+0 2 0 1000 0 0
+/webservice/products/42940
+0 2 0 2186 0 0
+/product/img/INDIA GATE - BASMATI - ROZZANA PREMIUM.jpg
+1 1 0 96583 0 0
+/webservice/category/298
+0 1 0 476 0 0
+/webservice/category/293
+0 1 0 482 0 0
+/webservice/products/42640
+0 1 0 922 0 0
+/webservice/category/232
+0 1 0 468 0 0
+/webservice/products/42534
+0 2 0 1853 0 0
+/product/img/BISK FARM - GOOGLY.jpg
+1 13 0 3553470 0 0
+/webservice/products/42271
+0 1 0 984 0 0
+/webservice/products/42710
+0 2 0 2010 0 0
+/product/img/INDICA EASY BURGANDY COLOUR SHAMPOO.jpg
+1 1 0 148490 0 0
+/webservice/products/42262
+0 1 0 994 0 0
+/webservice/products/42244
+0 1 0 1026 0 0
+/category/img/CANNED FOOD.jpg
+1 3 0 310836 0 0
+/product/img/TROPICANA - LITCHI.jpg
+1 11 0 804300 0 0
+/webservice/category/299
+0 1 0 486 0 0
+/product/img/CLASSIC PLASTIC DUSTBIN.jpg
+1 2 0 307338 0 0
+/product/img/TIGER GLUCOSE BISCUITS.jpg
+1 13 0 1866780 0 0
+/webservice/products/42268
+0 1 0 960 0 0
+/webservice/category/279
+0 1 0 478 0 0
+/product/img/TATA TEA PREMIUM - LEAF TEA.jpg
+1 3 0 575094 0 0
+/webservice/products/42758
+0 3 0 2915 0 0
+/webservice/products/42812
+0 1 0 938 0 0
+/driver/img/top-banner2.jpg
+1 48 0 234780 0 0
+/product/img/MAGGI - NUTRI-LICIOUS MASALA VEG ATA  NOODLES.jpg
+1 2 0 328512 0 0
+/webservice/products/42077
+0 2 0 1904 0 0
+/product/img/SCOTCH BRITE - SCRUB SPONGE LARGE.jpg
+1 1 0 287691 0 0
+/category/img/JAGGERY.jpg
+1 17 0 957024 0 0
+/product/img/STREAX  TIC DARK BROWN COLOUR CRÈME  50 ML.jpg
+1 1 0 133625 0 0
+/webservice/products/42532
+0 2 0 1838 0 0
+/product/img/T - MOP REFILL.jpg
+1 1 0 71801 0 0
+/product/img/PAPER BOAT - LYCHEE RAS.jpg
+1 20 0 485490 0 0
+/webservice/products/42709
+0 1 0 903 0 0
+/product/img/INDICA EASY DARKEST BROWN COLOUR SHAMPOO.jpg
+1 1 0 103767 0 0
+/product/img/ginger.jpg
+1 6 0 714260 0 0
+/product/img/EVEREST - FISH CURRY.jpg
+1 2 0 220108 0 0
+/webservice/products/42920
+0 1 0 925 0 0
+/webservice/category/238
+0 1 0 492 0 0
+/product/img/TRESEMME HAIR FALL DEFENCE HAIR  CONDITIONER 134 ML.jpg
+1 2 0 94932 0 0
+/webservice/banner/1
+0 1 0 406 0 0
+/product/img/yam ool.jpg
+1 5 0 517900 0 0
+/webservice/products/42104
+0 2 0 1943 0 1
+/product/img/COLIN - GLASS 
+0 2 0 140810 0 0
+/product/img/DETTOL-HONEY 
+0 1 0 47325 0 1
+/webservice/products/42195
+0 2 0 1891 0 0
+/webservice/products/42869
+0 4 0 3747 0 0
+/webservice/products/42925
+0 1 0 951 0 0
+/webservice/products/42282
+0 1 0 1030 0 0
+/webservice/products/42364
+0 3 0 1884 0 0
+/product/img/KNORR - MIXED VEG.jpg
+1 2 0 635006 0 0
+/retailer/img/no.jpg
+1 55 0 265720 0 0
+/product/img/KELLOGGS-MUSELI WITH FRUIT 
+0 1 0 95226 0 0
+/webservice/products/42033
+0 2 0 1912 0 0
+/webservice/products/42377
+0 1 0 939 0 0
+/webservice/products/42989
+0 1 0 958 0 0
+/category/img/pet food.jpg
+1 59 0 1455076 0 0
+/webservice/products/42311
+0 1 0 943 0 0
+/product/img/Bitter gourd.jpg
+1 5 0 718730 0 0
+/product/img/barbeque chicken wings 4PCS.jpg
+1 6 0 283284 0 0
+/webservice/products/42331
+0 2 0 1857 0 0
+/webservice/products/42358
+0 2 0 1906 0 0
+/product/img/TATA TEA CHAKRA GOLD.jpg
+1 3 0 468780 0 0
+/product/img/EMAMI HEALTHY 
+0 4 0 508404 0 0
+/webservice/products/42595
+0 1 0 913 0 0
+/webservice/products/42170
+0 2 0 1832 0 0
+/vehicle/img/10kb.png
+1 35 0 3234 0 0
+/product/img/NUTRI CHOICE.jpg
+1 14 0 2345211 0 0
+/webservice/products/42138
+0 1 0 961 0 0
+/category/img/CHIPS AND CORN.jpg
+1 11 0 2632240 0 0
+/webservice/products/42596
+0 2 0 1854 0 0
+/webservice/products/42586
+0 3 0 2870 0 0
+/product/img/AMUL - KOOL - KOKO.jpg
+1 19 0 1143860 0 0
+/customer/img/1597306164587.png
+1 6 0 2273688 0 0
+/webservice/products/42525
+0 2 0 1862 0 1
+/product/img/MURG LABABDAR 2PCS.JPG
+1 5 0 273256 0 0
+/product/img/HARYALI MURG KABAB 6 pcs.jpg
+1 1 0 134226 0 0
+/product/img/MCCAIN - CHEESE PIZA SAMOSA.jpg
+1 15 0 698030 0 0
+/webservice/products/42478
+0 1 0 1004 0 0
+/product/img/W3.jpg
+1 2 0 172520 0 0
+/category/img/OATS AND PORRIDGE.jpg
+1 10 0 1131660 0 0
+/webservice/products/42439
+0 1 0 995 0 0
+/webservice/products/42097
+0 2 0 1914 0 0
+/product/img/M4.jpg
+1 2 0 173912 0 0
+/webservice/products/42051
+0 2 0 2002 0 0
+/product/img/CADBURY - DRINKING CHOCOLATE - ORIGINAL.jpg
+1 4 0 714924 0 0
+/product/img/graps.jpg
+1 10 0 512635 0 0
+/product/img/paper-boat-mango drink.jpg
+1 20 0 586870 0 0
+/webservice/products/42717
+0 1 0 911 0 0
+/product/img/DETTOL - SANITIZER.jpg
+1 2 0 132484 0 0
+/webservice/customerall
+0 49 0 43038 1 0
+/webservice/category/257
+0 1 0 480 0 0
+/webservice/products/42489
+0 1 0 909 0 0
+/category/img/mutton-seekh-kabab 6 pcs .jpg
+1 5 0 451677 0 0
+/webservice/products/42497
+0 2 0 1893 0 0
+/product/img/HENKO MATIC FRONT LOAD.jpg
+1 2 0 360120 0 0
+/webservice/products/42973
+0 1 0 979 0 0
+/webservice/category/236
+0 1 0 484 0 0
+/webservice/products/42078
+0 2 0 1882 0 0
+/webservice/products/42965
+0 1 0 1056 0 0
+/webservice/products/42032
+0 1 0 1005 0 0
+/webservice/category/313
+0 1 0 504 0 0
+/product/img/MILANO CHOCO CHIP COOKIES.jpg
+1 13 0 2078940 0 0
+/webservice/category/143
+0 2 0 529 0 0
+/webservice/products/42341
+0 1 0 984 0 0
+/webservice/products/42578
+0 2 0 1873 0 0
+/product/img/CHICKEN TANGRI KABAB 2pcs .JPG
+1 1 0 229158 0 0
+/webservice/products/42354
+0 1 0 941 0 0
+/product/img/LEVISTA - STRONG COFFEE.jpg
+1 3 0 800319 0 0
+/webservice/products/42653
+0 1 0 1028 0 0
+/webservice/category/251
+0 1 0 492 0 0
+/product/img/NESCAFE - SUNRISE INSTANT COFFEE.jpg
+1 1 0 101091 0 0
+/product/img/Mahi_sarso Tikka 2PCS .jpg
+1 3 0 246208 0 0
+/product/img/TRESEMME KERATIN SMOOTH HAIR CONDITIONER.jpg
+1 2 0 109476 0 0
+/webservice/products/42991
+0 2 0 2171 0 0
+/product/img/apple fuji.jpg
+1 11 0 447192 0 0
+/webservice/products/42332
+0 1 0 967 0 0
+/product/img/PAPER CUPS - 95 ML -.jpg
+1 2 0 254100 0 0
+/webservice/category/258
+0 1 0 482 0 0
+/product/img/ARIEL MATIC LIQUID DETERJENT.jpg
+1 4 0 281236 0 0
+/webservice/products/42465
+0 3 0 2976 0 0
+/webservice/products/42460
+0 1 0 974 0 0
+/product/img/AMUL - MASTI BUTTERMILK.jpg
+1 440 0 1510056 0 0
+/webservice/category/282
+0 1 0 516 0 0
+/webservice/products/42132
+0 1 0 961 0 0
+/product/img/GLUCON - D - INSTANT ENERGY HEALTH DRINK - TANGY ORANGE.jpg
+1 5 0 1633690 0 0
+/product/img/BISK FARM - SWEET HEART.jpg
+1 14 0 367000 0 0
+/webservice/products/42495
+0 1 0 987 0 0
+/product/img/ODONIL - ZIPPER BATHROOM AIR FRESHNER.jpg
+1 2 0 171936 0 0
+/product/img/WEIKFIELD - CHOCOLATE.jpg
+1 2 0 503262 0 0
+/product/img/LIZOL - FLOOR CLEANER.jpg
+1 3 0 314685 0 0
+/webservice/products/42380
+0 2 0 1818 0 0
+/webservice/products/42659
+0 2 0 1933 0 0
+/product/img/PEPSODENT CLOVE 
+0 1 0 26768 0 0
+/product/img/PANTENE HAIRFALL CONTROL SHAMPOO.jpg
+1 1 0 42993 0 0
+/appservice/categorywiselist
+0 398 0 1523899 3 5
+/webservice/products/42447
+0 1 0 980 0 0
+/webservice/products/42815
+0 1 0 956 0 0
+/webservice/products/42183
+0 2 0 1880 0 0
+/webservice/products/42041
+0 2 0 1884 0 0
+/webservice/products/42163
+0 2 0 1832 0 0
+/webservice/products/42769
+0 1 0 885 0 0
+/product/img/DETTOL AFTER WASH LAUNDRY SANITIZER.jpg
+1 4 0 286876 0 0
+/webservice/products/42741
+0 2 0 2043 0 0
+/webservice/products/42768
+0 1 0 881 0 0
+/webservice/products/42150
+0 2 0 1868 0 0
+/webservice/products/43009
+0 1 0 1197 0 0
+/webservice/products/42313
+0 1 0 964 0 0
+/webservice/products/42579
+0 1 0 935 0 0
+/webservice/products/42418
+0 1 0 915 0 0
+/webservice/products/42913
+0 1 0 1078 0 0
+/product/img/TRESEMME HAIR FALL DEFENCE HAIR  CONDITIONER  190ML.jpg
+1 2 0 94832 0 0
+/product/img/STAINLESS STEEL DUSTBIN  GARBAGE BIN.jpg
+1 2 0 193600 0 0
+/webservice/pendingorderserachbyvehiclemapping
+0 262 0 1833813 31 4
+/product/img/REAL - MANGO.jpg
+1 12 0 935390 0 0
+/product/img/NYCIL - PRICKLY HEAT POWDER - COOL ALOE.jpg
+1 1 0 85058 0 0
+/product/img/PEDIASURE - HEALTH DRINK - COOKIES 
+0 3 0 601935 0 0
+/webservice/products/42733
+0 2 0 1998 0 0
+/product/img/SUNFEAST - YIPPEE ATA NOODLES.jpg
+1 3 0 23930 0 0
+/product/img/LUX-INTERNATIONAL CREAMY PERFECTION SOAP BAR.jpg
+1 2 0 152454 0 0
+/webservice/products/42784
+0 1 0 937 0 0
+/product/img/KNORR - INSTANT TOMATO CHATPATA.jpg
+1 3 0 1042200 0 0
+/webservice/products/42026
+0 1 0 941 0 0
+/webservice/products/42822
+0 1 0 961 0 0
+/webservice/products/42025
+0 1 0 935 0 0
+/webservice/products/42177
+0 2 0 1868 0 0
+/webservice/products/42280
+0 1 0 993 0 0
+/product/img/COLGATE KIDS 0-2 YEARS.jpg
+1 1 0 104944 0 0
+/product/img/JK - DHANIA WHOLE.jpg
+1 2 0 0 0 0
+/webservice/taxselect
+0 1831 0 2366420 1 11
+/category/img/BROOMS 
+0 13 0 900330 0 0
+/category/img/TAWA LACHCHA PARATHA.JPG
+1 49 0 4818270 0 0
+/product/img/TANDOORI CHICKEN 2pcs.JPG
+1 1 0 181622 0 0
+/webservice/products/42705
+0 1 0 961 0 0
+/category/img/medicines b.png
+1 271 0 26112408 0 0
+/webservice/products/42715
+0 1 0 962 0 0
+/webservice/products/42598
+0 1 0 921 0 0
+/webservice/products/43014
+0 1 0 1157 0 0
+/category/img/EAR BUDS.jpg
+1 9 0 563684 0 0
+/webservice/products/42868
+0 3 0 2791 0 0
+/webservice/category/297
+0 1 0 498 0 0
+/product/img/WAGH BAKRI - ICE TEA - LEMON.jpg
+1 3 0 794280 0 0
+/product/img/kassa chicken  -2PCS.jpg
+1 5 0 237470 0 0
+/webservice/products/42050
+0 2 0 1957 0 0
+/webservice/products/42763
+0 1 0 881 0 0
+/webservice/products/42560
+0 3 0 2021 0 0
+/product/img/cabbage.jpg
+1 6 0 515170 0 0
+/product/img/RUMALI ROTI .jpg
+1 3 0 163162 0 0
+/product/img/TATA SAMPARN - MEAT MASALA.jpg
+1 6 0 531516 0 0
+/product/img/HORLICKS - OATS.jpg
+1 3 0 467340 0 0
+/webservice/products/42740
+0 2 0 1921 0 0
+/product/img/mutton burra kabab 4 pcs .jpg
+1 3 0 324642 0 0
+/webservice/products/42998
+0 3 0 3333 0 0
+/webservice/products/41980
+0 1 0 950 0 0
+/webservice/products/42602
+0 2 0 1864 0 0
+/category/img/SAUCE AND KETCHUP.jpg
+1 11 0 763532 0 0
+/product/img/kiwi green.jpg
+1 10 0 923226 0 0
+/product/img/TROPICANA - APPLE.jpg
+1 11 0 904730 0 0
+/webservice/products/42958
+0 1 0 1014 0 0
+/product/img/PEPSI - BOTTLE 750 ML.jpg
+1 4 0 82296 0 0
+/product/img/HIT - MOSQUITO 
+0 2 0 114360 0 0
+/product/img/TATA SAMPARN BESAN 1 KG.jpg
+1 4 0 621152 0 0
+/product/img/Plain_naan .jpg
+1 3 0 172786 0 0
+/product/img/KNORR - TOMATO SOUP.jpg
+1 4 0 1108080 0 0
+/webservice/products/42212
+0 1 0 1023 0 0
+/webservice/products/42385
+0 2 0 1818 0 0
+/category/img/RAZOR 
+0 8 0 440796 0 0
+/webservice/products/42065
+0 2 0 1959 0 0
+/product/img/TATA TEA KANAN DEVAN - TEA.jpg
+1 3 0 714039 0 0
+/product/img/PAPER BOAT - MIXED FRUIT.jpg
+1 19 0 354990 0 0
+/webservice/products/41990
+0 2 0 1869 0 0
+/webservice/products/42865
+0 3 0 2800 0 0
+/webservice/products/42147
+0 2 0 1893 0 0
+/banner/img/Vegetable-Biryani-KhaanaKhazana.jpg
+1 206 0 6039573 0 0
+/webservice/products/42753
+0 2 0 1883 0 0
+/webservice/products/42241
+0 1 0 931 0 0
+/product/img/TREAT WAFERS.jpg
+1 13 0 2534910 0 0
+/webservice/products/42553
+0 2 0 1966 0 0
+/product/img/LIPTON - GREEN TEA - PURE 
+0 3 0 471312 0 0
+/webservice/products/42312
+0 1 0 941 0 0
+/webservice/products/42918
+0 1 0 959 0 0
+/webservice/products/42255
+0 1 0 1009 0 0
+/webservice/category/259
+0 1 0 508 0 0
+/product/img/COMPLAN - NUTRATION 
+0 2 0 477526 0 0
+/product/img/TATA SALT IODISE.jpg
+1 7 0 205392 0 0
+/webservice/products/42103
+0 2 0 1878 0 1
+/webservice/products/42205
+0 1 0 988 0 0
+/product/img/SENSODYNE DEEP CLEAN TOOTHPASTE.jpg
+1 1 0 119374 0 0
+/webservice/products/42528
+0 3 0 2782 0 0
+/category/img/TOOTH PASTE.jpg
+1 9 0 327835 0 0
+/webservice/products/42238
+0 1 0 1029 0 0
+/webservice/products/42661
+0 2 0 1955 0 0
+/product/img/katla-macher-jhol.jpg
+1 15 0 1225926 0 0
+/webservice/products/42835
+0 1 0 975 0 0
+/webservice/products/42701
+0 2 0 1912 0 0
+/webservice/products/42287
+0 1 0 970 0 0
+/webservice/products/42570
+0 4 0 2891 0 0
+/webservice/products/42167
+0 2 0 1836 0 0
+/webservice/category/256
+0 1 0 486 0 0
+/webservice/products/42568
+0 2 0 1886 0 0
+/category/img/HAKKA NOODLES.jpg
+1 10 0 914220 0 0
+/webservice/products/42259
+0 1 0 993 0 0
+/product/img/JK - LANKA POWDER.jpg
+1 1 0 114089 0 0
+/webservice/products/42697
+0 1 0 899 0 0
+/product/img/GITS JILABI.jpg
+1 2 0 156672 0 0
+/webservice/products/42030
+0 2 0 1942 0 0
+/product/img/CHICKEN TIKKA KABAB 6 pcs.JPG
+1 1 0 122193 0 0
+/product/img/LUCHI.jpg
+1 8 0 842520 0 0
+/product/img/FROOTI - MANGO.jpg
+1 11 0 799990 0 0
+/product/img/BINGO - POTATO CHIPS - SALT SPRINKLED.jpg
+1 10 0 2338310 0 0
+/product/img/ENSURE - NUTRITIONAL POWDER - CHOCOLATE FLAVOUR.jpg
+1 4 0 739827 0 0
+/webservice/products/42637
+0 2 0 1878 0 0
+/webservice/products/42266
+0 1 0 988 0 0
+/product/img/MAGGI - FUSION ASSORTED PACK.jpg
+1 4 0 1414008 0 0
+/webservice/products/42040
+0 2 0 1922 0 0
+/webservice/products/42861
+0 4 0 3756 0 0
+/webservice/products/42730
+0 2 0 1942 0 0
+/webservice/products/42648
+0 2 0 1901 0 0
+/product/img/graps black.jpg
+1 10 0 715885 0 0
+/webservice/products/42915
+0 1 0 1106 0 0
+/webservice/activedriverlist
+0 332 0 1173997 8 3
+/webservice/products/42472
+0 2 0 1940 0 0
+/product/img/CHICKEN RESHMI MASALA 3PCS.JPG
+1 3 0 284558 0 0
+/product/img/RIN DETERGENT BAR.jpg
+1 5 0 571540 0 0
+/product/img/SAFFOLA - OATS.jpg
+1 3 0 452991 0 0
+/product/img/GLUCON - D - INSTANT ENERGY HEALTH DRINK - REGULAR.jpg
+1 5 0 1251685 0 0
+/customer/img/10kb.png
+1 19 0 6468 0 0
+/webservice/products/42816
+0 1 0 961 0 0
+/webservice/products/42614
+0 2 0 1958 0 0
+/webservice/products/42526
+0 1 0 912 0 0
+/product/img/TOP RAMEN - NOODLES - MASALA.jpg
+1 1 0 243032 0 0
+/webservice/driverselectrow/6
+0 1 0 498 0 0
+/webservice/products/41991
+0 1 0 927 0 0
+/webservice/products/42797
+0 1 0 960 0 0
+/product/img/LUX-CHARMING MAGNOLIA SOAP BAR.jpg
+1 2 0 162904 0 0
+/product/img/FISH FINGER 2 PCS .jpg
+1 3 0 213580 0 0
+/webservice/products/42996
+0 2 0 2231 0 0
+/appservice/getpaymentmode
+0 27 0 8683 0 0
+/webservice/products/42984
+0 2 0 2004 0 0
+/category/img/FLOOR 
+0 17 0 1131325 0 0
+/webservice/products/42224
+0 1 0 1016 0 0
+/product/img/BISK FARM - SUGAR FREE CREAM CRACKER.jpg
+1 13 0 196020 0 0
+/webservice/products/42316
+0 2 0 1898 0 0
+/product/img/COLGATE PLAX PEPPER MINT.jpg
+1 3 0 324351 0 0
+/product/img/bagda.jpg
+1 11 0 994280 0 0
+/webservice/products/42136
+0 1 0 968 0 0
+/product/img/GOOD DAY BUTTER COOKIES.jpg
+1 14 0 2490138 0 0
+/webservice/products/42350
+0 1 0 937 0 0
+/webservice/products/42082
+0 3 0 2868 0 0
+/webservice/products/42393
+0 2 0 1834 0 0
+/webservice/products/41988
+0 2 0 1893 0 0
+/category/img/NIMBU PANI23.jpg
+1 62 0 2222127 0 0
+/webservice/products/42126
+0 1 0 972 0 0
+/category/img/KID CEREAL.jpg
+1 10 0 2123901 0 0
+/webservice/products/42496
+0 1 0 984 0 0
+/webservice/products/42486
+0 1 0 999 0 0
+/webservice/category/306
+0 1 0 486 0 0
+/webservice/products/42807
+0 1 0 977 0 0
+/product/img/PROTINEX - NUTRITIONAL SUPPLEMENT - HIGH PROTEIN , VANILA.jpg
+1 4 0 777789 0 0
+/webservice/products/42872
+0 3 0 1863 0 0
+/webservice/products/42296
+0 2 0 1984 0 0
+/webservice/products/42035
+0 2 0 1897 0 0
+/product/img/AMUL - KOOL CAFÉ - CINNAMON.jpg
+1 19 0 415240 0 0
+/webservice/category/325
+0 1 0 475 0 0
+/webservice/products/42947
+0 1 0 992 0 0
+/webservice/products/42887
+0 2 0 1866 0 0
+/webservice/products/42811
+0 1 0 904 0 0
+/webservice/parentcategorylist
+0 236 0 2919642 0 0
+/webservice/products/42267
+0 1 0 985 0 0
+/webservice/products/42411
+0 1 0 1010 0 0
+/product/img/SENSODYNE EXPERT TOOTHBRUSH.jpg
+1 2 0 191736 0 0
+/webservice/products/42108
+0 2 0 2046 0 0
+/product/img/SOULFULL - RAGI BITES CHOCO VANILA FILLS -.jpg
+1 1 0 118337 0 0
+/webservice/category/323
+0 1 0 486 0 0
+/webservice/products/42615
+0 1 0 937 0 0
+/product/img/DHAMPURE JAGGERY  500 GMS.jpg
+1 1 0 113229 0 0
+/product/img/SENSODYNE FRESH MINT.jpg
+1 1 0 87168 0 0
+/product/img/REAL -  MASALA AAM PANNA.jpg
+1 12 0 883127 0 0
+/webservice/products/42761
+0 1 0 917 0 0
+/product/img/NESCAFE - GOLD CAPPUCCINO INSTANT COFFEE PREMIX.jpg
+1 3 0 965205 0 0
+/webservice/products/42083
+0 2 0 1968 0 0
+/product/img/INDIA GATE - BASMATI - FEAST ROZZANA.jpg
+1 1 0 105244 0 0
+/product/img/PEARS-PURE 
+0 2 0 159608 0 0
+/product/img/LIRIL-SOAP BAR -LEMON 
+0 2 0 182778 0 0
+/customer/img/1597341978232.png
+1 1 0 69380 0 0
+/category/img/SOYABEAN OIL.jpg
+1 17 0 945184 0 0
+/category/img/fruit juice and drink.jpg
+1 18 0 1745667 0 0
+/product/img/PLASTIC DUSTBIN GARBAGE BIN SWING WITH LID.jpg
+1 2 0 352912 0 0
+/webservice/products/41985
+0 1 0 938 0 0
+/webservice/products/42754
+0 2 0 1913 0 0
+/webservice/category/274
+0 1 0 482 0 0
+/product/img/WOODEN CLOTH HANGERS.jpg
+1 3 0 324534 0 0
+/banner/img/res.jpg
+1 16 0 499445 0 0
+/product/img/VI-JOHN AXE ICE CHILL SHAVING FOAM.jpg
+1 2 0 101589 0 0
+/webservice/products/42107
+0 2 0 2075 0 0
+/product/img/EVERADY - LED BULB - 14 WATT.jpg
+1 4 0 680256 0 0
+/product/img/LUX-BODY WASH - FRESH FLASH.jpg
+1 1 0 69634 0 0
+/webservice/category/315
+0 1 0 518 0 0
+/webservice/products/42707
+0 1 0 953 0 0
+/webservice/products/42510
+0 1 0 979 0 0
+/product/img/MOTHER S RECIPE - MANGO PICKLE.jpg
+1 1 0 146332 0 0
+/product/img/WAI WAI NOODLES - CHINEESE HAKKA EGG.jpg
+1 2 0 532204 0 0
+/webservice/products/42961
+0 1 0 1042 0 0
+/vehicle/img/SONATA-hero-option1-764A5360-edit-640x354.jpg
+1 19 0 204692 0 0
+/product/img/ASHIRVAD - JIRA.jpg
+1 1 0 82840 0 0
+/category/img/chicken.jpg
+1 27 0 1698945 0 0
+/webservice/products/42309
+0 1 0 900 0 0
+/webservice/products/42684
+0 2 0 2007 0 0
+/webservice/products/42289
+0 2 0 1921 0 0
+/webservice/products/42409
+0 1 0 994 0 0
+/product/img/SUNLIGHT DETERGENT BAR.jpg
+1 4 0 538564 0 0
+/webservice/products/42365
+0 1 0 939 0 0
+/banner/img/top-banner3.jpg
+1 15 0 283655 0 0
+/retailerservice/login
+0 26 0 27078 7 0
+/webservice/products/42851
+0 3 0 2844 0 0
+/webservice/products/42926
+0 1 0 951 0 0
+/webservice/products/42610
+0 2 0 1896 0 0
+/webservice/products/42608
+0 2 0 1869 0 0
+/webservice/products/42176
+0 2 0 1835 0 0
+/webservice/products/42194
+0 2 0 1859 0 0
+/webservice/products/43006
+0 1 0 1120 0 0
+/webservice/category/266
+0 1 0 490 0 0
+/webservice/products/42825
+0 1 0 962 0 0
+/product/img/TIDE DETERGENT.jpg
+1 6 0 447895 0 0
+/category/img/GAS DEO.jpg
+1 9 0 424244 0 0
+/webservice/category/228
+0 1 0 482 0 0
+/webservice/products/42729
+0 2 0 1888 0 0
+/webservice/products/42019
+0 1 0 905 0 0
+/product/img/BAYGON - FLY 
+0 3 0 155353 0 0
+/category/img/AIR FRESHNER.jpg
+1 17 0 437136 0 0
+/webservice/products/42013
+0 1 0 901 0 0
+/product/img/EVEREST - SHAHI PANEER MASALA.jpg
+1 2 0 282314 0 0
+/webservice/products/42279
+0 1 0 989 0 0
+/webservice/products/42482
+0 1 0 962 0 0
+/product/img/MIRINDA - ORANGE 750 ML.jpg
+1 3 0 127215 0 0
+/product/img/DETTOL-YUZU CITRUS BODY WASH.jpg
+1 1 0 59492 0 0
+/webservice/products/42548
+0 2 0 1938 0 0
+/product/img/HIDE 
+0 40 0 6651374 2 0
+/product/img/15.FISH FRY ONLY ALIBABA.jpg
+1 10 0 632700 0 0
+/product/img/PLASTIC DEEP TUB.jpg
+1 2 0 210480 0 0
+/webservice/category/319
+0 1 0 484 0 0
+/product/img/PLATINA - NUTRICRUNCH LITE CRACKER.jpg
+1 13 0 4037960 0 0
+/webservice/products/42823
+0 2 0 1806 0 0
+/webservice/products/42511
+0 1 0 937 0 0
+/webservice/products/42657
+0 5 0 4698 0 0
+/product/img/DABUR RED.jpg
+1 2 0 1335054 0 0
+/webservice/products/42588
+0 2 0 1984 0 0
+/category/img/RICE BRAN OIL.jpg
+1 18 0 1628100 0 0
+/webservice/products/42308
+0 1 0 933 0 0
+/product/img/MAYURANK FOODS CHANA DAL.jpg
+1 2 0 427652 0 0
+/product/img/GOOD DAY CHOCOCHIP COOKIES.jpg
+1 14 0 1015299 0 0
+/webservice/products/42120
+0 2 0 1893 0 0
+/webservice/products/42642
+0 2 0 1991 0 0
+/product/img/HORLICKS - WOMEN.jpg
+1 4 0 1004898 0 0
+/webservice/products/42182
+0 2 0 1884 0 0
+/product/img/PEPSI - BLACK.jpg
+1 4 0 888368 0 0
+/product/img/white promphret.jpg
+1 11 0 961064 0 0
+/product/img/HAPPY HAPPY CHOCO CHIPS.jpg
+1 6 0 2256942 0 0
+/webservice/products/42368
+0 1 0 974 0 0
+/webservice/products/43015
+0 3 0 3694 0 0
+/product/img/GLUCON - D - GLUCOSE BASED BEVERAGES MIX - ORANGE.jpg
+1 5 0 1340395 0 0
+/product/img/SURF EXCEL QUICK WASH.jpg
+1 5 0 509765 0 0
+/product/img/SUNRISE - DHANIA POWDER.jpg
+1 1 0 112434 0 0
+/product/img/DOVE REGENERATIVE REPAIR SHAMPOO.jpg
+1 1 0 40454 0 0
+/product/img/HALDIRAM - RASMALAI.jpg
+1 4 0 740828 0 0
+/webservice/products/42551
+0 2 0 2012 0 0
+/category/img/HARYALI MURG KABAB 6 pcs.jpg
+1 63 0 3758328 0 0
+/webservice/products/42458
+0 1 0 1033 0 0
+/product/img/LAYS - POTATO CHIPS - MASALA.jpg
+1 10 0 3301790 0 0
+/product/img/DEL MONTE - OLIVE GREEN SLICED.jpg
+1 10 0 142425 0 0
+/product/img/MAYURANK FOODS TOOR DAL.jpg
+1 2 0 164458 0 0
+/product/img/MUTTON KASSA - 2PCS.JPG
+1 9 0 275504 0 0
+/product/img/PEPSODENT EXPERT PROTECTION.jpg
+1 1 0 66332 0 0
+/product/img/spine gourd.jpg
+1 5 0 748250 0 0
+/product/img/TATA SAMPARN - HALDI.jpg
+1 5 0 197522 0 0
+/webservice/products/42157
+0 2 0 1911 0 0
+/category/img/wet market b.png
+1 271 0 23189436 0 0
+/product/img/AXE-SIGNATURE DENIM COLONGE TALC.jpg
+1 1 0 49506 0 0
+/webservice/products/42849
+0 2 0 1863 0 0
+/product/img/JK - PANCHPHORAN.jpg
+1 2 0 0 0 0
+/webservice/products/42860
+0 2 0 1846 0 0
+/webservice/products/42188
+0 2 0 1854 0 0
+/product/img/mutton liver.jpg
+1 5 0 423375 0 0
+/webservice/products/42353
+0 1 0 933 0 0
+/webservice/products/42672
+0 2 0 1948 0 0
+/webservice/products/42235
+0 3 0 3044 0 0
+/webservice/products/42857
+0 3 0 2798 0 0
+/webservice/products/42527
+0 1 0 933 0 0
+/product/img/EVEREADY-CARBON ZINC BATTERY RED HD AA 1015.jpg
+1 4 0 582976 0 0
+/product/img/MR WHITE DETERGENT POWDER.jpg
+1 4 0 562548 0 0
+/product/img/PEDAL PLASTIC DUSTBIN.jpg
+1 2 0 315822 0 0
+/product/img/KELLOGS - OATS - HEART TO HEART.jpg
+1 2 0 68806 0 0
+/webservice/products/42105
+0 2 0 2024 0 0
+/product/img/LIZOL - SURFACE CLEANER.jpg
+1 4 0 327180 0 0
+/category/img/HEALTH DRINKS FOR KID 2-5 YRS.jpg
+1 15 0 2430505 0 0
+/product/img/PRINGLES - ORIGINAL.jpg
+1 9 0 1540710 0 0
+/product/img/LIRIL-BERRY BLAST SOAP.jpg
+1 3 0 148734 0 0
+/webservice/products/42875
+0 2 0 1903 0 0
+/webservice/products/43011
+0 1 0 1107 0 0
+/product/img/FRIENDS OVER NIGHT MEDIUM.jpg
+1 3 0 150390 0 0
+/product/img/VIM DISHWASH.jpg
+1 10 0 738930 0 0
+/product/img/KELLOGGS - CHOCOS.jpg
+1 160 0 926826 0 0
+/webservice/products/42907
+0 3 0 1834 0 0
+/webservice/products/42539
+0 2 0 1910 0 0
+/webservice/products/42819
+0 1 0 964 0 0
+/webservice/products/42218
+0 2 0 1964 0 0
+/webservice/products/42873
+0 2 0 1913 0 0
+/product/img/BISK FARM - SUGAR FREE CREAM PETIT BEURRE.jpg
+1 14 0 408270 0 0
+/webservice/products/42072
+0 2 0 1959 0 0
+/webservice/products/42021
+0 1 0 954 0 0
+/product/img/PREMIUM PLASTIC ROPE.jpg
+1 3 0 751611 0 0
+/webservice/products/42536
+0 2 0 1868 0 0
+/webservice/mischargesettingupdate
+0 9 0 342 0 0
+/product/img/sahi paneer  2 PCS.jpg
+1 1 0 157210 0 0
+/retailer/img/Plesk.png
+1 8 0 684324 0 0
+/product/img/MAGGI - 2 MINUTE INSTANT NOODLES.jpg
+1 2 0 244838 0 0
+/webservice/products/42912
+0 1 0 1006 0 0
+/webservice/products/42246
+0 1 0 971 0 0
+/product/img/ash gound  chal kumro.jpg
+1 5 0 501175 0 0
+/product/img/SQUARE RING MUG.jpg
+1 2 0 684720 0 0
+/product/img/MAWANA SUGAR 1 KG.jpg
+1 1 0 132065 0 0
+/product/img/M2.jpg
+1 2 0 178440 0 0
+/webservice/products/42966
+0 1 0 1049 0 1
+/webservice/products/42137
+0 1 0 971 0 0
+/product/img/TANDOORI CHICKEN BUTTER MASALA 4PCS.JPG
+1 9 0 337784 0 0
+/product/img/PROTINEX - HEALTH DRINK - TASTY CHOCOLATE FLAVOUR.jpg
+1 4 0 864090 0 0
+/webservice/customerlist
+0 177 0 999441 7 3
+/webservice/products/42762
+0 3 0 895 0 0
+/webservice/products/42724
+0 3 0 893 0 1
+/webservice/products/42141
+0 1 0 983 0 0
+/webservice/products/42714
+0 1 0 985 0 0
+/webservice/products/42853
+0 2 0 1888 0 0
+/webservice/products/42110
+0 2 0 1984 0 0
+/webservice/products/42076
+0 2 0 1898 0 0
+/webservice/products/42151
+0 3 0 1864 0 0
+/product/img/W2.jpg
+1 2 0 152822 0 0
+/webservice/category/294
+0 1 0 480 0 0
+/webservice/products/42759
+0 1 0 895 0 0
+/webservice/products/42580
+0 2 0 1868 0 0
+/webservice/products/42892
+0 2 0 1954 0 0
+/product/img/NYCIL - PRICKLY HEAT POWDER - COOL HERBAL NEEM.jpg
+1 1 0 75704 0 0
+/product/img/DETTOL- HANDWASH LIQUID REFILL -SKIN CARE.jpg
+1 2 0 206890 0 0
+/product/img/ENSURE - COMPLETE 
+0 4 0 961536 0 0
+/webservice/products/42464
+0 1 0 991 0 0
+/webservice/category/329
+0 1 0 474 0 0
+/product/img/MILK BIKIS.jpg
+1 10 0 3148752 0 0
+/product/img/HIMALAYA HERBALS TOOTHPASTE.jpg
+1 1 0 51471 0 0
+/product/img/JK - DHANIA POWDER.jpg
+1 1 0 134271 0 0
+/product/img/MTR - ROSOGOLLA.jpg
+1 5 0 1188464 0 0
+/webservice/category/220
+0 1 0 470 0 0
+/product/img/SENSODYNE MINT GEL.jpg
+1 1 0 43827 0 0
+/webservice/products/42184
+0 2 0 1902 0 0
+/product/img/REAL - ORANGE 1 LTR.jpg
+1 12 0 908320 0 0
+/webservice/users/login
+0 68 0 63648 34 1
+/product/img/LASSI .jpg
+1 5 0 130506 0 0
+/product/img/UJALA INSTANT DIRT DISSOLVEER.jpg
+1 6 0 335724 0 0
+/product/img/MOTHER S RECIPE - GARLIC PICKLE.jpg
+1 3 0 483408 0 0
+/webservice/products/42290
+0 1 0 913 0 0
+/webservice/products/42842
+0 2 0 1855 0 0
+/webservice/products/42728
+0 2 0 1975 0 0
+/webservice/products/42690
+0 2 0 1965 0 0
+/product/img/BISK FARM - NAMKEENZ.jpg
+1 13 0 255780 0 0
+/webservice/products/42144
+0 1 0 967 0 0
+/product/img/NESTLE - KOKO KRUNCH.jpg
+1 1 0 156751 0 0
+/webservice/products/42206
+0 1 0 968 0 0
+/webservice/products/42090
+0 2 0 1866 0 0
+/banner/img/Chrysanthemum.jpg
+1 16 0 4396970 0 0
+/webservice/products/42204
+0 1 0 1032 0 0
+/product/img/TATA TEA - TEAVEDA.jpg
+1 3 0 701637 0 0
+/product/img/TAWA LACHCHA PARATHA.JPG
+1 3 0 418980 0 0
+/webservice/orderfulldetailsbyid
+0 3 0 6903 1 0
+/product/img/MOMS MAGIC COOKIES - CASHEW 
+0 17 0 1882450 0 0
+/product/img/CHICKEN BHARTA.JPG
+1 1 0 152238 0 0
+/product/img/REAL - ALPHONSO MANGO.jpg
+1 16 0 1305271 0 0
+/webservice/products/42154
+0 1 0 974 0 0
+/webservice/products/42451
+0 1 0 950 0 0
+/webservice/products/42223
+0 1 0 1016 0 0
+/webservice/products/42461
+0 1 0 982 0 0
+/webservice/products/42426
+0 1 0 982 0 0
+/product/img/PILLSBURY - CAKE MIX.jpg
+1 1 0 395221 0 0
+/product/img/LISTERINE CAVITY FIGHTER.jpg
+1 3 0 321468 0 0
+/webservice/category/205
+0 1 0 504 0 0
+/product/img/fish tikka  2 PCS.JPG
+1 2 0 205604 0 0
+/webservice/products/42075
+0 2 0 1951 0 0
+/driverservice/driverdetails
+0 39 0 14140 6 0
+/product/img/AAMER CHUTNNEY.jpg
+1 24 0 1673932 0 0
+/product/img/PRIL DISHWASH.jpg
+1 4 0 287988 0 0
+/webservice/products/42016
+0 1 0 901 0 0
+/webservice/products/42537
+0 1 0 940 0 0
+/webservice/products/42379
+0 2 0 1818 0 0
+/webservice/products/42658
+0 2 0 903 0 0
+/webservice/products/42166
+0 2 0 1842 0 0
+/webservice/products/42919
+0 2 0 1854 0 0
+/webservice/vehiclelistactive
+0 280 0 437723 5 3
+/webservice/products/42062
+0 2 0 1931 0 0
+/webservice/category/284
+0 1 0 518 0 0
+/webservice/products/42979
+0 2 0 2080 0 0
+/product/img/EZEE.jpg
+1 4 0 891124 0 0
+/webservice/products/42674
+0 1 0 909 0 0
+/product/img/REAL - MASALA GUAVA.jpg
+1 17 0 822780 0 0
+/product/img/ASHIRVAD - HALDI.jpg
+1 1 0 107868 0 0
+/webservice/products/42037
+0 2 0 1965 0 0
+/webservice/products/42102
+0 3 0 2988 0 0
+/webservice/products/43000
+0 1 0 1115 0 0
+/webservice/products/42750
+0 1 0 891 0 0
+/webservice/products/42854
+0 4 0 3704 0 0
+/webservice/products/42799
+0 1 0 948 0 0
+/webservice/products/42270
+0 1 0 990 0 0
+/webservice/products/42575
+0 2 0 1869 0 0
+/category/img/GHEE.jpg
+1 17 0 781407 0 0
+/product/img/CADBURY - BOURNVITA CCHOCOLATE.jpg
+1 12 0 1643256 0 0
+/category/img/CONDITIONERS.jpg
+1 10 0 563510 0 0
+/webservice/category/269
+0 1 0 486 0 0
+/product/img/OPEN SQUARE DUSTBIN GARBAGE BIN BUCKETS.jpg
+1 3 0 259746 0 0
+/product/img/HENKO MATIC POWDER TOP LOADED.jpg
+1 4 0 702528 0 0
+/driver/img/821918.png
+1 47 0 203166 0 0
+/webservice/products/42500
+0 1 0 1011 0 0
+/webservice/products/42613
+0 2 0 1914 0 0
+/webservice/products/42058
+0 1 0 970 0 0
+/product/img/CHICKEN TANGRI KABAB 4 pcs .JPG
+1 1 0 229158 0 0
+/webservice/products/42746
+0 1 0 891 0 0
+/webservice/products/42622
+0 2 0 1949 0 0
+/product/img/WAI WAI - 1-2-3 NOODLES - CHICKEN FLAVOUR.jpg
+1 1 0 273769 0 0
+/webservice/products/42941
+0 1 0 1020 1 0
+/product/img/paneer malai kebab 4 PCS.jpg
+1 1 0 83977 0 0
+/category/img/Untitled1.jpg
+1 64 0 3042256 0 0
+/product/img/LUX-SOFT TOUCH FOR SOFT FRAGRANT.jpg
+1 2 0 194832 0 0
+/webservice/products/42441
+0 1 0 957 0 0
+/webservice/products/42134
+0 2 0 1844 0 0
+/webservice/products/42484
+0 1 0 909 0 0
+/product/img/SPINE  MOP REFILL.jpg
+1 1 0 232169 0 0
+/product/img/PILLSBURY - CAKE MIX  ( EGG FREE ).jpg
+1 2 0 865624 0 0
+/webservice/products/42711
+0 1 0 899 0 0
+/product/img/SURF EXCEL MATIC FRONT LOAD DETERGENT.jpg
+1 5 0 714525 0 0
+/product/img/golda chingri.jpg
+1 11 0 1004336 0 0
+/product/img/pomegranate.jpg
+1 225 0 1585056 0 0
+/webservice/products/42369
+0 1 0 933 0 0
+/product/img/SUNFEAST - YIPPEE TRICOLOR PASTA -  MASALA.jpg
+1 1 0 321528 0 0
+/webservice/products/42052
+0 1 0 995 0 0
+/product/img/OPEL PEARL PLASTIC CLIP  CLOTH CLIP.jpg
+1 4 0 728832 0 0
+/product/img/MOMS MAGIC COOKIES - RICH BUTTER BISCUITS.jpg
+1 17 0 1661190 0 0
+/webservice/products/42180
+0 3 0 1845 0 0
+/category/img/corn capcicum b masala.jpg
+1 62 0 4445064 0 0
+/retailerservice/retailerprofileupdate
+0 8 0 410 1 2
+/product/img/JOHNSONS BABY COTTON BUDS.jpg
+1 2 0 56049 0 0
+/webservice/category/268
+0 1 0 486 0 0
+/category/img/TOOTHBRUSH.jpg
+1 8 0 448720 0 0
+/product/img/SCOTCH BRITE - SCRUB PAD.jpg
+1 2 0 561240 0 0
+/webservice/products/42771
+0 1 0 889 0 0
+/webservice/products/42649
+0 1 0 913 0 0
+/webservice/products/42342
+0 1 0 975 0 0
+/category/img/Maida.jpg
+1 19 0 899800 0 0
+/webservice/products/42994
+0 1 0 1115 0 0
+/product/img/GILLETTE SENSITIVE SKIN SHAVE GEL.jpg
+1 2 0 130572 0 0
+/webservice/products/42190
+0 2 0 1867 0 0
+/webservice/products/42977
+0 1 0 1049 0 0
+/product/img/ORAL B PRO HEALTH ULTRATHIN CHARCOAL.jpg
+1 1 0 123342 0 0
+/category/img/cholarDAL.jpg
+1 64 0 5052740 0 0
+/product/img/VI-JOHN AXE ULTRA SLICK SHAVING FOAM.jpeg
+0 1 0 23308 0 0
+/product/img/KNORR - MAST MASALA.jpg
+1 2 0 93232 0 0
+/webservice/banner/3
+0 1 0 357 0 0
+/product/img/HALDIRAM - MASALA PEANUT.jpg
+1 3 0 1062909 0 0
+/webservice/products/42742
+0 1 0 923 0 0
+/webservice/products/42764
+0 1 0 891 0 0
+/webservice/products/42721
+0 1 0 991 0 0
+/product/img/MAGGI - PAZZTA - MASALA PENNE , INSTANT PASTA.jpg
+1 1 0 440245 0 0
+/product/img/NYCIL - PRICKLY HEAT POWDER - COOL WITH MENTHOL.jpg
+1 1 0 82674 0 0
+/webservice/products/42643
+0 1 0 905 0 0
+/product/img/TATA TEA GOLD - LEAF TEA.jpg
+1 3 0 200544 0 0
+/category/img/SHAVING CREAM 
+0 8 0 417104 0 0
+/webservice/products/42061
+0 2 0 1861 0 0
+/webservice/category/307
+0 5 0 1527 0 0
+/webservice/products/42696
+0 1 0 996 0 0
+/customer/img/no.jpg
+1 50 0 208780 0 0
+/product/img/MURG TIKKA MAKHANI 6PCS .JPG
+1 3 0 406404 0 0
+/webservice/products/42281
+0 1 0 1034 0 0
+/product/img/SURF EXCEL MATIC TOP LOAD DETERGRMT POWDER.jpg
+1 5 0 706540 0 0
+/webservice/products/42171
+0 2 0 1856 0 0
+/retailerservice/retailervalidate
+0 18 0 10918 0 2
+/product/img/TREAT JIMJAM CREAM.jpg
+1 14 0 1566900 0 0
+/category/img/HEALTH DRINKS.jpg
+1 13 0 614592 0 0
+/product/img/HARYALI MURG KABAB  3 pcs .jpg
+1 1 0 134226 0 0
+/product/img/boal.jpg
+1 11 0 611344 0 0
+/webservice/products/42924
+0 1 0 1028 0 0
+/category/img/restaurant b.png
+1 269 0 22393532 0 0
+/product/img/REAL - LITCHI.jpg
+1 12 0 1051150 0 0
+/webservice/products/42448
+0 1 0 971 0 0
+/product/img/LISTERINE ORIGINAL.jpg
+1 3 0 298821 0 0
+/webservice/products/42848
+0 2 0 1874 0 0
+/webservice/products/42012
+0 1 0 905 0 0
+/product/img/AURVADIC PLATES - LEAF , ARECA.jpg
+1 1 0 324964 0 0
+/webservice/products/42943
+0 1 0 1013 0 0
+/webservice/category/305
+0 1 0 484 0 0
+/webservice/products/42216
+0 1 0 1075 0 0
+/webservice/products/42982
+0 1 0 938 0 0
+/product/img/MUTTON KASSA 4PCS.JPG
+1 10 0 275504 0 0
+/webservice/products/41987
+0 2 0 1894 0 0
+/webservice/products/42490
+0 1 0 975 0 0
+/webservice/categoryactivechildlist
+0 3544 0 140623553 20 219
+/product/img/KNORR - MEXICAN TOMATO CORN SOUP.jpg
+1 4 0 947412 0 0
+/product/img/GITS - READY MIX - BADAM DRINK.jpg
+1 6 0 1589400 0 0
+/webservice/products/42992
+0 2 0 2161 0 0
+/product/img/QUAKER - OATS PLUS-MULTIGRAIN.jpg
+1 2 0 279648 0 0
+/category/img/DAL.jpg
+1 19 0 1402970 0 0
+/webservice/products/42794
+0 2 0 1835 0 0
+/webservice/products/42388
+0 1 0 902 0 0
+/webservice/products/42099
+0 2 0 1880 0 0
+/webservice/products/42874
+0 2 0 1935 0 0
+/product/img/TRUST SULPHUR LESS SUGAR.jpg
+1 2 0 148126 0 0
+/webservice/products/43023
+0 1 0 1114 0 0
+/webservice/products/41993
+0 1 0 928 0 0
+/product/img/PARACHUTE COCONUT HAIR OIL.jpg
+1 1 0 55390 0 0
+/webservice/products/42550
+0 2 0 1966 0 0
+/product/img/ODONIL - ROOM FRESHENING GELZ.jpg
+1 3 0 111484 0 0
+/webservice/products/42531
+0 1 0 908 0 0
+/product/img/AIR WICK ESSENTIAL MIST AUTOMATIC.jpg
+1 3 0 47464 0 0
+/product/img/ganesh-sattu 200 GMS.jpg
+1 3 0 218451 0 0
+/webservice/products/42161
+0 3 0 2965 0 0
+/product/img/KISSAN TOMATO KETCHUP.jpg
+1 5 0 652210 0 0
+/category/img/HAIR COLOURS.jpg
+1 11 0 677730 0 0
+/product/img/FRIENDS PULL UP XL-XXL.jpg
+1 3 0 270616 0 0
+/webservice/products/42422
+0 2 0 1948 0 0
+/webservice/products/42949
+0 1 0 1000 0 0
+/product/img/CADBURY - BOURNVITA - HEALTH DRINK.jpg
+1 2 0 249288 0 0
+/webservice/products/42562
+0 2 0 1896 0 0
+/category/img/INSTANT SOUP.jpg
+1 10 0 964215 0 0
+/webservice/products/42348
+0 1 0 954 0 0
+/product/img/parshe.jpg
+1 10 0 1379128 0 0
+/webservice/products/42951
+0 1 0 1040 0 0
+/webservice/products/42295
+0 1 0 997 0 0
+/webservice/category/324
+0 1 0 477 0 0
+/webservice/products/42392
+0 1 0 924 0 0
+/webservice/products/42646
+0 2 0 1956 0 0
+/webservice/vehicleordermapping
+0 5 0 200 0 0
+/webservice/products/42945
+0 1 0 1048 0 0
+/product/img/man kachu.jpg
+1 5 0 416315 0 0
+/product/img/PAPER BOAT - JALJEERA.jpg
+1 20 0 679460 0 0
+/product/img/FRIENDS OVER NIGHT LARGE.jpg
+1 2 0 32521 0 0
+/webservice/products/42609
+0 2 0 1961 0 0
+/webservice/products/42745
+0 5 0 4969 0 0
+/product/img/AMUL - KOOL KESAR.jpg
+1 19 0 508100 0 0
+/webservice/products/42323
+0 3 0 1873 0 0
+/webservice/products/42228
+0 1 0 1043 0 0
+/webservice/products/42158
+0 1 0 973 0 0
+/product/img/TANDOORI CHICKEN 4 pcs .JPG
+1 1 0 181622 0 0
+/product/img/BOURNVITA - LITTLE CHAMPS PRO -HEALTH DRINK.jpeg
+0 3 0 364518 0 0
+/customer/img/1597297547894.png
+1 14 0 34844 0 0
+/webservice/products/42405
+0 1 0 967 0 0
+/webservice/products/42954
+0 1 0 951 0 0
+/webservice/products/42944
+0 1 0 1013 0 0
+/webservice/products/42629
+0 1 0 991 0 0
+/webservice/products/43007
+0 5 0 4589 0 0
+/webservice/products/42698
+0 2 0 1958 0 0
+/product/img/TATA SAMPARN - JIRA POWDER.jpg
+1 5 0 145420 0 0
+/product/img/THUMS UP - BOTTLE 750  ML.jpg
+1 4 0 164012 0 0
+/webservice/products/42123
+0 3 0 2795 0 0
+/webservice/products/42843
+0 2 0 1915 0 0
+/appservice/customercartcount
+0 1208 0 54547 76 22
+/product/img/SHYAM AGRO MAIDA.jpg
+1 10 0 661374 0 0
+/product/img/CHINGS - VEG HAKKA NOODLES.jpg
+1 2 0 635944 0 0
+/webservice/category/332
+0 1 0 480 0 0
+/webservice/products/42491
+0 1 0 1041 0 0
+/product/img/DOVE-GO FRESH NOURISHING BODY WASH.jpg
+1 1 0 32749 0 0
+/webservice/products/42549
+0 2 0 1934 0 0
+/webservice/products/42734
+0 2 0 1957 0 0
+/webservice/products/42250
+0 1 0 987 0 0
+/product/img/ANNAPURNA GHEE.jpg
+1 3 0 279675 0 0
+/webservice/products/42738
+0 1 0 893 0 0
+/category/img/MUTTON1.jpg
+1 27 0 2163855 0 0
+/webservice/products/42231
+0 2 0 1938 0 0
+/webservice/retailerlist
+0 1810 0 3261578 11 15
+/webservice/products/42840
+0 3 0 2798 0 0
+/product/img/MCCAIN - SMILES CRISPY - HAPPY POTATOES.jpg
+1 198 0 1066850 0 0
+/webservice/products/42471
+0 2 0 1919 0 0
+/webservice/products/42297
+0 1 0 904 0 0
+/webservice/products/42215
+0 1 0 1061 0 1
+/webservice/products/42064
+0 3 0 2760 0 0
+/appservice/paymentresponse
+0 9 0 735 0 0
+/webservice/products/42173
+0 2 0 1848 0 0
+/product/img/DEEMER_DALNA.jpg
+1 15 0 1791283 0 0
+/webservice/products/42345
+0 1 0 1012 0 0
+/product/img/MCCAIN POTATO BITES.jpg
+1 7 0 775915 0 0
+/webservice/products/42793
+0 1 0 939 0 0
+/webservice/products/42221
+0 1 0 971 0 0
+/product/img/DOVE-BODYWASH-ALMOND CREAM.jpg
+1 1 0 41240 0 0
+/product/img/PRIYA - MIXED VEG ( WITHOUT GARLIC ).jpg
+1 11 0 540424 0 0
+/product/img/EVEREST - GARAM MASALA.jpg
+1 2 0 261296 0 0
+/webservice/products/42521
+0 1 0 988 0 0
+/webservice/products/42600
+0 2 0 1905 0 0
+/webservice/pincodelistbyid
+0 10 0 2291 0 0
+/product/img/mango.jpg
+1 9 0 685355 0 0
+/appservice/customeraddressinsertupdate
+0 3 0 213 0 0
+/product/img/TIDE NATURAL.jpg
+1 7 0 508888 0 0
+/product/img/CHINGS - INSTANT NOODLES - SCHEZWAN.jpg
+1 2 0 385452 0 0
+/product/img/MARIE GOLD.jpg
+1 16 0 3164711 0 0
+/product/img/JOHNSONS BABY COTTON BUDS BOX.jpg
+1 2 0 117452 0 0
+/product/img/NUTRI CHOICE CRACKER SIMPLY.jpg
+1 14 0 2984088 0 0
+/webservice/products/42699
+0 1 0 954 0 0
+/appservice/reorder
+0 7 0 1437 0 1
+/category/img/fish.jpg
+1 29 0 2670690 0 0
+/webservice/products/42085
+0 3 0 1932 0 0
+/webservice/products/42518
+0 1 0 995 0 0
+/webservice/products/42987
+0 1 0 972 0 0
+/category/img/DUSTBIN.jpg
+1 13 0 655875 0 0
+/product/img/aci.jpg
+1 1 0 106676 0 0
+/product/img/EXO - DISH WASH , ROUND ANTI BACTERIAL.jpg
+1 1 0 256587 0 0
+/product/img/brinjal.jpg
+1 5 0 221685 0 0
+/webservice/products/42010
+0 2 0 1919 0 0
+/product/img/PLASTIC PEDAL DUSTBIN FOR WET 
+0 2 0 429168 0 0
+/webservice/products/43028
+0 1 0 1131 0 0
+/product/img/KELLOGGS-MUSELI  FRUIT  MAGIC.jpg
+1 1 0 100828 0 0
+/product/img/red apple.jpg
+1 11 0 483594 0 0
+/webservice/products/42438
+0 1 0 979 0 0
+/product/img/FRIEDchicken boneless strips 3PCS  .jpg
+1 7 0 90408 0 0
+/product/img/DETTOL-JASMINE BATHING SOAP.jpg
+1 2 0 149344 0 0
+/webservice/products/42749
+0 1 0 910 0 0
+/product/img/PANTENE SMOOTH 
+0 433 0 406396 0 1
+/product/img/50-50 SWEET 
+0 14 0 406848 0 1
+/webservice/category/286
+0 1 0 498 0 0
+/webservice/products/43003
+0 4 0 2214 0 0
+/webservice/products/42566
+0 1 0 903 0 0
+/webservice/products/42252
+0 1 0 988 0 0
+/product/img/GOOD KNIGHT - POWER ACTIV.jpg
+1 250 0 777688 0 0
+/webservice/products/42253
+0 1 0 1000 0 0
+/webservice/products/42529
+0 1 0 925 0 0
+/webservice/products/42373
+0 1 0 963 0 0
+/webservice/products/42066
+0 2 0 1933 0 0
+/product/img/mud-crab.jpg
+1 10 0 920256 0 0
+/product/img/HALDIRAM - TASTY NUTS.jpg
+1 2 0 515660 0 0
+/webservice/category/275
+0 1 0 480 0 0
+/webservice/category/288
+0 1 0 500 0 0
+/webservice/category/202
+0 2 0 991 0 0
+/product/img/HEAD 
+0 4 0 229839 0 0
+/product/img/REAL - MIXED FRUIT.jpg
+1 12 0 1197970 0 0
+/driverservice/driverstatusupdate
+0 6 0 232 0 0
+/webservice/products/42273
+0 1 0 987 0 0
+/webservice/addeditproduct
+0 1617 0 83489 4 9
+/webservice/addeditcategory
+0 143 0 6569 0 1
+/webservice/products/42563
+0 2 0 1876 0 0
+/webservice/products/42891
+0 1 0 999 0 0
+/product/img/CADBURY - BOURNVITA - CHOCOLATE HEALTH DRINK.jpg
+1 2 0 289964 0 0
+/product/img/LUX-HYPNOTIC ROSE SOAP BAR.jpg
+1 2 0 201594 0 0
+/webservice/products/42236
+0 1 0 1014 0 1
+/webservice/products/42963
+0 1 0 951 0 0
+/product/img/Hilsha.jpg
+1 11 0 1702432 0 0
+/webservice/products/42809
+0 1 0 975 0 0
+/category/img/SAUCE 
+0 110 0 4450340 1 2
+/product/img/LUX-BODY WASH -SOFT TOUCH MOISTURIZING.jpg
+1 1 0 58640 0 0
+/product/img/CADBURY - OREO - CRÈME BISCUIT - STRAWBERRY.jpg
+1 13 0 2020290 0 0
+/product/img/AIR WICK FRESHMATIC ROOM FRESHNER.jpg
+1 3 0 61555 0 0
+/category/img/LEAF AND DUST TEA.jpg
+1 13 0 816768 0 0
+/product/img/EVEREADY GOLD - CARBON ZINC,AA,1005 GOLD.jpg
+1 5 0 860835 0 0
+/webservice/products/42933
+0 1 0 1079 0 0
+/product/img/DURACELL - ULTRA ALKALINE BATTERY 9V.jpg
+1 4 0 534776 0 0
+/webservice/products/42980
+0 3 0 2837 0 0
+/product/img/tomatoes.jpg
+1 5 0 633850 0 0
+/webservice/products/42152
+0 2 0 1863 0 0
+/webservice/products/42827
+0 1 0 974 0 0
+/category/img/ATTA.jpg
+1 20 0 1288960 0 0
+/appservice
+0 1 0 0 1 0
+/product/img/BOOST - HEALTH DRINK - MALT BASED.jpg
+1 2 0 99752 0 0
+/driver/img/disbg2.jpg
+1 52 0 397980 0 0
+/webservice/products/42616
+0 1 0 950 0 0
+/webservice/products/42756
+0 3 0 2964 0 0
+/product/img/pear.jpg
+1 10 0 545082 0 0
+/product/img/FUNFOODS - VEG MAYONNAISE - EAGLESS.jpg
+1 4 0 927188 0 0
+/webservice/products/42567
+0 2 0 1854 0 0
+/webservice/products/42378
+0 1 0 927 0 0
+/product/img/PURE MAGIC CHOCOLUSH COOKIES.jpg
+1 5 0 1291735 0 0
+/product/img/AAM PANNA .jpg
+1 6 0 261048 0 0
+/product/img/REAL ACTIV - MIXED FRUIT WITHOUT SUGAR.jpg
+1 12 0 1157270 0 0
+/category/img/SUGAR FREE.jpg
+1 18 0 821214 0 0
+/webservice/products/42618
+0 2 0 2030 0 0
+/webservice/products/42582
+0 2 0 1895 0 0
+/webservice/products/42896
+0 2 0 1882 0 0
+/product/img/LIPTON - LEMON ZEST GREEN TEA BAGS.jpg
+1 3 0 552939 0 0
+/product/img/fish tikka 4 PCS .JPG
+1 3 0 205604 0 0
+/webservice/products/42335
+0 3 0 2951 0 0
+/webservice/products/42043
+0 2 0 2007 0 0
+/webservice/products/42249
+0 1 0 1046 0 0
+/category/img/HAIR OIL.jpg
+1 10 0 472925 0 0
+/product/img/CHICKEN RESHMI KABAB 6 pcs.JPG
+1 1 0 117923 0 0
+/product/img/AMBI PUR - AIR EFFECT AIR FRESHNER.jpg
+1 3 0 47614 0 0
+/product/img/ODONIL - TOILET AIR FRESHNER 3+1.jpg
+1 4 0 265244 0 0
+/webservice/products/42240
+0 1 0 1025 0 0
+/webservice/products/42564
+0 2 0 1894 0 0
+/product/img/MCCAIN - POTATO CHEESE SHOTZ.jpg
+1 11 0 1192169 0 0
+/webservice/products/42565
+0 1 0 953 0 0
+/product/img/LACHHA PARATHA.jpg
+1 21 0 1029357 0 0
+/webservice/products/42269
+0 1 0 989 0 0
+/webservice/products/42624
+0 2 0 1940 0 0
+/webservice/category/318
+0 2 0 1027 0 0
+/webservice/category/271
+0 1 0 508 0 0
+/product/img/ODONIL - TOILET AIR FRESHNER - MIX FRAGNANCE  3+1.jpg
+1 3 0 132572 0 0
+/product/img/HALDIRAM - RASOGOLLA.jpg
+1 4 0 1897252 0 0
+/webservice/products/42493
+0 1 0 909 0 0
+/webservice/products/42626
+0 1 0 973 0 0
+/product/img/CHICKEN RESHMI KABAB 3 pcs .JPG
+1 1 0 117923 0 0
+/category/img/HOUSEHOLD 
+0 110 0 3421710 1 0
+/product/img/DABUR - GLUCOSE - D.jpg
+1 6 0 1212780 0 0
+/product/img/JALI  OFFICE PLASTIC DUSTBIN.jpg
+1 2 0 241816 0 0
+/webservice/products/43005
+0 4 0 4654 0 0
+/product/img/CHICKEN CUTLET .jpg
+1 4 0 234222 0 0
+/product/img/MCCAIN - CHEESE CORN SAMOSA.jpg
+1 9 0 855656 0 0
+/product/img/FIAMA-SHOWER GEL-PITCH AND AVOCADO.jpg
+1 1 0 71965 0 0
+/product/img/MOUNTAIN DEW - CAN 250 ML.jpg
+1 3 0 318819 0 0
+/webservice/products/42340
+0 1 0 973 0 0
+/webservice/category/198
+0 5 0 1011 0 0
+/webservice/category/230
+0 1 0 486 0 0
+/product/img/COLGATE KIDS 5 +  YEARS.jpg
+1 1 0 67893 0 0
+/product/img/DEL MONTE SCHEZWAN SAUCE.jpg
+1 4 0 167103 0 0
+/webservice/products/42681
+0 2 0 1942 0 0
+/webservice/products/42782
+0 1 0 925 0 0
+/webservice/products/42357
+0 1 0 980 0 0
+/product/img/sahi paneer 4PCS .jpg
+1 2 0 157210 0 0
+/webservice/products/42787
+0 2 0 1892 0 0
+/product/img/BISK FARM - MULTI GRAIN.jpg
+1 14 0 3259124 0 0
+/product/img/SENSODYNE REPAIR 
+0 1 0 97518 0 0
+/webservice/ordermastermapping
+0 9 0 639 0 0
+/webservice/products/42972
+0 1 0 1017 0 0
+/product/img/BRU - INSTANT COFFEE - GOLD.jpg
+1 4 0 569361 0 0
+/appservice/cmsbykey
+0 12 0 10680 1 0
+/product/img/SOULFULL - RAGI BITES STRAWBERRY FILLS.jpg
+1 1 0 112981 0 0
+/product/img/RIN ALA FABRIC WHITNER.jpg
+1 5 0 193535 0 0
+/product/img/Aar-macher-.jpg
+1 11 0 1479896 0 0
+/webservice/products/42047
+0 2 0 1896 0 0
+/webservice/products/42257
+0 1 0 1008 0 0
+/product/img/BROWN 
+0 1 0 160650 0 0
+/product/img/BISK FARM - SNACKIES BISCUITS.jpg
+1 17 0 438561 0 0
+/category/img/SHOWER GEL 
+0 8 0 426972 0 0
+/webservice/products/42420
+0 1 0 929 0 0
+/webservice/products/42469
+0 2 0 1941 0 1
+/product/img/ENERZAL - ENERGY DRINK POWDER - ORANGE.jpg
+1 3 0 932616 0 0
+/product/img/TATA TEA - AGNI.jpg
+1 3 0 629907 0 0
+/webservice/products/41983
+0 1 0 974 0 0
+/product/img/DETTOL - BAR SOAP.jpg
+1 2 0 111308 0 0
+/webservice/products/42395
+0 2 0 1878 0 0
+/category/img/HANDWASH 
+0 9 0 291320 0 0
+/product/img/SURF EXCEL MATIC LIQUID DETERGENT FRONT.jpg
+1 5 0 580160 0 0
+/webservice/products/42059
+0 1 0 925 0 0
+/product/img/HENKO DETERGENT STAIN CARE.jpg
+1 4 0 496356 0 0
+/webservice/products/42394
+0 1 0 920 0 0
+/product/img/FORTUNE RICE BRAN OIL.jpg
+1 2 0 295692 0 0
+/category/img/HEALTH DRINKS FOR KID 5+.jpg
+1 15 0 990090 0 0
+/webservice/products/42419
+0 1 0 955 0 0
+/product/img/TETLY - LEMON 
+0 3 0 282861 0 0
+/product/img/REAL - SANTRA.jpg
+1 20 0 947016 0 0
+/webservice/products/42391
+0 1 0 924 0 0
+/webservice/products/42839
+0 2 0 1922 0 0
+/category/img/no.jpg
+1 139 0 671705 0 0
+/appservice/customer
+0 92 0 27843 1 3
+/webservice/products/42384
+0 2 0 1818 0 0
+/webservice/products/42179
+0 2 0 1828 0 0
+/webservice/category/200
+0 19 0 5343 1 0
+/webservice/products/41995
+0 1 0 937 0 0
+/webservice/driverselectrow/7
+0 2 0 942 0 0
+/webservice/products/42462
+0 1 0 950 0 0
+/product/img/BUTTER NAAN .jpg
+1 2 0 314620 0 0
+/product/img/RAITA .jpg
+1 3 0 230334 0 0
+/product/img/MUTTON HARA BHARA 2pcs .jpg
+1 1 0 135871 0 0
+/webservice/cmslisting
+0 32 0 171355 0 0
+/webservice/products/42325
+0 2 0 1884 0 0
+/webservice/products/42145
+0 1 0 974 0 0
+/product/img/CHICKEN AND MAYO SANDWICH .jpg
+1 6 0 192064 0 0
+/webservice/products/42645
+0 1 0 905 0 0
+/webservice/products/42669
+0 2 0 1902 0 0
+/product/img/HIT - COCKROACH KILLER SPRAY.jpg
+1 3 0 153046 0 0
+/product/img/AMUL - KOOL CAFÉ - MILK 
+0 19 0 720600 1 0
+/product/img/JK - PEEPER BLACK WHOLE.jpg
+1 2 0 0 0 0
+/webservice/products/42572
+0 2 0 1848 0 0
+/webservice/products/42901
+0 1 0 921 0 0
+/webservice/category/295
+0 1 0 480 0 0
+/product/img/PEPSI - SWAG CAN.jpg
+1 4 0 468184 0 0
+/webservice/products/42914
+0 2 0 2113 0 0
+/webservice/products/42437
+0 1 0 959 0 0
+/webservice/products/42950
+0 1 0 1027 0 0
+/webservice/products/42744
+0 3 0 3087 0 1
+/webservice/products/42243
+0 1 0 928 0 0
+/webservice/products/42449
+0 1 0 950 0 0
+/product/img/BADSHAHI MURGH BIRYANI.JPG
+1 44 0 6379932 0 0
+/product/img/EVEREST CHICKEN MASALA.jpg
+1 2 0 353874 0 0
+/product/img/TROPICANA - GUAVA.jpg
+1 13 0 984247 0 0
+/webservice/products/42726
+0 2 0 1942 0 0
+/product/img/GANESH WHOLE WHEAT CHAKKI ATTA.jpg
+1 8 0 763542 0 0
+/webservice/products/42834
+0 1 0 974 0 0
+/webservice/products/43010
+0 2 0 2366 0 0
+/retailerservice/completeorderlistbyretailer
+0 50 0 20182 2 0
+/webservice/products/42237
+0 1 0 1026 0 0
+/webservice/products/42594
+0 2 0 2038 0 0
+/webservice/driverselectrow/3
+0 1 0 649 0 0
+/product/img/PANTENE TOTAL DAMAGE CARE SHAMPOO.jpg
+1 1 0 44211 0 0
+/webservice/products/42541
+0 3 0 2863 0 0
+/product/img/mutton keema.jpg
+1 5 0 857285 0 0
+/product/img/DOVE-BODYWASH-GO FRESH REVITALIZE.jpg
+1 1 0 44825 0 0
+/product/img/kassa chicken 4PCS .jpg
+1 5 0 237470 0 0
+/webservice/products/42999
+0 1 0 1129 0 0
+/product/img/ariel matic  detergent washing powder front load.jpg
+1 7 0 681096 0 0
+/webservice/products/41981
+0 2 0 1898 0 0
+/webservice/products/42739
+0 2 0 1958 0 0
+/customer/img/1598694162790.png
+1 3 0 14758 0 0
+/product/img/guava.jpeg
+0 10 0 421125 0 0
+/product/img/TATA SAMPANN UNPOLISHED CHANA DAL.jpg
+1 3 0 366732 0 0
+/webservice/products/42485
+0 1 0 975 0 0
+/product/img/pumpkins.jpg
+1 5 0 691480 0 0
+/webservice/products/42208
+0 2 0 2098 0 0
+/webservice/products/42361
+0 1 0 929 0 0
+/webservice/products/42581
+0 1 0 905 0 0
+/webservice/products/42689
+0 1 0 950 0 0
+/product/img/DEL MONTE CHILLI GREEN SAUCE.jpg
+1 4 0 175608 0 0
+/webservice/products/42160
+0 2 0 1912 0 0
+/webservice/ordermasterpendingselectroute
+0 172 0 34572 2 2
+/category/img/INSECT REPELLENT.jpg
+1 18 0 1993474 0 0
+/webservice/products/41984
+0 1 0 904 0 0
+/webservice/products/42450
+0 1 0 989 0 0
+/webservice/products/42862
+0 2 0 1849 0 0
+/webservice/products/42612
+0 2 0 1894 0 0
+/product/img/TROPICANA MANGO.jpg
+1 11 0 754510 0 0
+/webservice/productstatus
+0 9 0 378 0 0
+/category/img/GREEN TEA.jpg
+1 13 0 899073 0 0
+/webservice/uploadproductimg
+0 611 0 25662 200 1
+# End Of Table - urls
+# -sites- (monthly)
+157.43.222.1
+0 5 5 63960 3 1598941464
+/appservice/productlistbycategory
+157.43.225.14
+0 1 1 201 1 1600346818
+/webservice/ordermasterpendingselectroute
+42-110-148-110.live.vodafone.in
+0 82 30 64522 1 1599585718
+/webservice/orderlist
+42-110-146-109.live.vodafone.in
+0 80 40 140080 1 1600360362
+/webservice/vehiclelistactive
+157.40.37.23
+0 86 38 1461124 1 1599014376
+/appservice/parentcategory
+157.40.61.175
+0 99 35 2750990 1 1598930963
+/appservice/customercartcount
+google-proxy-66-249-88-18.google.com
+0 19 11 806 1 1599124181
+/appservice/login
+45.127.45.202
+0 106 74 8192396 1 1600348248
+/appservice/customercartcount
+42-110-147-181.live.vodafone.in
+0 13 6 91574 1 1599040706
+/webservice/retailerlist
+42-110-146-13.live.vodafone.in
+0 16 8 12876 1 1600480034
+/appservice/customercartcount
+node-103-252-164-220.alliancebroadband.in
+0 199 142 12440102 2 1599207872
+/appservice/customercartcount
+42-110-151-245.live.vodafone.in
+0 32 16 57420 1 1600396316
+/webservice/vehiclelistactive
+42-110-145-85.live.vodafone.in
+0 8 4 3125 2 1599333519
+/webservice/mischargelisting
+47.15.52.102
+0 10 3 26299 1 1599486416
+/appservice/customercartcount
+157.40.55.177
+0 92 50 2719235 2 1599278790
+/appservice/productmasterfeautredlist
+52.114.6.38
+0 15 0 2598 7 1599926351
+/webservice/ordermasterdrivervehiclebulkmapping
+157.40.51.167
+0 15 5 12248 1 1599633035
+/appservice/customercartcount
+157.40.36.27
+0 19 9 160452 1 1599401309
+-
+157.40.51.147
+0 4 1 2204 1 1599543917
+/webservice/retailerlist
+157.43.236.141
+0 49 20 1161403 1 1600081790
+/appservice/customercartcount
+47.15.12.141
+0 2 1 936 1 1599443095
+/webservice/users/login
+msnbot-157-55-39-201.search.msn.com
+0 1 0 156 1 1599318884
+/webservice/taxall
+42-110-144-179.live.vodafone.in
+0 19 9 32074 1 1600539571
+/webservice/customerall
+47.15.33.230
+0 3 2 21199 1 1600334744
+/webservice/retailerlist
+157.40.54.175
+0 1 0 0 1 1599550258
+/appservice/parentcategory
+157.40.58.193
+0 61 17 314160 1 1599375140
+/appservice/categorywiselist
+42-110-146-245.live.vodafone.in
+0 8 4 14008 1 1600363345
+/webservice/vehiclelistactive
+42-110-143-172.live.vodafone.in
+0 4 0 1196 2 1599678972
+/webservice/users/login
+117.227.52.153
+0 18 13 1844492 1 1599348538
+/appservice/categorywiselist
+202.142.81.205
+0 4 0 124 1 1600231602
+/retailerservice/login
+42-110-135-1.live.vodafone.in
+0 6 3 9363 2 1600337482
+/webservice/activedriverlist
+42-110-147-53.live.vodafone.in
+0 276 138 484837 1 1600365681
+/webservice/pendingorderserachbyvehiclemapping
+157.40.2.193
+0 382 177 2030525 2 1599744040
+/webservice/customerlist
+157.43.236.160
+0 31 6 17714 1 1600403901
+/appservice/categorywiselist
+157.43.228.234
+0 2 1 2118 1 1599400041
+/webservice/taxall
+47.15.56.172
+0 18 9 24876 1 1600329216
+/webservice/activedriverlist
+157.40.56.109
+0 43 15 733218 1 1599532316
+/appservice/productdetailsbyid
+47.15.19.154
+0 31 16 25466 1 1599647752
+/retailerservice/ordersupplybyretailer
+42-110-140-175.live.vodafone.in
+0 62 42 3548126 1 1600479641
+/appservice/customercartcount
+42-110-150-215.live.vodafone.in
+0 8 4 14355 1 1600423300
+/webservice/vehiclelistactive
+223.235.124.61
+0 39687 17620 479970874 371 1599902413
+/appservice/customercartcount
+157.43.203.162
+0 261 100 3731321 2 1599726687
+/webservice/retailer
+42-110-145-240.live.vodafone.in
+0 34 17 82826 1 1600337852
+/webservice/activedriverlist
+157.40.37.51
+0 34 11 284080 1 1599108922
+/category/img/disposable cups 
+49.37.7.199
+0 15 11 1822616 1 1600235897
+/appservice/customercartcount
+157.43.239.95
+0 90 49 2815761 3 1599539972
+/appservice/customercartcount
+157.40.63.133
+0 29 14 1336234 1 1599022687
+/appservice/customercartcount
+42-110-146-10.live.vodafone.in
+0 4 1 7904 1 1599753533
+/webservice/customerlist
+42-110-147-141.live.vodafone.in
+0 21 12 883758 1 1600482987
+/appservice/productmasterfeautredlist
+157.43.225.252
+0 93 62 4964859 2 1599700225
+/appservice/customer
+42-110-132-233.live.vodafone.in
+0 4 2 2483 1 1599583834
+/webservice/pincodelistbyid
+47.15.5.190
+0 10 5 17833 2 1600404619
+/webservice/activedriverlist
+47.15.51.84
+0 811 371 22513827 1 1598938132
+/appservice/customercartcount
+47.15.35.22
+0 74 61 6620191 1 1599486324
+/appservice/productlistbycategory
+157.43.217.24
+0 1 1 26 1 1599757315
+/webservice/pendingorderserachbyvehiclemapping
+node-115-187-47-29.alliancebroadband.in
+0 665 313 11004870 4 1599808787
+/driverservice/pendingorderlist
+47.15.14.201
+0 15 5 12248 1 1600496232
+/appservice/customercartcount
+42-110-151-249.live.vodafone.in
+0 342 220 13792819 1 1599409749
+/webservice/activedriverlist
+157.43.254.30
+0 50 24 2462127 1 1600488495
+/appservice/categorywiselist
+42-110-144-71.live.vodafone.in
+0 259 112 206681 3 1598980180
+/webservice/retailerlist
+17.232.9.170
+0 101 91 8550509 2 1599465075
+/product/img/AMUL - KOOL CAFÉ - MILK 
+42-110-151-57.live.vodafone.in
+0 29 17 713397 1 1599544563
+/webservice/customerall
+47.15.2.247
+0 18 9 14520 3 1600329105
+/webservice/pendingorderserachbyvehiclemapping
+47.15.31.141
+0 32 15 51374 2 1600063130
+/webservice/orderlist
+157.43.237.113
+0 58 30 2551940 1 1600178666
+/appservice/productlistbycategory
+157.40.43.97
+0 5 2 90 1 1600491778
+/appservice/parentcategory
+47.15.12.148
+0 15 7 8965 2 1600285187
+/webservice/pendingorderserachbyvehiclemapping
+42-110-145-70.live.vodafone.in
+0 412 315 39500409 2 1600479581
+/appservice/customercartcount
+42-110-140-22.live.vodafone.in
+0 9 6 928515 2 1599409658
+/category/img/UTENSIL SCRUB PAD 
+42-110-139-92.live.vodafone.in
+0 9 2 281 1 1600478861
+/appservice/customervalidate
+157.43.230.69
+0 2 0 150 1 1599015877
+/appservice
+17.232.9.120
+0 2 1 71 1 1599604197
+/appservice/login
+157.40.37.33
+0 4 1 2194 1 1599535294
+/webservice/retailerlist
+157.40.59.185
+0 146 67 4050511 1 1599132739
+/appservice/parentcategory
+47.15.50.54
+0 195 96 5213007 1 1599030929
+/appservice/categorywiselist
+47.15.25.228
+0 30 19 54689 1 1600427822
+/webservice/vehiclelistactive
+47.15.46.220
+0 85 39 1688450 1 1598927989
+/appservice/customercartcount
+node-116-193-134-9.alliancebroadband.in
+0 15 7 45918 1 1599050959
+/driverservice/completedorderlist
+157.40.34.120
+0 306 262 35257860 2 1599000790
+/appservice/customercartcount
+157.40.46.231
+0 112 51 4356641 1 1599533419
+/appservice/customercartcount
+42-110-145-116.live.vodafone.in
+0 32 16 56032 1 1600361125
+/webservice/vehiclelistactive
+173.44.49.122.static.quadranet.com
+0 2 0 52 1 1600232030
+/driverservice/login
+157.40.37.207
+0 137 89 12907062 1 1599118876
+/appservice/parentcategory
+157.43.215.209
+0 3 3 1029 1 1599666436
+/webservice/vehicleselectbyrow
+47.15.39.36
+0 16 7 11648 1 1599791785
+/webservice/activedriverlist
+157.43.225.200
+0 387 183 2302388 2 1599551043
+/driverservice/driverdetails
+msnbot-207-46-13-164.search.msn.com
+0 1 0 161 1 1599318883
+-
+42-110-150-242.live.vodafone.in
+0 8 4 14355 1 1600415455
+/webservice/vehiclelistactive
+47.15.34.226
+0 294 60 389002 1 1598940071
+/product/img/MOMS MAGIC COOKIES - CASHEW 
+157.43.225.3
+0 3 2 646 1 1600433476
+/webservice/ordermasterdrivervehiclebulkmapping
+kol-43.239.80.113.pmpl-broadband.net
+0 10 5 12104 1 1599025240
+/appservice/customercartcount
+42-110-133-17.live.vodafone.in
+0 2 1 2301 1 1599590494
+/webservice/orderfulldetailsbyid
+157.43.250.128
+0 5 5 113959 1 1598941946
+/appservice/productlistbycategory
+43.239.80.180
+0 112 52 1907698 1 1599705011
+/appservice/customercartcount
+157.40.33.243
+0 15 5 12240 1 1599292130
+/appservice/customercartcount
+157.43.226.230
+0 5 5 2511 1 1600327692
+/webservice/pendingorderserachbyvehiclemapping
+49.37.7.75
+0 84 51 5686966 1 1600060613
+/appservice/categorywiselist
+42-110-146-86.live.vodafone.in
+0 60 30 138070 1 1600340244
+/webservice/vehiclelistactive
+157.40.50.94
+0 624 301 7342183 16 1599459802
+/webservice/products
+112-79-62-136.live.vodafone.in
+0 3 1 424 1 1599799555
+/webservice
+47.15.59.15
+0 65 39 180930 1 1599647769
+/retailerservice/ordersupplybyretailer
+ns0.wishnet.in
+0 4230 1743 29508262 29 1600155513
+/webservice/cmslisting
+47.15.62.174
+0 2 1 10289 1 1599879757
+/webservice/orderlist
+42-110-146-239.live.vodafone.in
+0 19 6 90499 1 1598961884
+/product/img/FIAMA - SHOWER GEL - BLACKCURRANT 
+157.43.253.48
+0 65 54 6437453 1 1600249841
+/appservice/customercartcount
+42-110-151-26.live.vodafone.in
+0 224 110 766037 1 1599849442
+/webservice/orderlist
+msnbot-207-46-13-157.search.msn.com
+0 1 0 165 1 1599399064
+-
+157.40.60.159
+0 30 7 151879 1 1599718258
+/appservice/customercartcount
+node-103-252-164-109.alliancebroadband.in
+0 14 7 2032 1 1599813828
+/driverservice/pendingorderlist
+157.40.46.38
+0 686 347 10995173 10 1599473429
+/webservice/products
+157.40.63.89
+0 173 97 4634786 1 1599027525
+/appservice/categorywiselist
+42-110-152-82.live.vodafone.in
+0 14 9 8894 4 1599032461
+/webservice/retaileraddedit
+42-110-141-116.live.vodafone.in
+0 41 20 83451 1 1600479943
+/appservice/ccavRequestHandler
+157.40.46.170
+0 15 5 12240 1 1599485002
+/appservice/customercartcount
+42-110-140-160.live.vodafone.in
+0 38 19 97237 2 1599850829
+/webservice/orderlist
+157.40.63.161
+0 163 70 11007104 1 1599224719
+/appservice/customercartcount
+157.43.236.233
+0 1 1 1819 1 1599318817
+/webservice/taxall
+42-110-144-210.live.vodafone.in
+0 12 6 26948 1 1600335512
+/webservice/activedriverlist
+157.40.33.199
+0 12 5 22952 1 1598931919
+-
+42-110-146-187.live.vodafone.in
+0 12 6 27614 1 1600357428
+/webservice/vehiclelistactive
+157.40.44.37
+0 35 7 18541 1 1599529277
+/category/img/BREAKFAST 
+157.43.243.146
+0 107 54 3565190 1 1599825473
+/appservice/customercartcount
+47.15.34.47
+0 43 19 87432 2 1600431232
+/webservice/vehiclelistactive
+47.15.22.102
+0 59 30 25507 1 1599814813
+/appservice/customer
+42-110-147-237.live.vodafone.in
+0 31 16 61315 1 1600337148
+/webservice/orderlist
+223.191.55.229
+0 480 259 13217318 6 1600487011
+/appservice/customercartcount
+42-110-151-251.live.vodafone.in
+0 4 2 13728 1 1599640414
+/webservice/orderlist
+157.40.35.53
+0 130 40 361814 1 1598926705
+-
+42-110-148-39.live.vodafone.in
+0 11 6 25515 1 1599645922
+/webservice/orderlist
+157.43.220.220
+0 14 11 6272 3 1599641864
+/webservice/vehicleselectbyrow
+42-110-131-103.live.vodafone.in
+0 4 2 13767 1 1600065923
+/webservice/orderlist
+47.15.57.157
+0 118 93 10909915 1 1600425711
+/appservice/customercartcount
+42-110-151-116.live.vodafone.in
+0 8 4 25609 1 1599801231
+/webservice/orderlist
+157.43.195.19
+0 31 14 50964 3 1599794284
+/appservice/customercartlist
+42-110-148-112.live.vodafone.in
+0 4 2 13819 1 1599841355
+/webservice/orderlist
+17.232.6.254
+0 19 13 1824079 1 1599749393
+/appservice/customercartcount
+157.43.243.217
+0 7 6 20515 1 1599642416
+/webservice/vechicleinsertupdate
+104.223.94.58.static.quadranet.com
+0 57 44 4991680 1 1599464079
+/appservice/customercartcount
+42-110-142-236.live.vodafone.in
+0 2 2 895727 0 0
+-
+103.76.82.233
+0 48 29 3676758 1 1599534780
+/appservice/categorywiselist
+47.15.9.73
+0 11 6 20860 1 1599921024
+/webservice/orderlist
+47.15.63.194
+0 14 8 199919 1 1599636236
+/webservice/retailerlist
+42-110-144-4.live.vodafone.in
+0 225 112 392224 1 1600363316
+/webservice/pendingorderserachbyvehiclemapping
+42-110-146-25.live.vodafone.in
+0 12 5 16414 1 1599761262
+/webservice/activedriverlist
+157.43.241.4
+0 20 12 42981 3 1599794500
+/appservice/medicineproductserachList
+google-proxy-66-249-88-21.google.com
+0 18 13 949 1 1599124192
+/appservice/login
+42-110-150-247.live.vodafone.in
+0 401 205 935870 2 1599248945
+/webservice/mischargelisting
+47.15.50.107
+0 27 14 12617 2 1600285202
+/webservice/pendingorderserachbyvehiclemapping
+52.114.14.102
+0 25 3 3939 15 1600427098
+/webservice/ordermasterdrivervehiclebulkmapping
+42-110-147-201.live.vodafone.in
+0 5 2 10181 1 1600339409
+/webservice/vehiclelistactive
+47.15.59.103
+0 6 3 10877 1 1600404619
+/webservice/vehiclelistactive
+node-115-187-47-2.alliancebroadband.in
+0 631 421 32357462 6 1599702861
+/appservice/customercartcount
+157.40.55.225
+0 86 41 819128 1 1599111948
+/appservice/productmasterfeautredlist
+157.43.230.14
+0 1 1 343 1 1599666327
+/webservice/vehicleselectbyrow
+42-110-132-41.live.vodafone.in
+0 7 3 10527 1 1599569757
+/webservice/customerall
+47.15.32.174
+0 11 5 28120 1 1599921016
+/webservice/driver
+157.40.45.187
+0 45 22 1771496 1 1599218557
+/appservice/parentcategory
+157.40.38.73
+0 19 6 15160 1 1599381456
+/appservice/categorywiselist
+42-110-153-178.live.vodafone.in
+0 4 3 1567 1 1599243419
+/webservice/mischargelisting
+42-110-145-141.live.vodafone.in
+0 4 2 1941 1 1599315824
+/webservice/taxselect
+42-110-144-58.live.vodafone.in
+0 28 14 30871 1 1600331723
+/webservice/vehiclelistactive
+node-103-252-164-69.alliancebroadband.in
+0 30 14 57763 2 1600159350
+/driverservice/driverdetails
+49.37.7.239
+0 157 109 11661793 1 1599827165
+/appservice/categorywiselist
+157.43.247.26
+0 90 43 2565449 2 1599725438
+/webservice/retailer
+42-110-144-53.live.vodafone.in
+0 4 2 2077 1 1598983223
+/webservice/retailer
+157.43.210.7
+0 3 1 2417 1 1599400046
+/webservice/taxall
+42-110-147-109.live.vodafone.in
+0 175 85 302615 1 1600359678
+/webservice/vehiclelistactive
+42-110-148-64.live.vodafone.in
+0 14 7 21446 1 1600062666
+/webservice/customerlist
+42-110-149-158.live.vodafone.in
+0 42 17 93595 1 1599590876
+/webservice/orderlist
+42-110-149-2.live.vodafone.in
+0 52 26 179023 1 1599843675
+/webservice/activedriverlist
+157.43.228.244
+0 31 26 3836438 1 1600001142
+/appservice/categorywiselist
+157.40.51.105
+0 81 40 1283719 1 1598959515
+/appservice/parentcategory
+157.40.49.71
+0 1 0 0 1 1599026190
+/appservice/parentcategory
+157.40.57.7
+0 1 0 0 1 1598928148
+/appservice/parentcategory
+157.43.227.128
+0 4 3 1200 2 1599625456
+-
+47.15.37.16
+0 2 1 2219 1 1600175847
+/webservice/retailerlist
+47.15.9.82
+0 2 2 873746 0 0
+-
+223.191.49.50
+0 163 98 7063334 2 1600483915
+/appservice/customercartlist
+42-110-149-207.live.vodafone.in
+0 20 5 61600 1 1599572640
+/webservice/parentcategorylist
+42-110-151-105.live.vodafone.in
+0 83 29 1718226 1 1599574752
+/webservice/driverselectrow/14
+47.15.31.172
+0 6 4 17044 1 1599791785
+/webservice/orderlist
+google-proxy-66-249-88-15.google.com
+0 20 10 730 1 1599124190
+/appservice/login
+47.15.57.115
+0 30 19 1837843 1 1600154053
+/appservice/customercartcount
+157.40.58.104
+0 12 8 593474 1 1598970410
+/appservice/customercartcount
+157.40.63.17
+0 71 23 708875 1 1599293846
+/appservice/parentcategory
+157.40.59.125
+0 244 164 12736186 1 1599105035
+/appservice/parentcategory
+103.218.171.18
+0 470 238 12071109 9 1599113038
+/appservice/customercartcount
+42-110-151-156.live.vodafone.in
+0 331 100 4604662 1 1599571719
+/webservice/banner/2
+157.40.51.161
+0 91 34 1865231 1 1598923122
+/appservice/productmasterfeautredlist
+47.11.190.46
+0 1 1 250 1 1599926278
+/webservice/ordermasterdrivervehiclebulkmapping
+42-110-134-233.live.vodafone.in
+0 24 5 12888 1 1599649787
+/webservice/driver
+157.43.216.122
+0 314 141 6418375 4 1599551029
+/driverservice/completedorderlist
+47.15.0.225
+0 4 2 13767 1 1600088166
+/webservice/orderlist
+157.43.200.166
+0 74 55 6242672 2 1599700225
+/appservice/customer
+42-110-146-181.live.vodafone.in
+0 49 30 2240685 1 1599044123
+-
+157.40.51.181
+0 136 45 2321248 1 1598933153
+/appservice/parentcategory
+157.40.48.132
+0 15 5 12248 1 1599792888
+/appservice/customercartcount
+157.40.47.53
+0 75 40 2909824 1 1599185250
+/appservice/customercartcount
+157.40.47.49
+0 398 162 8502092 1 1599041631
+/appservice/productmasterfeautredlist
+49.37.11.199
+0 50 41 5646845 1 1599953123
+/appservice/customercartcount
+47.15.32.28
+0 4 2 13767 1 1600144225
+/webservice/orderlist
+47.15.7.29
+0 76 52 3813929 1 1599486513
+/appservice/customercartcount
+223.191.21.206
+0 46 11 35668 1 1600510377
+/appservice/customercartcount
+42-110-144-30.live.vodafone.in
+0 428 216 781012 1 1600368584
+/webservice/vehiclelistactive
+42-110-146-77.live.vodafone.in
+0 65 33 118805 1 1600333055
+/webservice/vehiclelistactive
+kol-43.251.171.184.pmpl-broadband.net
+0 98 65 6814828 2 1599797912
+/appservice/customercartcount
+42-110-158-177.live.vodafone.in
+0 1 1 3478 1 1600339419
+/webservice/activedriverlist
+157.40.41.244
+0 15 5 12248 1 1600233868
+/appservice/customercartcount
+42-110-146-205.live.vodafone.in
+0 57 31 139173 1 1600360808
+/webservice/ordermasterpendingselectroute
+42-110-132-137.live.vodafone.in
+0 8 4 24263 1 1599548981
+/webservice/customerlist
+49.37.3.146
+0 34 18 321718 1 1599041624
+/webservice/customerlist
+47.15.37.145
+0 66 37 990723 2 1599817877
+/appservice/customer
+157.40.34.105
+0 208 73 2344676 1 1599378904
+/category/img/SHOWER GEL 
+47.15.9.112
+0 4 2 13767 1 1600144225
+/webservice/activedriverlist
+157.40.44.31
+0 31 19 1126165 1 1599383144
+/appservice/categorywiselist
+157.40.54.11
+0 48 14 675040 1 1599543738
+/appservice/customercartcount
+157.40.53.199
+0 27 10 43110 1 1599021605
+/appservice/productmasterfeautredlist
+47.15.8.75
+0 2 1 3478 1 1599879757
+/webservice/activedriverlist
+42-110-149-214.live.vodafone.in
+0 109 96 8869984 1 1600239481
+/appservice/productmasterfeautredlist
+42-110-145-15.live.vodafone.in
+0 26 12 22274 1 1599498288
+/webservice/retailerlist
+42-110-147-137.live.vodafone.in
+0 100 52 182104 1 1600361724
+/webservice/vehiclelistactive
+47.15.56.185
+0 14 8 26731 2 1600063130
+/webservice/activedriverlist
+# End Of Table - sites (monthly)
+# -sites- (daily)
+42-110-146-13.live.vodafone.in
+0 16 8 12876 1 1600480034
+/appservice/customercartcount
+42-110-144-179.live.vodafone.in
+0 19 9 32074 1 1600539571
+/webservice/customerall
+42-110-140-175.live.vodafone.in
+0 62 42 3548126 1 1600479641
+/appservice/customercartcount
+42-110-147-141.live.vodafone.in
+0 21 12 883758 1 1600482987
+/appservice/productmasterfeautredlist
+47.15.14.201
+0 15 5 12248 1 1600496232
+/appservice/customercartcount
+157.43.254.30
+0 50 24 2462127 1 1600488495
+/appservice/categorywiselist
+157.40.43.97
+0 5 2 90 1 1600491778
+/appservice/parentcategory
+42-110-145-70.live.vodafone.in
+0 412 315 39500409 2 1600479581
+/appservice/customercartcount
+42-110-139-92.live.vodafone.in
+0 9 2 281 1 1600478861
+/appservice/customervalidate
+42-110-141-116.live.vodafone.in
+0 41 20 83451 1 1600479943
+/appservice/ccavRequestHandler
+223.191.55.229
+0 79 33 64045 3 1600487011
+/appservice/customercartcount
+42-110-142-236.live.vodafone.in
+0 2 2 895727 0 0
+-
+223.191.49.50
+0 163 98 7063334 2 1600483915
+/appservice/customercartlist
+223.191.21.206
+0 46 11 35668 1 1600510377
+/appservice/customercartcount
+# End Of Table - sites (daily)
+# -referrers- 
+http://localhost:4200/
+0 7094
+http://localhost/menu/dashboard/subcategory
+0 1588
+http://localhost/menu/home
+0 123
+http://localhost/menu/dashboard/myorder
+0 112
+http://localhost/menu/dashboard/product-details
+0 91
+http://localhost/menu/more
+0 9
+http://localhost:8101/registration
+0 4
+http://localhost/menu/disclaimer
+0 5
+http://localhost:8101/login
+0 5
+http://localhost/menu/terms-and-conditions
+0 1
+https://service.onlyalibaba.in/vehicle/img/no.jpg
+0 1
+http://localhost/menu/about
+0 22
+https://service.onlyalibaba.in/appservice/ccavResponseHandler
+0 1
+http://localhost/menu/dashboard/user-registration
+0 8
+http://localhost:8100/menu/about
+0 59
+http://localhost:8100/menu/dashboard/user-registration
+0 64
+http://localhost/
+0 41
+http://localhost:8100/menu/user-registration
+0 100
+http://localhost/menu/dashboard/home
+0 6045
+http://localhost/order-complete
+0 58
+http://localhost/menu/dashboard/contact
+0 2
+http://localhost/menu/user-registration
+0 66
+http://localhost:8100/registration
+0 60
+http://localhost:8100/menu/home
+0 912
+http://localhost/menu/contact
+0 24
+- (Direct Request)
+0 377
+http://localhost:8101/menu/more
+0 3
+http://localhost/menu/dashboard/cart
+0 453
+http://localhost:8101/menu/home
+0 28
+http://localhost:8100/menu/dashboard/product-details
+0 21
+http://localhost/menu/cart
+0 49
+http://localhost/registration
+0 74
+http://localhost/product-details
+0 4
+https://service.onlyalibaba.in/webservice
+0 1
+http://localhost/menu/dashboard/category
+0 1343
+http://localhost/oreder-details
+0 4
+http://localhost:8100/menu/dashboard/category
+0 440
+http://localhost:8100/menu/dashboard/home
+0 1449
+http://localhost/menu/privacy-policy
+0 8
+http://localhost:8101/menu/dashboard/home
+0 31
+http://localhost:8100/menu/favorites
+0 27
+http://localhost:8100/login
+0 80
+http://localhost:8100/product-details
+0 73
+http://localhost:8100/add-address
+0 6
+http://localhost/login
+0 125
+http://localhost/menu/favorites
+0 4
+http://localhost:8100/menu/dashboard/subcategory
+0 311
+http://localhost:8100/order-complete
+0 2
+http://backend.onlyalibaba.in/
+0 2358
+http://localhost/menu/dashboard/refer
+0 3
+http://localhost:8100/home
+0 10
+http://localhost:8100/menu/more
+0 18
+http://localhost:8100/menu/dashboard/cart
+0 91
+http://localhost:8101/menu/dashboard/category
+0 25
+http://localhost:8100/menu/contact
+0 51
+http://localhost/menu/profile
+0 2
+https://test.ccavenue.com/receive/100/servlet/BankRespReceive
+0 9
+https://service.onlyalibaba.in/webservice/products/43013
+0 2
+http://localhost:8100/menu/dashboard/myorder
+0 18
+http://localhost/menu/return-and-refund
+0 2
+https://service.onlyalibaba.in/appservice
+0 1
+https://backend.onlyalibaba.in/
+0 37233
+http://localhost:8101/menu/dashboard/cart
+0 21
+http://localhost/add-address
+0 29
+http://localhost:8100/menu/profile
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 9; SM-J415F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 196
+Mozilla/5.0 (Linux; Android 10; Pixel 3 XL Build/QQ3A.200805.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chro
+0 61
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+0 13958
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+0 3354
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.
+0 16
+Mozilla/5.0 (Linux; Android 10; SM-A207F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 2
+Mozilla/5.0 (iPad; CPU OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+0 101
+Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Mobile Saf
+0 1005
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 3
+Mozilla/5.0 (Linux; Android 8.0.0; ASUS_X00RD Build/OPR1.170623.032; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 19
+Mozilla/5.0 (Linux; Android 10; vivo 1933 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 1108
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 2452
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J200G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 8.1.0; SM-J260G Build/M1AJB; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4
+0 256
+Mozilla/5.0 (Linux; Android 9; Redmi 8A Dual Build/PKQ1.190319.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 1822
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+0 23670
+Mozilla/5.0 (Linux; Android 6.0; Lenovo A7700 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.
+0 3105
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Mobile Safa
+0 901
+Mozilla/5.0 (Linux; Android 8.1.0; SM-G610F Build/M1AJQ; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4
+0 109
+Mozilla/5.0 (Linux; Android 9; RVL-AL09 Build/HUAWEIRVL-AL09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/8
+0 15
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MTC20F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.
+0 57
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+0 537
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+0 371
+Mozilla/5.0 (iPad; CPU OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.
+0 40
+PostmanRuntime/7.26.3
+0 57
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+0 92
+Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Mobile Sa
+0 266
+PostmanRuntime/7.26.5
+0 56
+Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Sa
+0 325
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.5
+0 477
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+0 2237
+Mozilla/5.0 (Linux; Android 10; GM1901 Build/QKQ1.190716.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/8
+0 315
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+0 40
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+0 73
+Mozilla/5.0 (Linux; Android 9; Redmi Note 5 Pro Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+0 563
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+0 21
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Mobile Safari/537.3
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+0 26
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+0 87
+PostmanRuntime/7.26.1
+0 1
+Mozilla/5.0 (Linux; Android 9; Redmi Note 6 Pro Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+0 480
+Mozilla/5.0 (Linux; Android 10; SM-J600G Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 2212
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 793
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
