@@ -30,7 +30,7 @@
     "nodemailer": "^6.4.10",
     "nodemon": "^2.0.4",
     "oauth2": "0.0.1",
-    "pm2": "^4.4.1",
+    "pm2": "^5.2.0",
     "querystring": "^0.2.0",
     "razorpay": "^2.0.6",
     "request": "^2.88.2",
