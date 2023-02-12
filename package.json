@@ -28,7 +28,7 @@
     "mysql": "^2.18.1",
     "node-ccavenue": "^1.0.5",
     "nodemailer": "^6.4.10",
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.20",
     "oauth2": "0.0.1",
     "pm2": "^4.4.1",
     "querystring": "^0.2.0",
